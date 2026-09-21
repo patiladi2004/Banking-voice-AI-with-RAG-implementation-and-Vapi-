@@ -1,0 +1,50 @@
+{
+  "id": "2faac35f-4bcd-4bfe-8b71-6ca735edc8a5",
+  "createdAt": "2026-09-08T10:19:50.010Z",
+  "updatedAt": "2026-09-08T10:33:17.590Z",
+  "type": "function",
+  "function": {
+    "name": "retrieveKnowledge",
+    "description": "Search the bank's knowledge base for FAQ answers, step-by-step procedures, or terms and conditions matching the user's question. Always call this before answering any banking-specific question.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "query": {
+          "description": "The user's question, rephrased as a clean search query.",
+          "type": "string"
+        },
+        "category": {
+          "description": "Optional category to narrow the search, e.g. credit_card, fraud, password_access, terms_and_conditions. Leave blank if unsure.",
+          "type": "string"
+        }
+      },
+      "required": [
+        "query"
+      ]
+    }
+  },
+  "messages": [
+    {
+      "type": "request-start",
+      "blocking": false
+    }
+  ],
+  "orgId": "4f74957c-dd50-4a05-827f-f2c7fa826fd9",
+  "server": {
+    "url": "https://eatable-edge-election.ngrok-free.dev/retrieve",
+    "timeoutSeconds": 20,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "staticIpAddressesEnabled": false
+  },
+  "async": false,
+  "variableExtractionPlan": {
+    "schema": {
+      "type": "object",
+      "required": [],
+      "properties": {}
+    }
+  },
+  "latestVersion": "v3"
+}
