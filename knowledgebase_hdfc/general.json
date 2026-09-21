@@ -1,0 +1,38 @@
+[
+  {
+    "id": "gen-customer-care-numbers",
+    "category": "general",
+    "type": "faq",
+    "title": "Customer care and PhoneBanking numbers",
+    "sample_queries": [
+      "What's the customer care number?",
+      "How do I speak to a human?",
+      "I want to talk to someone at the bank directly"
+    ],
+    "answer": "You can reach PhoneBanking through the toll-free numbers 1800 1600 or 1800 2600, available across India. Card-related services, including blocking a lost card, are available 24 hours a day, all days of the week including holidays. I can also help you directly with most of what PhoneBanking handles — just let me know what you need."
+  },
+  {
+    "id": "gen-branch-visit-needed",
+    "category": "general",
+    "type": "faq",
+    "title": "When a branch visit is actually required",
+    "sample_queries": [
+      "Do I need to go to a branch for this?",
+      "Can this be done without visiting the bank?",
+      "Is there anything I can only do in person?"
+    ],
+    "answer": "Most day-to-day needs — blocking a card, resetting a password, reporting fraud — can be handled online or by phone without visiting a branch. A branch visit is generally only needed if you don't have access to your registered mobile number, or for certain account-opening or KYC-related processes. If your situation needs one, I'll let you know rather than sending you in unnecessarily."
+  },
+  {
+    "id": "gen-scope-disclaimer",
+    "category": "general",
+    "type": "faq",
+    "title": "What this assistant can and cannot help with",
+    "sample_queries": [
+      "Can you help me apply for a loan?",
+      "Can you change my address on file?",
+      "What can you actually do?"
+    ],
+    "answer": "I can help with common self-service needs like blocking a card, reporting a suspicious transaction, and resetting your password or unlocking your account, and I can walk you through each step live. For things like loan applications, KYC updates, or anything involving account ownership changes, I'll point you to the right channel or connect you with a representative rather than attempt it myself."
+  }
+]

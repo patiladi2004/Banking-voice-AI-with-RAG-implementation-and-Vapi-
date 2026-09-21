@@ -1,0 +1,146 @@
+[
+  {
+    "id": "atm-8-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.1",
+    "title": "ATM Usable Card - fees and charges recovery",
+    "text": "I agree that all fees/taxes/surcharges/service charges and all other levies related to the ATM usable Card may be recovered by the Bank by debit to my/our account."
+  },
+  {
+    "id": "atm-8-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.2",
+    "title": "ATM Usable Card - transaction responsibility",
+    "text": "I will be responsible for all types of transactions processed by use of my ATM usable Card, whether or not processed with my knowledge or authority, express or implied. I shall accept the Bank's record of transactions as conclusive and binding for all purposes."
+  },
+  {
+    "id": "atm-8-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.3",
+    "title": "ATM Usable Card - cash withdrawal limits",
+    "text": "I will be allowed to withdraw through the ATM, the available balance in my account or a stipulated predefined limit per day, whichever is lower. This per day limit will be determined by the Bank and may be changed at any time at the Bank's sole discretion without notice to me. I agree that cash withdrawals will be subject to tax as applicable from time to time."
+  },
+  {
+    "id": "atm-8-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.4",
+    "title": "ATM Usable Card - overdrawn accounts",
+    "text": "I agree not to attempt to overdraw cash from the ATM unless sufficient funds are available in my account for effecting the transactions. The onus of ensuring adequate account balances is entirely on me. In case my account gets overdrawn due to cash withdrawal from the ATM, I agree to rectify the account balance position immediately. In case my/our account gets overdrawn, the Bank may levy interest at prime lending rate applicable from time to time and the same shall be charged on the debit balance on my account."
+  },
+  {
+    "id": "atm-8-5-a",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.5(a)",
+    "title": "ATM Usable Card - receipt for transactions",
+    "text": "I agree that a receipt will be produced by the ATM for all cash/cheque deposits/withdrawals/other transactions and that no separate receipt will be issued by the Bank. The amount of deposit will be verified by the Bank's staff/authorised representative, and this verified amount shall be deemed to be the correct amount and binding on me conclusively."
+  },
+  {
+    "id": "atm-8-5-b",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.5(b)",
+    "title": "ATM Usable Card - no cash in cheque drop box",
+    "text": "I shall not deposit any cash in a Cheque Drop Box nor deposit any cash/cheque in a Drop Box meant for collecting other documents/payments. I agree and acknowledge that in case I deposit any cash/cheque in the wrong Drop Box then the Bank shall not be liable for the same."
+  },
+  {
+    "id": "atm-8-5-c",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.5(c)",
+    "title": "ATM Usable Card - no receipt for cheque deposits in drop box",
+    "text": "I acknowledge that no receipt will be issued for any cheque deposits in the Drop Box. I understand that the Bank will process the cheque deposited in the ATM machine or Cheque Drop Box on the basis of the information provided by me in the Pay-in slip duly filled by me, The Bank will not be held responsible for any non-credits/wrong credits due to incorrect information provided by me in this regards. I shall hold the Bank harmless for any consequences arising thereof."
+  },
+  {
+    "id": "atm-8-6-a",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.6(a)",
+    "title": "ATM Usable Card - PIN issuance and receipt",
+    "text": "To enable me to use the Card at ATMs, a Personal Identification Number (PIN) will be issued to me. The PIN shall be mailed to me and I will ensure that the same is received in a sealed envelope."
+  },
+  {
+    "id": "atm-8-6-b",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.6(b)",
+    "title": "ATM Usable Card - PIN change and confidentiality",
+    "text": "The PIN may subsequently, be changed by me, at my own risk, at an ATM. The security of the PIN is very important and that I must keep it confidential and not reveal to any third party. If I fail to observe these security requirements, I shall be responsible and liable for any consequences arising there from."
+  },
+  {
+    "id": "atm-8-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.7",
+    "title": "ATM Usable Card - card validity and ownership",
+    "text": "I agree that the ATM usable Card at all times is the Bank's property. The validity period of the ATM usable Card will be mentioned on the face of the Card. I agree to surrender the Card to the Bank in case of account closure or whenever demanded by the Bank for any reason whatsoever."
+  },
+  {
+    "id": "atm-8-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.8",
+    "title": "ATM Usable Card - lost card reporting",
+    "text": "In case my ATM usable Card is misplaced, stolen or otherwise lost, I agree to immediately report the event in writing to the Bank/call up PhoneBanking. The Bank shall not be liable for any loss by the misuse of the Card prior to the Card being reported as lost/stolen by me."
+  },
+  {
+    "id": "atm-8-9",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.9",
+    "title": "ATM Usable Card - security and custody",
+    "text": "I agree that the Card will be dispatched to the address on record with the Bank. I agree to keep ATM usable Card in Safe custody and agree not to hand over the Card to anyone including anyone who claims to represent the Bank. I understand that the Bank shall not be responsible for any misuse of the Card by virtue of the same falling into wrong hands prior to the Card being reported as lost/stolen by me."
+  },
+  {
+    "id": "atm-8-10",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.10",
+    "title": "ATM Usable Card - wrong entries to account",
+    "text": "In case I notice that a wrong entry has been debited to my account for ATM transactions done by me, I would immediately raise the issue with the branch where my account is maintained (Account Branch). I understand that the Bank will investigate and revert to me with its findings and decision of the Bank shall be final and binding on me."
+  },
+  {
+    "id": "atm-8-11",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.11",
+    "title": "ATM Usable Card - audit trail final and conclusive",
+    "text": "I agree that in case of any dispute the Bank will be using the Audit Trail of the ATM (either in a Printed/non-editable Electronic Form) as the final and conclusive evidence in all disputes. I agree to abide by the recordings of the Audit Trail."
+  },
+  {
+    "id": "atm-8-12",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.12",
+    "title": "ATM Usable Card - mutilated/torn/cut currency notes exchange",
+    "text": "In case, I receive a mutilated/torn/cut currency note(s) from the ATM, I will visit the account branch and exchange the note(s) by submitting a letter and the transaction slip and confirming that I transacted at the ATM. I accept that any other form of claim will not be entertained by the Bank."
+  },
+  {
+    "id": "atm-8-13-a",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.13(a)",
+    "title": "ATM Usable Card - forged/mutilated/torn notes in deposits no credit",
+    "text": "In case the Bank finds a Forged/Mutilated/Torn Note in the Deposit that I make through the ATM/Teller counter then the Bank will not give me the Credit corresponding to the value of the Forged/Mutilated/Torn Note."
+  },
+  {
+    "id": "atm-8-13-b",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.13(b)",
+    "title": "ATM Usable Card - forged notes not returned, mutilated notes may be returned",
+    "text": "I understand that the Bank will also not give me the Forged Note back. However, based on my written request, the Bank will return the Mutilated/Torn Note back to me."
+  },
+  {
+    "id": "atm-8-13-c",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.13(c)",
+    "title": "ATM Usable Card - compliance with RBI guidelines on forged notes",
+    "text": "The Bank will also comply with all the requirements/guidelines on reporting to authorities as per the guidelines issued by Reserve Bank of India."
+  }
+]

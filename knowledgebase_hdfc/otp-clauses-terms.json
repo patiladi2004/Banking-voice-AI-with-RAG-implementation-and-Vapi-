@@ -1,0 +1,66 @@
+[
+  {
+    "id": "otp-1-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.1",
+    "title": "OTP Clauses - Bank may send communication to registered mobile number",
+    "text": "The Bank may at its sole discretion send any communication, Password (as defined hereinafter) or any other information to the Customer's registered mobile number or any other mobile number, which it may have in its records or otherwise, as it deems appropriate. The Bank may, at its sole discretion, update the registered mobile number in its records without any prior intimation or approval of the Customer. In case of multiple accounts held with the Bank, the Bank has the right to update the Customer's registered mobile number from any account held with the Bank by the Customer."
+  },
+  {
+    "id": "otp-1-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.2",
+    "title": "OTP Clauses - Password/OTP for authentication and transactions",
+    "text": "The Bank may at its discretion send the Customer a password, code or One Time Password (OTP) or passcode (collectively, Password) as a method of authenticating the identity of the Customer as also for enabling the Customer to transact with the Bank or complete transactions with the Bank by using such Password, including signing, accepting, authenticating of any loan or security contract, applicable or any other document, will be binding upon the Customer."
+  },
+  {
+    "id": "otp-1-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.3",
+    "title": "OTP Clauses - Bank not responsible for password entry failure",
+    "text": "The Bank does not assume any responsibility whatsoever in case of failure on behalf of the Customer to correctly enter the Password. The Bank further does not assume any responsibility whatsoever in case the Customer lapses in safe keeping of the Password or in case of any misuse or unauthorized use of the Password."
+  },
+  {
+    "id": "otp-1-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.4",
+    "title": "OTP Clauses - Bank not responsible for mobile network issues",
+    "text": "The Bank is not responsible for any failure in the transaction on account of any problem with the Customer's mobile phone network or any other issue in the mobile phone or the SIM card of the Customer, over which the Bank has no control."
+  },
+  {
+    "id": "otp-1-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.5",
+    "title": "OTP Clauses - Customer responsibility for mobile phone and SIM card",
+    "text": "The Customer shall keep the Customer's mobile phone or SIM card active, safe and in the possession of the Customer at all times. The Customer shall not allow the use of the Customer's mobile phone or SIM card by any other person."
+  },
+  {
+    "id": "otp-1-6-a",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.6(a)",
+    "title": "OTP Clauses - loss or theft of mobile phone/SIM card procedure",
+    "text": "In case of any loss or theft of the Customer's mobile phone and/or SIM card, the Customer shall de-register or block such a mobile phone and/or the SIM card with its service provider on an urgent and immediate basis. The Customer shall also inform the Bank of such a loss or theft. The Bank shall not be responsible for any unauthorized use of the mobile phone or SIM card on account of such loss or theft."
+  },
+  {
+    "id": "otp-1-6-b",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.6(b)",
+    "title": "OTP Clauses - password and data confidentiality",
+    "text": "The Customer is obligated to keep the mobile phone and the data therein and Passwords and usage thereof confidential at all times and shall ensure that the mobile phone and the data therein is not shared with any other person under any circumstances."
+  },
+  {
+    "id": "otp-1-6-c",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.6(c)",
+    "title": "OTP Clauses - no copy or duplicate of mobile phone data",
+    "text": "The Customer shall not create a copy or duplicate of the data in the mobile phone or save such data except for the purposes of using the same as permitted or required by the Bank."
+  }
+]

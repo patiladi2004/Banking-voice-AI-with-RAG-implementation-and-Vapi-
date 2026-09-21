@@ -1,0 +1,50 @@
+[
+  {
+    "id": "forex-view-card",
+    "category": "forex_card",
+    "type": "faq",
+    "title": "Viewing your Forex Card on NetBanking",
+    "sample_queries": [
+      "Where can I see my forex card?",
+      "How do I check my forex card details online?",
+      "Can I view my forex card on NetBanking?"
+    ],
+    "answer": "You can view your Forex Card details by going to Cards, then selecting Forex Card."
+  },
+  {
+    "id": "forex-reload-card",
+    "category": "forex_card",
+    "type": "faq",
+    "title": "Reloading a Forex Card",
+    "sample_queries": [
+      "How do I reload my forex card?",
+      "I need to add money to my forex card",
+      "Can I top up my forex card online?"
+    ],
+    "answer": "You can reload your Forex Card by going to Cards, then Forex Card, and selecting Reload Card for the card in question."
+  },
+  {
+    "id": "forex-manage-card",
+    "category": "forex_card",
+    "type": "faq",
+    "title": "Managing a Forex Card",
+    "sample_queries": [
+      "How do I manage my forex card settings?",
+      "Where do I manage my forex card?",
+      "I want to change something on my forex card"
+    ],
+    "answer": "You can manage your Forex Card by going to Cards, then Forex Card, and selecting Manage Card for the card in question."
+  },
+  {
+    "id": "forex-purchase-card",
+    "category": "forex_card",
+    "type": "faq",
+    "title": "Purchasing a new Forex Card",
+    "sample_queries": [
+      "How do I buy a forex card?",
+      "Can I apply for a forex card online?",
+      "I want to get a forex card for my trip"
+    ],
+    "answer": "You can apply for a Forex Card by going to Cards, then Forex Card, and selecting Buy Forex Card under Quick Links."
+  }
+]

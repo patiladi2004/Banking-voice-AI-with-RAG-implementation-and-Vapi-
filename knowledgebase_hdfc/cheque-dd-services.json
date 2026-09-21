@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cheque-request-new-book",
+    "category": "cheque_dd_services",
+    "type": "procedure",
+    "title": "Requesting a new cheque book online",
+    "sample_queries": [
+      "How do I order a new cheque book?",
+      "I need to request a cheque book online",
+      "Can I get a new chequebook through NetBanking?"
+    ],
+    "overview": "Guides the user through requesting a new cheque book via NetBanking.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to HDFC NetBanking and go to Accounts at the top of the screen.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Select the Quick Link for Cheque & DD Services.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Select Request Cheque Book and choose the number of leaves you'd like.", "wait_for_confirmation": true },
+      { "step_number": 4, "instruction": "Submit the request. It will be delivered to your registered mailing or permanent address.", "wait_for_confirmation": false }
+    ],
+    "notes": "If the registered address isn't current, it should be updated first through the address update option, since that's where the cheque book will be sent."
+  },
+  {
+    "id": "cheque-book-leaves-options",
+    "category": "cheque_dd_services",
+    "type": "faq",
+    "title": "How many cheque leaves can be ordered",
+    "sample_queries": [
+      "How many cheques can I order at once?",
+      "Can I choose how many leaves are in my cheque book?",
+      "What are the cheque book size options?"
+    ],
+    "answer": "For a savings account, you can order a cheque book of 25 leaves. For a current account, you can choose 25, 50, 75, or 100 leaves. Charges and available leaf counts vary by account type, so it's worth checking the bank's charges page for exact pricing on your account."
+  },
+  {
+    "id": "cheque-book-delivery-address",
+    "category": "cheque_dd_services",
+    "type": "faq",
+    "title": "Where a requested cheque book gets delivered",
+    "sample_queries": [
+      "Where will my cheque book be sent?",
+      "Can I get my cheque book at a different address?",
+      "Does the cheque book go to my registered address?"
+    ],
+    "answer": "Your cheque book is delivered to whichever mailing or permanent address you have registered with the bank. If that address isn't up to date, you'll want to update it online before requesting the cheque book, so it doesn't get sent to the wrong place."
+  },
+  {
+    "id": "cheque-book-delivery-time",
+    "category": "cheque_dd_services",
+    "type": "faq",
+    "title": "How long a new cheque book takes to arrive",
+    "sample_queries": [
+      "How long does a cheque book take to arrive?",
+      "When will my cheque book reach me?",
+      "How many days for cheque book delivery?"
+    ],
+    "answer": "For an Indian mailing address in a metro location, expect delivery within about 4 working days. For non-metro locations within India, it can take 7 to 10 working days. For an overseas mailing address, the cheque book is sent by registered airmail and dispatched within 2 working days."
+  },
+  {
+    "id": "cheque-view-status",
+    "category": "cheque_dd_services",
+    "type": "procedure",
+    "title": "Checking the status of a cheque",
+    "sample_queries": [
+      "How do I check the status of a cheque?",
+      "Has my cheque cleared yet?",
+      "I want to track a cheque I issued"
+    ],
+    "overview": "Guides the user through viewing the status of a cheque online.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to HDFC NetBanking and go to Accounts at the top of the screen.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Select the Quick Link for Cheque & DD Services.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Select View Cheque Status and enter the cheque details to see its current status.", "wait_for_confirmation": false }
+    ]
+  },
+  {
+    "id": "cheque-stop-payment",
+    "category": "cheque_dd_services",
+    "type": "procedure",
+    "title": "Stopping payment on a cheque",
+    "sample_queries": [
+      "How do I stop a cheque payment?",
+      "I need to cancel a cheque I issued",
+      "Can I block a cheque from being cashed?"
+    ],
+    "overview": "Guides the user through placing a stop-payment request on a single cheque or a series of cheques.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to HDFC NetBanking and go to Accounts at the top of the screen.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Select the Quick Link for Cheque & DD Services.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Select Stop Cheque Payment and enter the cheque number, or a range if you're stopping a series.", "wait_for_confirmation": false }
+    ],
+    "notes": "This can also be reached faster from the home screen by scrolling to Urgent Care and selecting Stop Cheque Payment — worth mentioning if the caller sounds like they need this done urgently."
+  },
+  {
+    "id": "cheque-positive-pay",
+    "category": "cheque_dd_services",
+    "type": "faq",
+    "title": "What Positive Pay is and when to use it",
+    "sample_queries": [
+      "What is Positive Pay?",
+      "Should I use Positive Pay for a cheque?",
+      "Is there a fee for Positive Pay?"
+    ],
+    "answer": "Positive Pay is an extra security check designed to reduce cheque fraud — you confirm key cheque details with the bank in advance, so they can be matched when the cheque is presented. It's not mandatory, but it's recommended for any cheque above 50,000 rupees, and there's no charge for using it."
+  },
+  {
+    "id": "dd-request-daily-limit",
+    "category": "cheque_dd_services",
+    "type": "faq",
+    "title": "Daily limit on Demand Draft requests",
+    "sample_queries": [
+      "How many demand drafts can I request in a day?",
+      "Is there a limit on DD requests?",
+      "Can I request multiple demand drafts at once?"
+    ],
+    "answer": "You can request a Demand Draft up to 3 times per day."
+  },
+  {
+    "id": "dd-alternate-delivery-address",
+    "category": "cheque_dd_services",
+    "type": "faq",
+    "title": "Delivering a Demand Draft to a different address",
+    "sample_queries": [
+      "Can I get my demand draft sent somewhere other than my registered address?",
+      "How do I change the delivery address for a DD?",
+      "Can someone else receive my demand draft?"
+    ],
+    "answer": "Delivering a Demand Draft to a new address is only possible if you're registered for Third Party Transfer, or TPT. Once registered, you'll see an option to enter a new delivery address when requesting the DD. If you're not yet registered, you can do so by going to Send Money in NetBanking and clicking Register Now on the banner — that banner won't appear if you're already registered."
+  }
+]

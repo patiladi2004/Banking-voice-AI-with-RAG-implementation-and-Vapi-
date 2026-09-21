@@ -1,0 +1,244 @@
+[
+  {
+    "id": "appsec-sim-binding-overview",
+    "category": "app_device_security",
+    "type": "faq",
+    "title": "What SIM binding (mobile number verification) is and why it's required",
+    "sample_queries": [
+      "What is SIM binding?",
+      "Why do I need mobile number verification for the app?",
+      "Is SIM binding mandatory to use the app?"
+    ],
+    "answer": "SIM binding, also called mobile number verification, links your registered mobile number to your device so the app can't be accessed from an unregistered device even if someone else has your login details. It's compulsory for using the HDFC Bank App — you'll need an active SIM card with your registered number physically in the device."
+  },
+  {
+    "id": "appsec-sms-verification-mechanism",
+    "category": "app_device_security",
+    "type": "faq",
+    "title": "How the SIM binding verification SMS is sent",
+    "sample_queries": [
+      "How does the verification SMS work?",
+      "Do I get charged for the SIM binding SMS?",
+      "Can I edit the verification text before sending it?"
+    ],
+    "answer": "On Android, the app sends the verification SMS automatically. On iOS, you're taken to your messaging app with the text pre-filled — you just tap Send, choosing the right SIM within 5 seconds if you have more than one. Standard operator SMS charges apply, and you do need an active SMS pack on that SIM. If you edit the message before sending it, verification will fail and you'll need to restart the process."
+  },
+  {
+    "id": "appsec-tablets-no-sim-slot",
+    "category": "app_device_security",
+    "type": "faq",
+    "title": "Using the app on tablets or iPads without a SIM slot",
+    "sample_queries": [
+      "Can I use the app on my iPad?",
+      "Does the app work on tablets without a SIM card?",
+      "I don't have a SIM slot on my device, can I still bank?"
+    ],
+    "answer": "A device without a SIM card slot, like most iPads or tablets, can't run the HDFC Bank App, since SIM binding requires a physical registered SIM. You can still bank seamlessly through NetBanking in a browser like Chrome or Safari instead."
+  },
+  {
+    "id": "appsec-add-account-same-device",
+    "category": "app_device_security",
+    "type": "procedure",
+    "title": "Adding another Customer ID to a device already in use",
+    "sample_queries": [
+      "How do I add another account to the app on my phone?",
+      "I have one Customer ID on this device, how do I add a second?",
+      "Can I use multiple accounts on the same device?"
+    ],
+    "overview": "Guides the user through adding another Customer ID linked to the same mobile number on a device that already has one registered. Up to 3 users can share a device this way.",
+    "steps": [
+      { "step_number": 1, "instruction": "On the login page, click New.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Verify your mobile number.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Select the account you want to add.", "wait_for_confirmation": true },
+      { "step_number": 4, "instruction": "Verify using your Debit Card details or your IPIN/NetBanking password.", "wait_for_confirmation": true },
+      { "step_number": 5, "instruction": "Set your mPIN for this account. You're now set up.", "wait_for_confirmation": false }
+    ]
+  },
+  {
+    "id": "appsec-sim-change-behavior",
+    "category": "app_device_security",
+    "type": "faq",
+    "title": "What happens after changing your SIM card or mobile number",
+    "sample_queries": [
+      "I changed my SIM card, do I need to re-verify?",
+      "I got a new SIM with a new number, what do I need to do?",
+      "Do I need to re-register after switching SIMs?"
+    ],
+    "answer": "On Android, you'll need to verify your mobile number again after changing your SIM, whether or not the number itself changed, as a security check. On iOS, this usually isn't necessary — only SIM presence is checked, so you can generally log in directly with your preferred method. If you're moving to an eSIM and activate a new number, that will trigger the verification process again regardless of platform."
+  },
+  {
+    "id": "appsec-verification-blockers",
+    "category": "app_device_security",
+    "type": "faq",
+    "title": "What prevents SIM verification from completing",
+    "sample_queries": [
+      "Why isn't my SIM verification going through?",
+      "Does airplane mode affect mobile verification?",
+      "My SIM is in the phone but verification isn't working"
+    ],
+    "answer": "A few things can block verification: having the SIM toggled off in your phone's settings even though it's physically inserted, being in airplane mode, or being on Wi-Fi with the SIM's mobile data turned off. Verification needs an active SIM with mobile data actually running — if you're on Wi-Fi, the app will prompt you to turn off Wi-Fi or airplane mode so it can use the SIM properly."
+  },
+  {
+    "id": "appsec-device-binding-mandatory",
+    "category": "app_device_security",
+    "type": "faq",
+    "title": "Why device registration is mandatory",
+    "sample_queries": [
+      "Why do I have to register my device?",
+      "Can I log in without registering a device?",
+      "Is device binding required?"
+    ],
+    "answer": "Device binding is mandatory for the HDFC Bank App — it prevents unauthorized access from devices that aren't registered to you, so there's no way to log in without completing device registration first."
+  },
+  {
+    "id": "appsec-setup-pin-and-biometric",
+    "category": "app_device_security",
+    "type": "procedure",
+    "title": "Setting up your login mPIN and biometric lock",
+    "sample_queries": [
+      "How do I set my 4-digit login PIN?",
+      "How do I turn on fingerprint or Face ID login?",
+      "Can I use only biometric login without a PIN?"
+    ],
+    "overview": "Guides the user through setting the mandatory 4-digit mPIN and the optional biometric lock. Biometric can't be enabled without an mPIN already set, and is only available to the first user who enables it on a shared device.",
+    "steps": [
+      { "step_number": 1, "instruction": "Complete mobile number verification and select your Customer ID.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Verify using your Debit Card details or your IPIN/NetBanking password.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Set your 4-digit mPIN — this step is mandatory.", "wait_for_confirmation": true },
+      { "step_number": 4, "instruction": "If you'd also like biometric login, go to My Profile, then Preferences, and toggle on Fingerprint or Face ID.", "wait_for_confirmation": false }
+    ],
+    "notes": "You can use just the mPIN without biometric, but not the reverse — biometric always requires an mPIN to already be set. On a device shared by up to 3 users, only the first user to enable biometric gets to use it; the others still get their own mPIN."
+  },
+  {
+    "id": "appsec-register-without-debit-card",
+    "category": "app_device_security",
+    "type": "faq",
+    "title": "Registering for the app without a Debit Card",
+    "sample_queries": [
+      "Can I register for the app without a debit card?",
+      "I don't have my debit card, can I still set up the app?",
+      "What if I don't have a debit card for verification?"
+    ],
+    "answer": "Yes, you can register for the app on a new device using your NetBanking password instead of a debit card."
+  },
+  {
+    "id": "appsec-device-replacement-behavior",
+    "category": "app_device_security",
+    "type": "faq",
+    "title": "Switching to a new device, and what happens to the old one",
+    "sample_queries": [
+      "How do I move the app to my new phone?",
+      "I lost my phone, how do I get my account off it?",
+      "What happens to my old device when I register a new one?"
+    ],
+    "answer": "You can register a new device at any time — verify your mobile number, select your Customer ID, and validate with your Debit Card details or NetBanking password. Once that's done, your previous device is automatically deregistered, so there's no manual unlinking step needed. If your device is lost, registering on a new one accomplishes the same thing, or you can contact the bank by phone, email, or a branch visit to have your access blocked directly if you're not ready to register a replacement yet."
+  },
+  {
+    "id": "appsec-multiple-customer-ids-limit",
+    "category": "app_device_security",
+    "type": "faq",
+    "title": "Limits on how many Customer IDs one device supports",
+    "sample_queries": [
+      "How many accounts can I have on one phone?",
+      "I have more than 3 Customer IDs, how do I use them all?",
+      "Is there a limit to how many users share a device?"
+    ],
+    "answer": "A single device supports up to 3 Customer IDs at a time. If you need more than that, you have a few options: use a different device by updating your registered mobile number with the bank, use NetBanking instead, which has no such limit, or have one of the currently registered users log in and deregister to free up a slot."
+  },
+  {
+    "id": "appsec-nri-trust-corporate-access",
+    "category": "app_device_security",
+    "type": "faq",
+    "title": "App access for NRI customers and Trust/Corporate authorised signatories",
+    "sample_queries": [
+      "Can I use the app as an NRI?",
+      "I'm an authorised signatory for a corporate account, can I access it on the app?",
+      "Does the app work for trust accounts?"
+    ],
+    "answer": "Yes, both NRI customers and authorised signatories on Trust or Corporate accounts can access their accounts through the app, using the same device registration process: verify your mobile number, select your Customer ID, and validate with your Debit Card details or NetBanking password."
+  },
+  {
+    "id": "appsec-blocked-debit-card-access",
+    "category": "app_device_security",
+    "type": "faq",
+    "title": "Accessing the app with a blocked Debit Card",
+    "sample_queries": [
+      "Can I still use the app if my debit card is blocked?",
+      "My card is blocked, can I log in to the app?",
+      "Does a blocked debit card stop me from using the app?"
+    ],
+    "answer": "Yes, you can still access your account with a blocked Debit Card — just complete device registration and validate using your NetBanking password instead of card details."
+  },
+  {
+    "id": "appsec-already-registered-message",
+    "category": "app_device_security",
+    "type": "faq",
+    "title": "What the 'Customer ID already registered on another device' message means",
+    "sample_queries": [
+      "Why does it say my Customer ID is already registered elsewhere?",
+      "I'm getting a message about registering on a new device, what do I do?",
+      "It's asking if I want to deregister my previous device"
+    ],
+    "answer": "This message just means your Customer ID is currently active on a different device. You can go ahead and complete the registration process on the device you're using now — the previous one will be deregistered automatically once you do."
+  },
+  {
+    "id": "appsec-authentication-methods",
+    "category": "app_device_security",
+    "type": "faq",
+    "title": "Whether Debit Card or NetBanking password can be used interchangeably",
+    "sample_queries": [
+      "Can I use either my debit card or my NetBanking password to verify?",
+      "Do I have to use my debit card specifically to log in?",
+      "What can I use instead of my debit card for verification?"
+    ],
+    "answer": "You can authenticate using either your Debit Card details or your NetBanking password — whichever is easier for you at the time."
+  },
+  {
+    "id": "appsec-troubleshoot-inactive-number",
+    "category": "app_device_security",
+    "type": "faq",
+    "title": "SIM binding failing due to an inactive registered number",
+    "sample_queries": [
+      "SIM binding keeps failing, is my number inactive?",
+      "My registered mobile number isn't working for verification",
+      "How do I fix verification failing because my number is inactive?"
+    ],
+    "answer": "If your registered mobile number has gone inactive, verification will fail until it's reactivated. Contact your mobile network provider to get the number active again, then try verifying within the app."
+  },
+  {
+    "id": "appsec-troubleshoot-customer-id-not-shown",
+    "category": "app_device_security",
+    "type": "faq",
+    "title": "Not seeing your Customer ID when selecting your mobile number",
+    "sample_queries": [
+      "I don't see my Customer ID during registration",
+      "My account isn't showing up when I select my number",
+      "Why can't the app find my Customer ID?"
+    ],
+    "answer": "First, double-check you're selecting the SIM that actually has your bank-registered mobile number, especially if your device has more than one SIM. If that's not the issue, you'll need to visit a branch to confirm which mobile number is actually registered against your Customer ID."
+  },
+  {
+    "id": "appsec-troubleshoot-old-customer-ids-shown",
+    "category": "app_device_security",
+    "type": "faq",
+    "title": "Seeing old or unexpected Customer IDs during registration",
+    "sample_queries": [
+      "Why am I seeing an old Customer ID I don't use anymore?",
+      "There's an unfamiliar Customer ID showing up during setup",
+      "Why does the app show a Customer ID that shouldn't be linked to me?"
+    ],
+    "answer": "If a previous or unexpected Customer ID shows up on the selection page, this is a known display issue the bank is actively working to clean up, so that only relevant IDs appear going forward. It doesn't indicate anything wrong with your account security."
+  },
+  {
+    "id": "appsec-system-requirements",
+    "category": "app_device_security",
+    "type": "faq",
+    "title": "System requirements for the HDFC Bank App",
+    "sample_queries": [
+      "What phone do I need to run the HDFC Bank app?",
+      "What's the minimum iOS version for the app?",
+      "Does my Android phone meet the requirements for the app?"
+    ],
+    "answer": "For the current version of the app, you'll need an iPhone running iOS 17.2 or higher, or an Android phone running Android 10 or higher."
+  }
+]

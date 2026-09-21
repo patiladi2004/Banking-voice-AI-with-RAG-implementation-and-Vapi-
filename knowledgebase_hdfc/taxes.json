@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tax-view-tds-summary",
+    "category": "tax_services",
+    "type": "faq",
+    "title": "Viewing tax deducted at source (TDS) summary",
+    "sample_queries": [
+      "Where can I see how much tax I've paid?",
+      "How do I check my TDS?",
+      "Can I view my tax summary on NetBanking?"
+    ],
+    "answer": "You can view your tax summary, certificate, and report by going to the hamburger menu, then Tax Services, then Tax Deducted at Source."
+  },
+  {
+    "id": "tax-get-payment-receipts",
+    "category": "tax_services",
+    "type": "faq",
+    "title": "Getting receipts for taxes paid",
+    "sample_queries": [
+      "How do I get a receipt for my tax payment?",
+      "Can I download my tax payment receipt?",
+      "Where do I find proof of tax paid?"
+    ],
+    "answer": "Tax payment receipts aren't available through NetBanking directly — you can view and download them by visiting the Income Tax Portal."
+  },
+  {
+    "id": "tax-access-income-tax-portal",
+    "category": "tax_services",
+    "type": "procedure",
+    "title": "Accessing the Income Tax Portal from NetBanking",
+    "sample_queries": [
+      "Can I access the income tax portal from NetBanking?",
+      "How do I file my income tax return through the bank?",
+      "How do I view my Form 26AS through NetBanking?"
+    ],
+    "overview": "Guides the user through reaching the Income Tax Portal via NetBanking, which is used both for e-filing returns and viewing Form 26AS.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to NetBanking and go to the hamburger menu, then Tax Services, then Income Tax e-filing.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Select the account, and you'll be redirected to the Income Tax Portal.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Once on the Income Tax Portal, go to Dashboard, then eFile, then Income Tax Returns — from there you can either view Form 26AS or file your return directly.", "wait_for_confirmation": false }
+    ]
+  },
+  {
+    "id": "tax-portal-account-must-be-added",
+    "category": "tax_services",
+    "type": "faq",
+    "title": "Why the Income Tax Portal only works with certain accounts",
+    "sample_queries": [
+      "Why can't I access the tax portal from all my accounts?",
+      "Does my account need to be linked to the income tax portal?",
+      "Can I use any account to access the income tax portal?"
+    ],
+    "answer": "The redirection to the Income Tax Portal only works for an account that's already been added on that portal directly. If your account isn't set up there yet, you'll need to log in to the Income Tax Portal separately first and add the account before the redirection from NetBanking will work."
+  },
+  {
+    "id": "tax-portal-access-denied-error",
+    "category": "tax_services",
+    "type": "faq",
+    "title": "Getting an Access Denied message on the Income Tax Portal",
+    "sample_queries": [
+      "I got an access denied error on the tax portal",
+      "Why does the income tax portal say access denied after redirecting from NetBanking?",
+      "The tax portal won't let me in even though I selected the right account"
+    ],
+    "answer": "This usually means your account still needs to be added on the Income Tax Portal directly — redirection only works once that's done, and you'd need to select that same account from NetBanking. If you're still getting Access Denied even after confirming the account is added and selected correctly, you'll need to raise a grievance directly on the Income Tax Portal, under Dashboard, then Grievances, then Submit Grievances, for them to investigate."
+  }
+]

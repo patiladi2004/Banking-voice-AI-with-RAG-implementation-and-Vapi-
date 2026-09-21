@@ -1,0 +1,218 @@
+[
+  {
+    "id": "cc-block-lost-stolen",
+    "category": "credit_card",
+    "type": "procedure",
+    "title": "Blocking a lost or stolen credit card via NetBanking",
+    "sample_queries": [
+      "How do I block my credit card?",
+      "I lost my card, what do I do?",
+      "Someone stole my wallet, can you block my card?",
+      "My credit card is missing, I need to block it right now",
+      "How do I hotlist my card online?"
+    ],
+    "overview": "Guides the user through blocking (hotlisting) a lost or stolen credit card using NetBanking. This can be done instantly online and does not require calling in.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to HDFC NetBanking on the website or app using your customer ID and password.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Go to the Cards tab and select Credit Cards.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Select Urgent Support, then click on Permanent Card Block.", "wait_for_confirmation": true },
+      { "step_number": 4, "instruction": "Choose the specific card you want to block from the list of your registered cards.", "wait_for_confirmation": true },
+      { "step_number": 5, "instruction": "Select the reason for blocking, and choose whether you'd like a replacement card issued.", "wait_for_confirmation": true },
+      { "step_number": 6, "instruction": "Submit the request. Your card is blocked immediately, and if you opted for a replacement, it will typically arrive within 5 to 7 business days.", "wait_for_confirmation": false }
+    ],
+    "notes": "Blocking can also be done by calling the 24-hour PhoneBanking helpline, or by visiting a branch and submitting a hotlisting form. Once a card is blocked this way, it cannot be unblocked online — reactivation requires calling customer care."
+  },
+  {
+    "id": "cc-temporary-vs-permanent-block",
+    "category": "credit_card",
+    "type": "faq",
+    "title": "Difference between temporarily and permanently blocking a card",
+    "sample_queries": [
+      "Can I temporarily block my card instead of cancelling it?",
+      "What's the difference between blocking and cancelling my credit card?",
+      "I just misplaced my card, I don't want to cancel it permanently"
+    ],
+    "answer": "You can choose a temporary block if you've simply misplaced your card and expect to find it — this suspends the card without cancelling it, and it can be reactivated by contacting customer care once you locate it. A permanent block is meant for cards that are confirmed lost or stolen; this cancels the card entirely and, if requested, triggers a replacement card. Either way, blocking through NetBanking takes effect immediately."
+  },
+  {
+    "id": "cc-dispute-transaction",
+    "category": "credit_card",
+    "type": "faq",
+    "title": "Disputing a credit card transaction you didn't authorize",
+    "sample_queries": [
+      "There's a charge on my credit card I don't recognize",
+      "How do I dispute a transaction?",
+      "I was charged twice for the same purchase"
+    ],
+    "answer": "If you spot a transaction you didn't make at all, that's fraud rather than a dispute — let me walk you through reporting it that way instead, since it also lets you block the affected channels. For a transaction you did make but something went wrong with — like a duplicate charge, or paying for something you never received — that's a dispute, which you can raise through Raise Dispute and Report Fraud under Urgent Care in NetBanking, or the equivalent option under Secure Lock & Support in the app, then selecting Raise New Dispute."
+  },
+  {
+    "id": "cc-replacement-timeline",
+    "category": "credit_card",
+    "type": "faq",
+    "title": "How long a replacement credit card takes to arrive",
+    "sample_queries": [
+      "How long will it take to get my new card?",
+      "When will my replacement credit card arrive?",
+      "I blocked my card and asked for a new one, when will it come?"
+    ],
+    "answer": "A replacement card typically arrives within 5 to 7 business days after you request it, usually as part of the same hotlisting process you use to block the lost or stolen card. Delivery is to your registered mailing address, so it's worth double-checking that address is current before requesting a replacement."
+  },
+  {
+    "id": "cc-view-active-inactive-cards",
+    "category": "credit_card",
+    "type": "faq",
+    "title": "Viewing active or inactive/blocked credit cards on NetBanking",
+    "sample_queries": [
+      "Where can I see my credit cards?",
+      "How do I check which of my cards are active?",
+      "Can I see my blocked credit card in NetBanking?"
+    ],
+    "answer": "You can see all your credit cards by going to Cards, then Credit Card, then choosing either Active Cards or Inactive Card depending on what you want to view. Blocked cards show up under the inactive list."
+  },
+  {
+    "id": "cc-full-number-not-visible",
+    "category": "credit_card",
+    "type": "faq",
+    "title": "Why the full credit card number isn't shown online",
+    "sample_queries": [
+      "Why can't I see my full credit card number online?",
+      "Can you tell me my complete card number?",
+      "I need my full card number, where do I find it?"
+    ],
+    "answer": "For security reasons, your full credit card number is only ever visible on the physical card itself — it won't be displayed in full on NetBanking or the app, and I'm not able to read it out over a call either."
+  },
+  {
+    "id": "cc-apply-new-card",
+    "category": "credit_card",
+    "type": "faq",
+    "title": "Applying for a new HDFC credit card through NetBanking",
+    "sample_queries": [
+      "How do I apply for a new credit card?",
+      "Can I get another credit card through NetBanking?",
+      "I want to apply for a credit card online"
+    ],
+    "answer": "You can apply for a new credit card by going to Cards, then Credit Cards, and selecting Apply for Credit Card under Quick Links."
+  },
+  {
+    "id": "cc-estatement-setup",
+    "category": "credit_card",
+    "type": "faq",
+    "title": "Registering for e-statements",
+    "sample_queries": [
+      "How do I sign up for e-statements?",
+      "Can I get my credit card statement by email?",
+      "I want to stop getting paper statements"
+    ],
+    "answer": "You can register for e-statements by going to Cards, then Credit Cards, then Manage Card for the card in question, and choosing Statement and Transactions followed by E-statement Settings. If you haven't updated your email address with the bank yet, you'll need to visit a branch to do that first, since e-statements need a registered email on file."
+  },
+  {
+    "id": "cc-view-statements",
+    "category": "credit_card",
+    "type": "faq",
+    "title": "Viewing past credit card statements",
+    "sample_queries": [
+      "Where can I see my old statements?",
+      "How do I download a past credit card statement?",
+      "I need to see my previous month's bill"
+    ],
+    "answer": "You can view or download a past statement by going to Cards, then Credit Cards, then View Summary for the card, and selecting Past Statement followed by Get Statement — or more directly through Cards, Credit Cards, and Get Statement for that card."
+  },
+  {
+    "id": "cc-addon-card-overview",
+    "category": "credit_card",
+    "type": "faq",
+    "title": "What an add-on card is and how to request one",
+    "sample_queries": [
+      "What is an add-on credit card?",
+      "Can I get a card for my spouse on my account?",
+      "How do I apply for an add-on card?",
+      "How many add-on cards am I allowed?"
+    ],
+    "answer": "An add-on card lets a family member or friend who also holds an HDFC Bank account use a card linked to your credit card account. You can request one by going to Cards, then Credit Cards, then View Summary for your card, and selecting Add-on Cards followed by Request Add-on Card. Each cardholder can apply for up to 3 add-on cards, though the bank's overall policy allows a maximum of 10 add-on cards issued per customer."
+  },
+  {
+    "id": "cc-reissue-after-block",
+    "category": "credit_card",
+    "type": "faq",
+    "title": "Requesting reissue of a card you previously blocked without replacement",
+    "sample_queries": [
+      "I blocked my card but said no to a replacement, can I still get one?",
+      "How do I request my card be reissued now?",
+      "I changed my mind, I do want a new card after blocking the old one"
+    ],
+    "answer": "If you blocked a card earlier and chose not to have it reissued at the time, you can still request reissue afterward by going to Cards, then Credit Cards, and selecting Resend Now for that card."
+  },
+  {
+    "id": "cc-upgrade-card",
+    "category": "credit_card",
+    "type": "faq",
+    "title": "Upgrading a credit card",
+    "sample_queries": [
+      "How do I upgrade my credit card?",
+      "Can I move to a better credit card tier?",
+      "I want a card with more benefits, how do I upgrade?"
+    ],
+    "answer": "You can request a card upgrade by going to Cards, then Credit Cards, then View Summary for your card, and selecting Manage Cards followed by Upgrade Cards."
+  },
+  {
+    "id": "cc-international-usage-limit",
+    "category": "credit_card",
+    "type": "faq",
+    "title": "Enabling international usage and setting an international spending limit",
+    "sample_queries": [
+      "Can I use my credit card outside India?",
+      "How do I enable international usage on my card?",
+      "How do I set a limit for international spending?"
+    ],
+    "answer": "Yes, international usage can be turned on yourself. Go to Cards, then Credit Cards, then Manage Cards for your card, select Card Settings, then Manage Domestic and International Limits, and choose the International tab — this is also where you can set or adjust your international spending limit."
+  },
+  {
+    "id": "cc-change-dispatch-address",
+    "category": "credit_card",
+    "type": "faq",
+    "title": "Changing the address a card is dispatched to",
+    "sample_queries": [
+      "How do I change my card delivery address?",
+      "I moved, how do I update where my card gets sent?",
+      "Can I change my mailing address for card dispatch?"
+    ],
+    "answer": "You can update your address by going to the hamburger menu, then My Profile, then Contacts. It takes up to 72 hours for the change to reflect in the credit card system, so it's worth updating it a few days before requesting anything that needs to be mailed to you."
+  },
+  {
+    "id": "cc-forgot-set-pin",
+    "category": "credit_card",
+    "type": "faq",
+    "title": "Setting or resetting a credit card PIN",
+    "sample_queries": [
+      "I forgot my credit card PIN",
+      "How do I set a PIN for my new credit card?",
+      "Can I reset my card PIN online?"
+    ],
+    "answer": "You can set or reset your credit card PIN instantly online by going to Cards, then Credit Cards, and selecting Set/Reset PIN for the card. If you'd rather have a physical PIN mailed to your registered address instead, that option is available through the same menu."
+  },
+  {
+    "id": "cc-view-reward-points",
+    "category": "credit_card",
+    "type": "faq",
+    "title": "Viewing reward points balance",
+    "sample_queries": [
+      "How many reward points do I have?",
+      "Where can I check my credit card rewards?",
+      "How do I see my points balance?"
+    ],
+    "answer": "You can check your reward points balance by going to Cards, then Credit Cards, then Manage Cards for your card, and selecting Rewards and Benefits. From there you'll also see the option to redeem points if you'd like to use them."
+  },
+  {
+    "id": "cc-close-addon-card",
+    "category": "credit_card",
+    "type": "faq",
+    "title": "Closing an add-on credit card",
+    "sample_queries": [
+      "How do I cancel an add-on card?",
+      "I want to close my spouse's add-on card",
+      "Can I terminate an add-on card membership?"
+    ],
+    "answer": "To close an add-on card, you can call PhoneBanking at 1800 1600 or 1800 2600 and place a closure request. Alternatively, you can write directly to the bank's Credit Cards division requesting termination, though calling is generally the faster route."
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "id": "deposits-view-fd-rd",
+    "category": "deposits",
+    "type": "faq",
+    "title": "Viewing your Fixed and Recurring Deposits",
+    "sample_queries": [
+      "Where can I see my fixed deposits?",
+      "How do I view my FD details?",
+      "Can I see all my deposits in one place?"
+    ],
+    "answer": "You can view your deposits by going to FD/RD, then FD/RD/Passion Funds. For a full breakdown of a specific deposit, go the same way and select Deposits Summary."
+  },
+  {
+    "id": "deposits-book-new-fd",
+    "category": "deposits",
+    "type": "procedure",
+    "title": "Booking a new Fixed Deposit",
+    "sample_queries": [
+      "How do I open a new fixed deposit?",
+      "Can I book an FD online?",
+      "I want to start a new fixed deposit"
+    ],
+    "overview": "Guides the user through opening a new Fixed Deposit via NetBanking.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to NetBanking with your Customer ID and IPIN.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Go to FD/RD, then FD, and click Open FD under Quick Links.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Enter the deposit amount, tenure, interest payout option, and maturity instruction.", "wait_for_confirmation": true },
+      { "step_number": 4, "instruction": "Click Continue, review the details, and click Confirm to complete the booking.", "wait_for_confirmation": false }
+    ]
+  },
+  {
+    "id": "deposits-get-fd-advice",
+    "category": "deposits",
+    "type": "faq",
+    "title": "Downloading a Fixed Deposit advice",
+    "sample_queries": [
+      "How do I get my FD advice document?",
+      "Can I download a PDF of my fixed deposit?",
+      "Where do I find my deposit certificate?"
+    ],
+    "answer": "You can download a Fixed Deposit advice in PDF format by going to FD/RD, then FD, selecting the deposit, and clicking Deposit Advice."
+  },
+  {
+    "id": "deposits-principal-maturity-same-amount",
+    "category": "deposits",
+    "type": "faq",
+    "title": "Why the principal and maturity amount look the same on an FD",
+    "sample_queries": [
+      "Why does my FD show the same principal and maturity amount?",
+      "Shouldn't my fixed deposit grow with interest?",
+      "My FD maturity value matches the principal, is that right?"
+    ],
+    "answer": "If your Fixed Deposit was booked with a quarterly or monthly interest payout option, the maturity amount matches the principal because the interest is being credited to your account periodically rather than added back into the deposit. It's expected behavior for that payout structure, not an error."
+  },
+  {
+    "id": "deposits-senior-citizen-rate",
+    "category": "deposits",
+    "type": "faq",
+    "title": "Preferential Fixed Deposit interest rates for senior citizens",
+    "sample_queries": [
+      "Do senior citizens get a better FD interest rate?",
+      "How do I register as a senior citizen for FD rates?",
+      "Is there a special deposit rate for seniors?"
+    ],
+    "answer": "Yes, senior citizens get a preferential interest rate on Fixed Deposits. To register, you'll need to call or visit an HDFC Bank branch with proof of your date of birth. Once registered, the preferential rate applies to FDs opened through NetBanking too."
+  },
+  {
+    "id": "deposits-tds-exemption-form",
+    "category": "deposits",
+    "type": "faq",
+    "title": "Claiming TDS exemption on Fixed Deposit interest",
+    "sample_queries": [
+      "How do I avoid TDS on my FD interest?",
+      "How do I submit Form 15G or 15H?",
+      "Can I claim tax exemption on my fixed deposit interest?"
+    ],
+    "answer": "To claim exemption from TDS on your FD interest, you'll need to submit Form 15H if you're a senior citizen, or Form 15G if you're a regular customer. You can submit it through NetBanking by going to FD/RD, then FD, selecting the deposit, and choosing Apply for Form 15G/H — or submit the physical form at a branch instead."
+  },
+  {
+    "id": "deposits-premature-closure-penalty",
+    "category": "deposits",
+    "type": "faq",
+    "title": "Penalty for closing a Fixed Deposit early",
+    "sample_queries": [
+      "Is there a penalty for breaking my FD early?",
+      "What's the charge for premature FD closure?",
+      "Will I lose money if I close my fixed deposit before maturity?"
+    ],
+    "answer": "Yes, premature closure of a Fixed Deposit — including sweep-ins and partial closures — carries a penalty of 1% off the deposit's interest rate."
+  },
+  {
+    "id": "deposits-premature-withdrawal-interest-calc",
+    "category": "deposits",
+    "type": "faq",
+    "title": "How interest is calculated on a prematurely withdrawn FD",
+    "sample_queries": [
+      "How much interest will I get if I withdraw my FD early?",
+      "How is the interest rate calculated for early FD closure?",
+      "What rate applies if I break my fixed deposit before maturity?"
+    ],
+    "answer": "For a premature withdrawal, the applicable interest rate is whichever is lower: the base rate for the original tenure you booked the deposit for, or the base rate for however long the deposit actually stayed with the bank. In practice, this generally works out to about 1% below the contracted rate, or the rate for the actual holding period, whichever ends up lower."
+  },
+  {
+    "id": "deposits-tenure-limits",
+    "category": "deposits",
+    "type": "faq",
+    "title": "Minimum and maximum Fixed Deposit tenure",
+    "sample_queries": [
+      "What's the shortest FD I can open?",
+      "What's the maximum tenure for a fixed deposit?",
+      "How long can I lock in my FD for?"
+    ],
+    "answer": "A Fixed Deposit can be opened for as little as 7 days or as long as 10 years."
+  },
+  {
+    "id": "deposits-amount-limits",
+    "category": "deposits",
+    "type": "faq",
+    "title": "Minimum and maximum Fixed Deposit amount",
+    "sample_queries": [
+      "What's the minimum amount to open an FD?",
+      "Is there a maximum limit for a fixed deposit?",
+      "How much money do I need to start a fixed deposit?"
+    ],
+    "answer": "The minimum amount to open a Fixed Deposit is 5,000 rupees, and the maximum is 5 crore rupees. Bank staff have a lower minimum of 1,000 rupees."
+  },
+  {
+    "id": "deposits-joint-and-minor-names",
+    "category": "deposits",
+    "type": "faq",
+    "title": "Opening a Fixed Deposit in joint or minor names",
+    "sample_queries": [
+      "Can I open a joint FD?",
+      "Can I open a fixed deposit for my child?",
+      "Can a guardian open an FD in a minor's name?"
+    ],
+    "answer": "Yes to both. You can open an either-or-survivor Fixed Deposit jointly with someone else, and a guardian can open an FD in a minor's name by selecting the minor's account when booking the deposit."
+  },
+  {
+    "id": "deposits-add-nominee",
+    "category": "deposits",
+    "type": "procedure",
+    "title": "Adding a nominee to a Fixed Deposit",
+    "sample_queries": [
+      "How do I add a nominee to my FD?",
+      "Can I set a nominee for my fixed deposit online?",
+      "How do I nominate someone for my FD?"
+    ],
+    "overview": "Guides the user through adding a nominee to a Fixed Deposit. Only available online for sole account holders.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to NetBanking with your Customer ID and IPIN.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Go to FD/RD, choose FD/RD/Passion Fund from the dropdown, select the deposit, and scroll down to click Add Nominee.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Fill in the nominee's details.", "wait_for_confirmation": true },
+      { "step_number": 4, "instruction": "Click Continue, then Confirm. You'll see a confirmation that the nominee has been added.", "wait_for_confirmation": false }
+    ],
+    "notes": "This self-service option is only available to sole account holders. If the deposit is jointly held, the joint holders need to download the prefilled form and submit it at a branch instead."
+  },
+  {
+    "id": "deposits-change-nominee",
+    "category": "deposits",
+    "type": "procedure",
+    "title": "Changing the nominee on a Fixed Deposit",
+    "sample_queries": [
+      "How do I change my FD nominee?",
+      "I want to update who's nominated on my fixed deposit",
+      "Can I switch my FD nominee online?"
+    ],
+    "overview": "Guides the user through changing an existing nominee on a Fixed Deposit.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to NetBanking with your Customer ID and IPIN.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Go to FD/RD, choose FD/RD/Passion Fund from the dropdown, select the deposit, and scroll down to click Change Nominee.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Fill in the updated details.", "wait_for_confirmation": true },
+      { "step_number": 4, "instruction": "Click Continue, then Confirm to complete the change.", "wait_for_confirmation": false }
+    ]
+  },
+  {
+    "id": "deposits-change-maturity-instructions",
+    "category": "deposits",
+    "type": "procedure",
+    "title": "Changing maturity instructions for a Fixed Deposit",
+    "sample_queries": [
+      "How do I change what happens to my FD at maturity?",
+      "Can I update my FD's maturity instructions online?",
+      "I want my FD to auto-renew instead of pay out, how do I change that?"
+    ],
+    "overview": "Guides the user through updating what happens to a Fixed Deposit when it matures.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to NetBanking with your Customer ID and IPIN.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Go to FD/RD, choose FD/RD/Passion Fund from the dropdown, select the deposit, and scroll down to click Change Maturity Instructions.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Fill in the new instructions.", "wait_for_confirmation": true },
+      { "step_number": 4, "instruction": "Click Continue, then Confirm to save the change.", "wait_for_confirmation": false }
+    ]
+  },
+  {
+    "id": "deposits-sweep-in-od-avail",
+    "category": "deposits",
+    "type": "procedure",
+    "title": "Setting up Sweep-In or Overdraft against a Fixed Deposit",
+    "sample_queries": [
+      "How do I set up an overdraft against my FD?",
+      "What is Super Saver and how do I enable it?",
+      "Can I link my FD to my savings account as a sweep-in?"
+    ],
+    "overview": "Guides the user through enabling Sweep-In or OD against FD, also known as Super Saver, which links a fixed deposit to a savings or current account for overdraft purposes.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to NetBanking with your Customer ID and IPIN.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Go to FD/RD, choose FD from the dropdown, select the deposit, and click Avail Sweep-In or OD Against FD.", "wait_for_confirmation": false }
+    ]
+  },
+  {
+    "id": "deposits-sweep-in-od-remove",
+    "category": "deposits",
+    "type": "procedure",
+    "title": "Removing Sweep-In or Overdraft against a Fixed Deposit",
+    "sample_queries": [
+      "How do I remove the overdraft on my FD?",
+      "Can I cancel my Super Saver setup?",
+      "How do I turn off sweep-in on my fixed deposit?"
+    ],
+    "overview": "Guides the user through removing a Sweep-In or OD against FD facility that's already set up.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to NetBanking with your Customer ID and IPIN.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Go to FD/RD, choose FD from the dropdown, select the deposit, and click Avail Sweep-In or OD Against FD, then View Details.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Click the remove icon and confirm to take it off.", "wait_for_confirmation": false }
+    ]
+  },
+  {
+    "id": "deposits-channels-to-place-new-deposit",
+    "category": "deposits",
+    "type": "faq",
+    "title": "Channels available for placing a new deposit",
+    "sample_queries": [
+      "Where can I open a deposit besides NetBanking?",
+      "What are all the ways I can book a deposit?",
+      "Can I open a deposit without using NetBanking?"
+    ],
+    "answer": "Beyond NetBanking, you can also place a deposit through the HDFC customer portal or app, at any HDFC Bank branch or dedicated deposit office, or through other HDFC Bank digital platforms."
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "insurance-buy-general-flow",
+    "category": "insurance",
+    "type": "procedure",
+    "title": "Buying an insurance product through NetBanking",
+    "sample_queries": [
+      "How do I buy insurance through NetBanking?",
+      "How do I buy term insurance online?",
+      "How do I purchase health insurance through the bank?",
+      "How do I buy car insurance online?",
+      "How do I get travel insurance through NetBanking?"
+    ],
+    "overview": "Guides the user through purchasing any insurance product via NetBanking — the flow is the same across life, health, vehicle, home, travel, and cyber insurance, just under different menu categories.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to NetBanking with your Customer ID and IPIN.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Go to the Insure menu, then select the relevant category — for example Life Insurance, Health and Accident, Vehicle, Home Insurance, Travel Insurance, or Cyber Insurance — and the specific product type within it if there's a sub-category.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Scroll down and choose the specific product you want from the available insurance partners.", "wait_for_confirmation": true },
+      { "step_number": 4, "instruction": "Click Apply Online, and confirm your consent on the pop-up that appears.", "wait_for_confirmation": true },
+      { "step_number": 5, "instruction": "You'll be redirected to the insurance partner's website to complete the application — your NetBanking session will be logged out at that point, so any further steps happen on the partner's site.", "wait_for_confirmation": false }
+    ]
+  },
+  {
+    "id": "insurance-categories-available",
+    "category": "insurance",
+    "type": "faq",
+    "title": "Insurance categories available through NetBanking",
+    "sample_queries": [
+      "What types of insurance can I buy through the bank?",
+      "What insurance products does NetBanking offer?",
+      "What kinds of policies can I get through HDFC?"
+    ],
+    "answer": "Available categories include Life Insurance (with sub-types for term cover, securing a child's future, wealth growth, and retirement pension plans), Health and Accident (mediclaim, critical illness, personal accident, and super top-up), Vehicle Insurance (private car, two-wheeler, and commercial vehicle), Home Insurance, Travel Insurance, and Cyber Insurance. All of these are accessed through the Insure menu in NetBanking."
+  },
+  {
+    "id": "insurance-what-is-critical-illness",
+    "category": "insurance",
+    "type": "faq",
+    "title": "What Critical Illness insurance covers",
+    "sample_queries": [
+      "What is critical illness insurance?",
+      "What does critical illness cover pay for?",
+      "Is critical illness insurance worth getting?"
+    ],
+    "answer": "Critical Illness insurance pays out a lump sum if you're diagnosed with a covered critical illness, giving you and your family extra financial cushion. That payout can go toward treatment and care costs, recovery expenses, paying off debts, or covering lost income if the illness affects your ability to work."
+  },
+  {
+    "id": "insurance-what-is-super-topup",
+    "category": "insurance",
+    "type": "faq",
+    "title": "What Super Top-Up health insurance does",
+    "sample_queries": [
+      "What is super top-up insurance?",
+      "How does super top-up health cover work?",
+      "Should I get a super top-up plan?"
+    ],
+    "answer": "Super Top-Up is designed to extend an existing health insurance policy, giving you a much larger cover for a relatively low additional premium — it's meant to sit on top of a base health plan rather than replace it."
+  },
+  {
+    "id": "insurance-renew-life-policy",
+    "category": "insurance",
+    "type": "procedure",
+    "title": "Renewing a life insurance policy through NetBanking",
+    "sample_queries": [
+      "How do I renew my life insurance policy?",
+      "How do I pay my HDFC Life premium online?",
+      "How do I renew my TATA AIA policy?",
+      "How do I renew my Aditya Birla Sun Life policy?"
+    ],
+    "overview": "Guides the user through renewing a life insurance policy. The general path is the same, but what happens after depends on which insurer the policy is with.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to NetBanking and go to Insure, then Life Insurance.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Click Renew Insurance in the action panel, then select your insurer — HDFC Life, TATA AIA, or Aditya Birla Sun Life.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "If your policy is with HDFC Life, enter your policy details directly and pay the renewal premium right there in NetBanking. If it's with TATA AIA or Aditya Birla Sun Life, confirm on the pop-up that appears, and you'll be redirected to that insurer's own website to complete the renewal payment.", "wait_for_confirmation": false }
+    ]
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "id": "acct-summary-vs-details",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Difference between Account Summary and Account Details",
+    "sample_queries": [
+      "What's the difference between account summary and account details?",
+      "Where do I see all my accounts vs one specific account?",
+      "How do I view details for a specific account?"
+    ],
+    "answer": "Account Summary is the list of all your accounts, which you reach by clicking Accounts at the top of the screen. Account Details is specific to one account — after clicking Accounts, select the account you want and you'll see its balance, nominee, and holder information."
+  },
+  {
+    "id": "acct-change-home-branch",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Changing your home branch",
+    "sample_queries": [
+      "How do I transfer my account to a different branch?",
+      "Can I change my home branch?",
+      "I moved cities, how do I update my branch?"
+    ],
+    "answer": "You can transfer your account to a different branch two ways: through the bank's website under Need Help, then Accounts/Deposit Services, then Account Transfer, and starting the process there — or by writing a transfer request and submitting it at your nearest branch."
+  },
+  {
+    "id": "acct-primary-account-definition",
+    "category": "accounts",
+    "type": "faq",
+    "title": "What a Primary Account is",
+    "sample_queries": [
+      "What is a primary account?",
+      "What does the primary account tag mean?",
+      "How do I know which of my accounts is primary?"
+    ],
+    "answer": "A primary account is the account set as your default for transactions when you hold multiple accounts, so you don't have to select one each time. If you've set one, it appears first on your Account Summary page with a green Primary tag next to it."
+  },
+  {
+    "id": "acct-manage-primary-account",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Adding, changing, or removing your Primary Account",
+    "sample_queries": [
+      "How do I change my primary account?",
+      "How do I set a new primary account?",
+      "How do I remove my primary account setting?"
+    ],
+    "answer": "You can manage your primary account by going to Accounts or Send Money at the top of the screen, and selecting the Quick Link for Manage Primary Account."
+  },
+  {
+    "id": "acct-ppf-loan-apply",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Applying for a loan against your PPF account",
+    "sample_queries": [
+      "Can I get a loan against my PPF?",
+      "How do I apply for a PPF loan?",
+      "Is my PPF account eligible for a loan?"
+    ],
+    "answer": "A loan against your PPF account needs to be applied for at a branch — it isn't available through NetBanking. Keep in mind your PPF account needs to have been open for at least 5 years before it's eligible for a loan."
+  },
+  {
+    "id": "acct-ppf-loan-details",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Viewing PPF-linked loan details",
+    "sample_queries": [
+      "Where can I see my PPF loan details?",
+      "How do I check my PPF-linked loan?",
+      "Can I view my PPF loan online?"
+    ],
+    "answer": "You can view your PPF-linked loan details by going to Accounts at the top of the screen, selecting your PPF account, and opening the Account Details tab."
+  },
+  {
+    "id": "acct-view-nominee-holder-details",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Viewing nominee and account holder details",
+    "sample_queries": [
+      "Where can I see my nominee details?",
+      "How do I check who's listed as the account holder?",
+      "How do I view my account's nominee information?"
+    ],
+    "answer": "You can view nominee and account holder details by going to Accounts, selecting the specific account, opening Account Details, and scrolling down to the Nominee and Account Holder Details section."
+  },
+  {
+    "id": "acct-add-change-nominee",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Adding or changing a nominee online",
+    "sample_queries": [
+      "How do I add a nominee to my account?",
+      "Can I change my nominee online?",
+      "How do I update my account nominee?"
+    ],
+    "answer": "If you're the sole owner of the account, you can manage your nominee online by going to Accounts, selecting the account, opening Account Details, scrolling to Nominee and Account Holder Details, and choosing Add Nominee or Change Nominee. If it's a joint account, this needs to be done in person — all account holders would need to visit a branch together to add or change the nominee."
+  },
+  {
+    "id": "acct-view-recent-transactions",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Viewing recent transactions",
+    "sample_queries": [
+      "Where can I see my recent transactions?",
+      "How do I check my latest account activity?",
+      "Can I see what's happened on my account recently?"
+    ],
+    "answer": "You can view recent transactions either by clicking Get Statement on the home screen and selecting the account, or by going to Accounts, selecting the account, and scrolling down to the Recent Transactions section."
+  },
+  {
+    "id": "acct-download-email-statement",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Downloading or emailing an account statement",
+    "sample_queries": [
+      "How do I download my bank statement?",
+      "Can you email me my account statement?",
+      "How do I get a statement for a specific period?"
+    ],
+    "answer": "You can download or email a statement by clicking Get Statement on the home screen, selecting the account and the time period you want, then choosing Download or Email — or by going to Accounts, selecting the account, opening Account Statement, and doing the same from there."
+  },
+  {
+    "id": "acct-statement-formats",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Available formats for account statements",
+    "sample_queries": [
+      "What formats can I download my statement in?",
+      "Can I get my statement as an Excel file?",
+      "What format does the emailed statement come in?"
+    ],
+    "answer": "For download, statements are available in PDF, Excel, Text, Delimited, and MSMoney formats. If you're having it emailed instead, it's only available as a PDF."
+  },
+  {
+    "id": "acct-interest-certificate",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Finding an interest certificate",
+    "sample_queries": [
+      "Where do I download my interest certificate?",
+      "How do I get proof of interest earned on my account?",
+      "I need an interest certificate for tax filing"
+    ],
+    "answer": "You can find your interest certificate by going to Accounts at the top of the screen, then selecting Download Interest Certificate under Quick Links."
+  },
+  {
+    "id": "acct-balance-certificate",
+    "category": "accounts",
+    "type": "faq",
+    "title": "What a Balance Certificate is and where to find it",
+    "sample_queries": [
+      "What is a balance certificate?",
+      "How do I get proof of my account balance?",
+      "I need a balance certificate for a visa application"
+    ],
+    "answer": "A Balance Certificate confirms your account balance, and is commonly needed for things like visa applications, property transactions, or applying for loans or scholarships. You can download it by going to Accounts, selecting the specific account, and clicking Balance Certificate."
+  },
+  {
+    "id": "acct-amount-on-hold",
+    "category": "accounts",
+    "type": "faq",
+    "title": "What Amount on Hold means",
+    "sample_queries": [
+      "What does amount on hold mean?",
+      "Why is part of my balance on hold?",
+      "Where can I see my amount on hold?"
+    ],
+    "answer": "Amount on Hold refers to money you've invested in something like an IPO or stocks that's held aside until share allocation is finalized. You can check it by going to Accounts, selecting the account, and clicking Amount on Hold — it only appears there if you actually have an amount on hold."
+  },
+  {
+    "id": "acct-uncleared-funds",
+    "category": "accounts",
+    "type": "faq",
+    "title": "What Uncleared Funds means",
+    "sample_queries": [
+      "What are uncleared funds?",
+      "Why does my balance show uncleared funds?",
+      "Where can I check uncleared funds on my account?"
+    ],
+    "answer": "Uncleared Funds refers to money the bank has received on your behalf that hasn't finished processing yet — once it clears, it's credited to your account normally. You can check for it by going to Accounts, selecting the account, and looking at Uncleared Funds, which only shows if there's anything pending."
+  },
+  {
+    "id": "acct-enable-monthly-estatement",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Enabling monthly account statements by email",
+    "sample_queries": [
+      "How do I get my monthly statement emailed to me?",
+      "Can I sign up for automatic monthly statements?",
+      "How do I turn on e-statements for my account?"
+    ],
+    "answer": "You can enable monthly e-statements by going to Accounts, selecting the Manage e-Statement Quick Link, and clicking Enable e-Statements."
+  },
+  {
+    "id": "acct-disable-monthly-estatement",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Turning off monthly email statements",
+    "sample_queries": [
+      "How do I stop getting monthly statement emails?",
+      "Can I turn off e-statements?",
+      "I don't want my statement emailed to me anymore"
+    ],
+    "answer": "You can turn off monthly e-statements by going to Accounts, selecting the Manage e-Statement Quick Link, and clicking Disable e-Statements."
+  },
+  {
+    "id": "acct-estatement-error",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Getting an error on Manage e-Statements",
+    "sample_queries": [
+      "Why am I getting an error when I try to manage e-statements?",
+      "Manage e-statements isn't working for me",
+      "I can't enable e-statements, it shows an error"
+    ],
+    "answer": "This usually comes down to one of two things: either your account isn't eligible for e-statements, or the email address on file isn't registered with the bank yet. If it's the second one, you can register or update your email online, or do it in person at a branch."
+  },
+  {
+    "id": "acct-locker-branch-only",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Opening or closing a safe deposit locker",
+    "sample_queries": [
+      "Can I open a locker online?",
+      "How do I get a safe deposit box?",
+      "Can I close my locker through NetBanking?"
+    ],
+    "answer": "Safe deposit lockers can't be opened or closed online — this needs a visit to a branch that has lockers available. It's worth checking which nearby branches actually have locker facilities before you go, since not all of them do."
+  },
+  {
+    "id": "acct-view-locker",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Viewing your Safe Deposit Locker details",
+    "sample_queries": [
+      "Where can I see my locker details online?",
+      "How do I check my safe deposit locker on NetBanking?",
+      "Can I view my locker information online?"
+    ],
+    "answer": "You can view your Safe Deposit Locker details by going to Accounts at the top of the screen, then selecting the Safe Deposit Locker Quick Link."
+  },
+  {
+    "id": "acct-locker-nominee",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Adding or changing a nominee for a Safe Deposit Locker",
+    "sample_queries": [
+      "How do I add a nominee to my locker?",
+      "Can I change the nominee on my safe deposit box?",
+      "How do I update my locker's nominee online?"
+    ],
+    "answer": "If you're the sole owner of the locker, you can manage its nominee by going to Accounts, selecting Safe Deposit Locker, and choosing Add Nominee or View/Change Nominee. If the locker is jointly held, this needs to be done at a branch, with all locker holders present."
+  },
+  {
+    "id": "acct-ppf-open-eligibility",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Eligibility to open a PPF account online",
+    "sample_queries": [
+      "Can I open a PPF account online?",
+      "Am I eligible for a PPF account?",
+      "What do I need to open a PPF account?"
+    ],
+    "answer": "You can open a PPF account online if you're a resident Indian, your PAN details are already updated with the bank, you're the sole owner of an HDFC savings or current account, and you don't already have a PPF account with any other bank or post office."
+  },
+  {
+    "id": "acct-ppf-open-online-path",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Where to open a PPF account online",
+    "sample_queries": [
+      "How do I open a PPF account online?",
+      "Where do I go to start a PPF account?",
+      "Can I open a PPF account from the app?"
+    ],
+    "answer": "You can open a PPF account by going to Accounts at the top of the screen and clicking the Open PPF A/c banner, or directly from the Open PPF A/c banner on your NetBanking dashboard."
+  },
+  {
+    "id": "acct-statement-password",
+    "category": "accounts",
+    "type": "faq",
+    "title": "Password for the downloaded account statement PDF",
+    "sample_queries": [
+      "Why is my account statement password protected?",
+      "What's the password for my statement PDF?",
+      "I can't open my downloaded statement, it's asking for a password"
+    ],
+    "answer": "Your account statement is password protected to keep your financial information secure. The password is your Customer ID, which you'll also see noted on the statement download page when you choose the PDF format, and in the success message after downloading."
+  }
+]

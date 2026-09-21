@@ -1,0 +1,346 @@
+[
+  {
+    "id": "sms-rd-1-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.1",
+    "title": "RD SMS Booking - eligibility for registered customers",
+    "text": "RD can be booked by customers registered on SMS banking except for CSC channel customers (CSC Channel customer's authentication will be basis Registered mobile no + DOB/PAN)."
+  },
+  {
+    "id": "sms-rd-1-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.2",
+    "title": "RD SMS Booking - account for debit",
+    "text": "RD will be booked from the account registered in SMS banking except for CSC channel customers (CSC Channel customers account linked to the registered mobile no + DOB/PAN will be debited)."
+  },
+  {
+    "id": "sms-rd-1-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.3",
+    "title": "RD SMS Booking - Bank not responsible for SMS/Missed call disputes",
+    "text": "Customer agrees that Bank can act upon the SMS/Missed call received within stipulated time (For CSC, SMS is valid for 15 mins) from the Registered Mobile no. with the Bank and shall not be held responsible in case of any dispute with respect to the booking of RD through SMS/Missed call Banking if Bank has acted upon the SMS/Missed Call received from the Registered Mobile No."
+  },
+  {
+    "id": "sms-rd-1-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.4",
+    "title": "RD SMS Booking - booking on home branch with same holding pattern",
+    "text": "RD will get booked on account home branch and Holding Pattern will be same as CASA."
+  },
+  {
+    "id": "sms-rd-1-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.5",
+    "title": "RD SMS Booking - interest rates subject to change",
+    "text": "As interest rates are subject to change without prior notice, customer shall ascertain the rates on the value date of RD."
+  },
+  {
+    "id": "sms-rd-1-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.6",
+    "title": "RD SMS/Missed Call Booking - nominee registration",
+    "text": "There will be no nominee registered in RD booked by SMS/Missed Call banking (except for CSC channel customers). However, it can be updated from branch. (For CSC channel customers CASA nominee will be replicated. In case of no nominee registered in CASA, it can be updated from branch)."
+  },
+  {
+    "id": "sms-rd-1-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.7",
+    "title": "RD SMS Booking - amount and tenure limits",
+    "text": "RD via SMS banking will be booked with minimum amount Rs. 1000 (in multiples of 100 thereafter) and maximum 1,99,99,900 for CSC channel (Maximum amount is 10,000 for other channel) with minimum tenure 6 months (in multiples of 3 months thereafter) and maximum 120 months. The minimum tenure for earning interest on NRE RD is one year. No interest will be paid if NRE RD is prematurely withdrawn before 1 year. Maturity Instruction will be transfer to source a/c. (For CSC channel, maturity instruction option provided will be Transfer to CASA, convert principal to FD&RD, Convert Principal and Interest to FD and RD)."
+  },
+  {
+    "id": "sms-rd-1-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.8",
+    "title": "RD SMS Booking - default values if not specified",
+    "text": "RD via SMS banking will be booked with a default value of 1000 and tenure as 12 months (incase if tenure and amount is not specified by the customer)."
+  },
+  {
+    "id": "sms-rd-1-9",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.9",
+    "title": "RD Missed Call Booking - fixed parameters",
+    "text": "RD via missed call will be booked with fixed tenure (12 months), amount (Rs 1000), and maturity instructions (transfer to source a/c)."
+  },
+  {
+    "id": "sms-rd-2-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.1",
+    "title": "Tax Deduction at Source - Resident RD TDS threshold",
+    "text": "Resident RD: TDS will be deducted when interest payable or reinvested on RD and FD per customer across all branches exceeds Rs. 40,000/- (Rs. 50,000/- for senior citizens) in a financial year."
+  },
+  {
+    "id": "sms-rd-2-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.2",
+    "title": "Tax Deduction at Source - Form 15G/H exemption",
+    "text": "Individuals seeking exemption from TDS on the interest income of FD and RD, have to submit a completed Form 15 G/H at the bank branch within the first week of the new Financial Year and every time a new deposit is booked (not applicable for NRIs)."
+  },
+  {
+    "id": "sms-rd-3-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "3.1",
+    "title": "RD SMS Booking - Customer indemnification of Bank",
+    "text": "Customer shall not hold the Bank responsible should any claim be raised against the Bank in respect of providing this facility and ensure that the Bank does not suffer any loss, Customer hereby indemnify the Bank in respect of any such claim/losses."
+  },
+  {
+    "id": "sms-rd-4-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.1",
+    "title": "RD Booking - Net Banking RD summary page view",
+    "text": "The new RD can be viewed on Net Banking in Recurring Deposit Summary Page."
+  },
+  {
+    "id": "sms-rd-4-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.2",
+    "title": "RD Booking - email advice on confirmation",
+    "text": "Electronic mail advice will be sent to customer on booking RD's."
+  },
+  {
+    "id": "sms-rd-5-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.1",
+    "title": "Recurring Deposit - minimum lock-in period",
+    "text": "The RD account has a minimum lock-in period of one month."
+  },
+  {
+    "id": "sms-rd-5-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.2",
+    "title": "Recurring Deposit - premature closure within one month",
+    "text": "In the case of premature closure within a month, no interest shall be paid to the depositor and only his principal amount shall be returned."
+  },
+  {
+    "id": "sms-rd-5-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.3",
+    "title": "Recurring Deposit - interest compounded quarterly",
+    "text": "The interest on Deposits is compounded quarterly, at the applicable rates."
+  },
+  {
+    "id": "sms-rd-6-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.1",
+    "title": "RD Liquidation - NetBanking facility",
+    "text": "RD liquidation facility is available on Net banking to customers having Single Ownership account status."
+  },
+  {
+    "id": "sms-rd-7-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.1",
+    "title": "PAN Requirement - for deposits >= Rs 50,000",
+    "text": "PAN card is required for RD's greater than or equal to Rs. 50,000."
+  },
+  {
+    "id": "sms-rd-7-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.2",
+    "title": "PAN Requirement - absence of PAN restrictions",
+    "text": "In the absence of PAN, only deposits < Rs 50,000/- can be booked. For booking deposits >= Rs 50,000/- without PAN, Customer is requested to visit the nearest branch. RD will be booked if permissible under the Bank's current policy."
+  },
+  {
+    "id": "sms-rd-7-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.3",
+    "title": "PAN Requirement - Section 114B of Income Tax Act",
+    "text": "As per the section 114B (c) of the Income Tax Act, every person shall quote his permanent account number in all transactions pertaining to a time deposit, exceeding fifty thousand rupees, with a banking company to which the Banking Regulation Act, 1949 (10 of 1949), applies (including any bank or banking institution referred to in section 51 of the Act)."
+  },
+  {
+    "id": "sms-rd-7-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.4",
+    "title": "PAN Requirement - Section 139A(5A) of Income Tax Act",
+    "text": "As per Section 139A(5A) of the Income Tax Act every person receiving any sum of income or amount from which tax has been deducted under the provisions of the Income Tax Act shall provide his PAN number to the person responsible for deducting such tax."
+  },
+  {
+    "id": "sms-rd-7-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.5",
+    "title": "Bank Not Liable - for non-availment of TDS credit",
+    "text": "In case the PAN number is not provided to the Bank as required the bank shall not be liable for the non availment of the credit of tax deducted at Source."
+  },
+  {
+    "id": "sms-rd-8-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.1",
+    "title": "Joint Deposit - liquidation with all joint holders",
+    "text": "For liquidation of joint deposit, Customer will need to visit the nearest HDFC Bank Branch with request signed by all joint holders to liquidate the RD."
+  },
+  {
+    "id": "sms-rd-9-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.1",
+    "title": "Premature Liquidation - effective 01st Dec 2006 interest rate",
+    "text": "Premature liquidation clause: effective 01st Dec 2006 the interest rate applicable on premature closure of deposits (all amounts) will be lower of: The rate for the original/contracted tenor for which the deposit has been booked OR The base rate applicable for the tenor for which the deposit has been in force with the Bank."
+  },
+  {
+    "id": "sms-rd-9-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.2",
+    "title": "Premature Liquidation - base rate for deposits after 7th March 2019",
+    "text": "For deposits booked on or after 7th march 2019, the base rate is the rate applicable to deposits of less than Rs. 2 Cr as on the date of booking the deposit. Prior to this the base rate is the rate applicable to deposits of less than Rs. 1 Cr as on the date of booking the deposit."
+  },
+  {
+    "id": "sms-rd-10-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.1",
+    "title": "Recurring Deposit - closure on frequent defaults",
+    "text": "Customer agrees that if frequent defaults (non-payments) are observed in the monthly instalments, and six instalments fall in arrears, the Bank reserves the right to close the RD account. The interest rate applicable on such closed accounts will be as per the premature withdrawal policy of the Bank."
+  },
+  {
+    "id": "sms-rd-11-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "11.1",
+    "title": "Recurring Deposit - maturity on completion of tenure",
+    "text": "Customer agrees that the RD shall be due for repayment and shall mature on completion of contracted tenure even if there are instalments remaining to be paid."
+  },
+  {
+    "id": "sms-rd-11-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "11.2",
+    "title": "Recurring Deposit - maturity amount subject to timely payments",
+    "text": "Customer is aware that the maturity amount mentioned on the RD confirmation advice is subject to payment of all instalments on time."
+  },
+  {
+    "id": "sms-rd-12-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.1",
+    "title": "Recurring Deposit - instalment amount fixed",
+    "text": "Customer agrees that the instalment amount once fixed will not be allowed to be altered at a later date."
+  },
+  {
+    "id": "sms-rd-12-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.2",
+    "title": "Recurring Deposit - multiple overdue instalments recovery",
+    "text": "Customer agrees that in case of more than one instalment being overdue at the time of payment, up to 6 instalments can be recovered from the linked account if sufficient balance is available."
+  },
+  {
+    "id": "sms-rd-12-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.3",
+    "title": "Recurring Deposit - overdue instalments appropriation",
+    "text": "Customer agrees that in case of more than one instalment being overdue at the time of payment, the paid instalment if sufficient to cover only one instalment will be appropriated towards the first/earliest instalment overdue."
+  },
+  {
+    "id": "sms-rd-12-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.4",
+    "title": "Recurring Deposit - no partial payment of instalments",
+    "text": "Customer agrees that partial payment of instalments will not be permitted."
+  },
+  {
+    "id": "sms-rd-12-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.5",
+    "title": "Recurring Deposit - Bank not responsible for maintaining balance",
+    "text": "Customer agrees that the Bank shall not be responsible for informing him/her to maintain adequate balance in the account to pay the instalments."
+  },
+  {
+    "id": "sms-rd-13-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "13.1",
+    "title": "Interest Calculation - from instalment payment date",
+    "text": "Interest on a RD will be calculated from the date the instalment is paid."
+  },
+  {
+    "id": "sms-rd-13-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "13.2",
+    "title": "Interest Calculation - per Indian Banks Association directions",
+    "text": "Customer is aware that the interest on RD will be calculated by the Bank in accordance with the directions advised by Indian Banks' Association."
+  },
+  {
+    "id": "sms-rd-13-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "13.3",
+    "title": "Interest Calculation - Actual/Actual Quarterly Compounding",
+    "text": "The method of calculation of interest on RDs will be on Actual/Actual Quarterly Compounding."
+  },
+  {
+    "id": "sms-rd-14-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "14.1",
+    "title": "Senior Citizen Rates - automatic ROI for registered customers",
+    "text": "If customer is already registered as Sr. citizen with the Bank. Customer will automatically receive the 0.50% additional ROI on all RD booking through all channels. If however, Customer is not registered as Sr. Citizen, we request Customer to visit the branch with age proof in order to avail the additional 0.50% ROI on RD bookings online as well as through other channels. Senior Citizen Rates are only for resident Indians and do not apply to NRIs."
+  },
+  {
+    "id": "sms-rd-15-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "15.1",
+    "title": "SMS/Missed Call - requests received after 10pm",
+    "text": "RD requests via SMS/Missed call received after 10pm will be carried out at the next working day on first in first out basis subject to availability of clear funds in the account authorized for debit."
+  },
+  {
+    "id": "sms-rd-16-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.1",
+    "title": "Joint Deposit - with survivorship clause",
+    "text": "Customer agrees that in case of joint RD's with a survivorship clause, the Bank shall be discharged by paying the RD proceeds prematurely to survivor/s, on request, in the event of death of one or more joint depositor."
+  },
+  {
+    "id": "sms-rd-17-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "17.1",
+    "title": "Service Charges - free service with possible VAS charges",
+    "text": "The service is free (VAS charges may apply for the SMS)."
+  },
+  {
+    "id": "sms-rd-18-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "18.1",
+    "title": "Insurance Coverage - DICGC insured deposits",
+    "text": "The deposits in the Bank are insured with DICGC for an amount of Rs 5 lakhs (principal + interest) per depositor."
+  },
+  {
+    "id": "sms-rd-19-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "19.1",
+    "title": "Further Information - website reference",
+    "text": "For further details, please visit our website: www.hdfcbank.com"
+  }
+]

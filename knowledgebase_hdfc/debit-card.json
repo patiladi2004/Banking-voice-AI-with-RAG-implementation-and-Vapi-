@@ -1,0 +1,153 @@
+[
+  {
+    "id": "dc-view-active-cards",
+    "category": "debit_card",
+    "type": "faq",
+    "title": "Viewing debit cards on NetBanking",
+    "sample_queries": [
+      "Where can I see my debit card?",
+      "How do I view my debit card details online?",
+      "Can I check my debit card on NetBanking?"
+    ],
+    "answer": "You can view your debit card by going to Cards, then Debit Cards. Alternatively, go to Accounts, select the relevant savings or current account, and open Linked Debit Card."
+  },
+  {
+    "id": "dc-view-closed-cards",
+    "category": "debit_card",
+    "type": "faq",
+    "title": "Viewing closed or inactive debit cards",
+    "sample_queries": [
+      "Can I see my old debit card that got closed?",
+      "How do I check inactive debit cards?",
+      "Where do closed debit cards show up?"
+    ],
+    "answer": "You can view closed or inactive debit cards by going to Cards, then Debit Cards, and selecting the Inactive Cards tab. Alternatively, go to Accounts, select the relevant account, open Linked Debit Card, and choose Inactive Cards there."
+  },
+  {
+    "id": "dc-full-number-not-visible",
+    "category": "debit_card",
+    "type": "faq",
+    "title": "Why the full debit card number isn't shown online",
+    "sample_queries": [
+      "Why can't I see my full debit card number?",
+      "Can you tell me my complete debit card number?",
+      "I need my full debit card number, where is it?"
+    ],
+    "answer": "For security reasons, your full debit card number isn't shown on NetBanking — it's only visible on the physical card itself, and I'm not able to read it out over a call either."
+  },
+  {
+    "id": "dc-apply-new-card",
+    "category": "debit_card",
+    "type": "faq",
+    "title": "Applying for a new debit card",
+    "sample_queries": [
+      "How do I apply for a debit card?",
+      "I don't have a debit card yet, how do I get one?",
+      "Can I request a new debit card online?"
+    ],
+    "answer": "If you don't already have an HDFC debit card, you'll need to download the application form, fill it in, and submit it at your nearest branch — the card will then be mailed to your registered address. If instead your existing card is inactive or disabled, you can reissue it directly online rather than applying fresh."
+  },
+  {
+    "id": "dc-card-variant-type",
+    "category": "debit_card",
+    "type": "faq",
+    "title": "Checking your debit card variant or type",
+    "sample_queries": [
+      "What type of debit card do I have?",
+      "How do I check my debit card variant?",
+      "What's the tier of my debit card?"
+    ],
+    "answer": "Your card variant is printed on the card itself, but you can also check it online by going to Cards, then Debit Cards, in NetBanking."
+  },
+  {
+    "id": "dc-upgrade-card",
+    "category": "debit_card",
+    "type": "faq",
+    "title": "Upgrading a debit card",
+    "sample_queries": [
+      "How do I upgrade my debit card?",
+      "Can I get a better debit card?",
+      "I want to move to a higher debit card tier"
+    ],
+    "answer": "You can request an upgrade by going to Cards, then Debit Cards, selecting your card, and choosing Card Type followed by Upgrade."
+  },
+  {
+    "id": "dc-block-lost-stolen",
+    "category": "debit_card",
+    "type": "procedure",
+    "title": "Blocking a lost or stolen debit card",
+    "sample_queries": [
+      "I lost my debit card, what do I do?",
+      "How do I block my debit card?",
+      "My debit card was stolen, block it now"
+    ],
+    "overview": "Guides the user through blocking a lost or stolen debit card immediately through NetBanking to prevent misuse.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to HDFC NetBanking.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Go to Cards, then Debit Cards, or alternatively go to Accounts and open the Linked Debit Card for the relevant savings or current account.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Select Urgent Support, then click Permanent Card Block.", "wait_for_confirmation": true },
+      { "step_number": 4, "instruction": "Confirm the block. Your card is deactivated immediately, and you can request a reissue afterward if you need a new one.", "wait_for_confirmation": false }
+    ],
+    "notes": "This mirrors the credit card blocking flow closely, just under the Debit Cards section instead."
+  },
+  {
+    "id": "dc-reissue-card",
+    "category": "debit_card",
+    "type": "faq",
+    "title": "Reissuing a blocked or inactive debit card",
+    "sample_queries": [
+      "I blocked my debit card, how do I get a new one?",
+      "How do I reissue my debit card?",
+      "My card is inactive, can I get it reissued online?"
+    ],
+    "answer": "You can reissue an inactive or blocked debit card by going to Cards, then Debit Cards, then View Inactive Debit Card, and selecting Reissue. Alternatively, go through Accounts, select the account, open Linked Debit Card, view the inactive card, and choose Reissue there."
+  },
+  {
+    "id": "dc-forgot-set-pin",
+    "category": "debit_card",
+    "type": "faq",
+    "title": "Setting or resetting a debit card PIN",
+    "sample_queries": [
+      "I forgot my debit card PIN",
+      "How do I set a PIN for my new debit card?",
+      "How do I get my debit card PIN?"
+    ],
+    "answer": "You can set or reset your debit card PIN online by going to Cards, then Debit Cards, and selecting Set/Reset PIN. Alternatively, go to Accounts, select the account, open Linked Debit Card, and choose Set/Reset PIN there."
+  },
+  {
+    "id": "dc-view-reward-points",
+    "category": "debit_card",
+    "type": "faq",
+    "title": "Viewing and redeeming debit card reward points",
+    "sample_queries": [
+      "How many reward points do I have on my debit card?",
+      "Where can I check my debit card points?",
+      "Can I redeem my debit card rewards?"
+    ],
+    "answer": "You can view and redeem your debit card reward points by going to Cards, then Debit Cards, and selecting Redeem Points. Alternatively, go to Accounts, select the account, open Linked Debit Card, and choose Redeem Points there."
+  },
+  {
+    "id": "dc-link-multiple-accounts",
+    "category": "debit_card",
+    "type": "faq",
+    "title": "Linking multiple accounts to one debit card",
+    "sample_queries": [
+      "Can I link more than one account to my debit card?",
+      "How do I add another account to my debit card?",
+      "Can one debit card work for all my accounts?"
+    ],
+    "answer": "You can link multiple accounts to a single debit card for ATM withdrawals, though online shopping and swiping will always use your primary linked account. This is done through Cards, then Debit Cards, then Link Accounts, or through Accounts, selecting the account, opening Linked Debit Card, and choosing Link Accounts. This self-service option is available to individuals and sole proprietors — other account types need to visit a branch to link accounts."
+  },
+  {
+    "id": "dc-manage-usage-limits",
+    "category": "debit_card",
+    "type": "faq",
+    "title": "Setting daily usage limits and domestic/international usage on a debit card",
+    "sample_queries": [
+      "How do I change my debit card's daily spending limit?",
+      "Can I turn off international usage on my debit card?",
+      "How do I set a withdrawal limit on my debit card?"
+    ],
+    "answer": "You can customize your daily usage limits, and turn domestic or international usage on or off, by going to Cards, then Debit Cards, and selecting Manage Limits. Alternatively, go to Accounts, select the account, open Linked Debit Card, and choose Manage Limits there."
+  }
+]

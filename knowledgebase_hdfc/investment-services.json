@@ -1,0 +1,110 @@
+[
+  {
+    "id": "mf-eligibility-open-account",
+    "category": "investment_services",
+    "type": "faq",
+    "title": "Who can open a Mutual Fund Investment Services Account",
+    "sample_queries": [
+      "Can I open a mutual fund investment account?",
+      "Who is eligible for an Investment Services Account?",
+      "I'm an NRI, can I invest in mutual funds through HDFC?"
+    ],
+    "answer": "Any individual or HUF who holds an HDFC Bank savings account and is KYC compliant can register for a Mutual Fund Investment Services Account. NRI customers who are KYC compliant and hold a savings account can also use this service, as long as the savings account is held singly or as either-or-survivor."
+  },
+  {
+    "id": "mf-first-applicant-transaction-rights",
+    "category": "investment_services",
+    "type": "faq",
+    "title": "Who can be the first applicant and who can transact",
+    "sample_queries": [
+      "Who has to be the first applicant on the investment account?",
+      "Can any joint holder transact on the mutual fund account?",
+      "Does my account holder order matter for investing?"
+    ],
+    "answer": "The first applicant on the Investment Services Account must be the same person as the first holder on the linked savings account. Only that first account holder is able to transact through the service — joint or additional holders can't independently place transactions."
+  },
+  {
+    "id": "mf-fatca-crs-kyc-overview",
+    "category": "investment_services",
+    "type": "faq",
+    "title": "What FATCA, CRS, and KYC mean for an investment account",
+    "sample_queries": [
+      "What is FATCA?",
+      "What is CRS?",
+      "Why does the bank need my KYC for investments?"
+    ],
+    "answer": "FATCA is a U.S. regulation requiring financial institutions to identify and report accounts held by U.S. persons to U.S. tax authorities. CRS is a similar international standard, developed by the OECD and adopted by India, requiring banks to report account information for residents of other participating countries. Both exist to prevent offshore tax evasion, and non-compliance with either can affect how your account or transactions are processed."
+  },
+  {
+    "id": "mf-extended-kyc-joint-holders",
+    "category": "investment_services",
+    "type": "faq",
+    "title": "Extended KYC requirement for joint account holders",
+    "sample_queries": [
+      "My mutual fund transaction got rejected, why?",
+      "Do joint holders need extra KYC for investment accounts?",
+      "How do I update extended KYC details?"
+    ],
+    "answer": "Individual investors and joint holders on an Investment Services Account are required to provide extended KYC details. Without this, transactions can get rejected by the asset management company or registrar. Joint holders can update this themselves through the Update Extended KYC option, found under the Request section of the Accounts tab in NetBanking. Non-individual customers and HUFs need to submit these details directly to a branch or relationship manager instead."
+  },
+  {
+    "id": "mf-close-investment-account",
+    "category": "investment_services",
+    "type": "faq",
+    "title": "Closing an Investment Services Account",
+    "sample_queries": [
+      "How do I close my mutual fund investment account?",
+      "I want to close my Investment Services Account",
+      "Can I close my ISA account online?"
+    ],
+    "answer": "Closing an Investment Services Account isn't a self-service option online — you'll need to submit the account closure form at your nearest branch for processing."
+  },
+  {
+    "id": "mf-nri-pis-restriction",
+    "category": "investment_services",
+    "type": "faq",
+    "title": "NRI mutual fund purchases and the PIS account",
+    "sample_queries": [
+      "Can I buy mutual funds through my PIS account as an NRI?",
+      "As an NRI, which account do I use for mutual funds?",
+      "Why can't I invest in mutual funds through my PIS account?"
+    ],
+    "answer": "As an NRI, you can't purchase mutual fund units through a Portfolio Investment Scheme, or PIS, account. Mutual fund investments need to go through a Non-PIS account instead."
+  },
+  {
+    "id": "mf-nri-additional-documents",
+    "category": "investment_services",
+    "type": "faq",
+    "title": "Additional documents NRIs need to invest in mutual funds",
+    "sample_queries": [
+      "What documents do I need as an NRI to invest in mutual funds?",
+      "Are there extra requirements for NRIs opening an investment account?",
+      "What proof of address do I need as an NRI investor?"
+    ],
+    "answer": "As an NRI, alongside a certified true copy of your passport, you'll also need a certified true copy of both your overseas and permanent address. If any of these documents are in a language other than English, they'll need to be translated, and the whole set needs to be attested either by a consulate office or by an overseas branch of a scheduled commercial bank registered in India."
+  },
+  {
+    "id": "mf-minor-turning-major",
+    "category": "investment_services",
+    "type": "faq",
+    "title": "What happens to a mutual fund investment when a minor turns 18",
+    "sample_queries": [
+      "My child's investment account holder just turned 18, what do we do?",
+      "What happens to a minor's mutual fund investment at 18?",
+      "How do I update a mutual fund account after the minor turns major?"
+    ],
+    "answer": "Once someone who invested as a minor turns 18, they need to become KYC compliant in their own name and get their own KYC acknowledgement. This change, along with updated bank details and signature, needs to be reported to the mutual fund where the investment is held, following that fund's specific requirements for the update."
+  },
+  {
+    "id": "mf-investnow-support-contact",
+    "category": "investment_services",
+    "type": "faq",
+    "title": "Contact for InvestNow queries",
+    "sample_queries": [
+      "Who do I contact about InvestNow?",
+      "I have a question about my InvestNow account",
+      "What's the support email for InvestNow?"
+    ],
+    "answer": "For any queries about InvestNow, you can email investnowsupport@hdfcsec.com."
+  }
+]

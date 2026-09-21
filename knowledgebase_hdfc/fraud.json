@@ -1,0 +1,138 @@
+[
+  {
+    "id": "fraud-what-is-fraud",
+    "category": "fraud",
+    "type": "faq",
+    "title": "What counts as fraud",
+    "sample_queries": [
+      "What counts as fraud?",
+      "What's the definition of fraud on my account?",
+      "Is this situation actually fraud?"
+    ],
+    "answer": "Fraud is when someone uses your card or account details without your permission — for example, your card being used for a purchase you don't recognize, money being withdrawn from your account without your knowledge, or someone using your login details to access your online banking."
+  },
+  {
+    "id": "fraud-what-is-dispute",
+    "category": "fraud",
+    "type": "faq",
+    "title": "What counts as a dispute (as opposed to fraud)",
+    "sample_queries": [
+      "What's the difference between a dispute and fraud?",
+      "What counts as a dispute?",
+      "Is this a dispute or should I report it as fraud?"
+    ],
+    "answer": "A dispute is different from fraud — it's a transaction you did authorize, but something went wrong with it. For example, an ATM that gave you only part of the cash you withdrew, paying for something you never received, or money leaving your account without reaching the intended recipient. If you didn't authorize the transaction at all, that's fraud rather than a dispute, and should be reported that way instead."
+  },
+  {
+    "id": "fraud-report-new-fraud",
+    "category": "fraud",
+    "type": "procedure",
+    "title": "Reporting a fraudulent transaction",
+    "sample_queries": [
+      "I don't recognize a transaction on my account",
+      "There's a payment I never made on my statement",
+      "I think someone used my card without my permission",
+      "My account was debited for something I didn't do",
+      "How do I report fraud on my account?",
+      "My account was accessed without my knowledge"
+    ],
+    "overview": "Walks the user through formally reporting a fraudulent transaction through NetBanking or the app, including blocking the affected channels.",
+    "steps": [
+      { "step_number": 1, "instruction": "In NetBanking, go to the Dashboard, find Urgent Care, and select Raise Dispute and Report Fraud, then Report New Fraud. In the app, open the hamburger menu on your profile icon, go to Raise Dispute & Report Fraud under Secure Lock & Support, then select Report New Fraud.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Provide the details requested, select the transaction or transactions involved, and attach a copy of your FIR.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "In the same flow, you can block the affected channels — Credit Card, Debit Card, Internet Banking, and Mobile Banking — to stop any further misuse right away.", "wait_for_confirmation": true },
+      { "step_number": 4, "instruction": "Submit the report. You'll get updates by SMS and email as it progresses, and you can check the ticket's status later in NetBanking or the app.", "wait_for_confirmation": false }
+    ],
+    "notes": "You can also file a parallel report with the National Cyber Crime helpline at 1930 or via cybercrime.gov.in. Reporting promptly matters for liability protection — see the zero liability policy for details."
+  },
+  {
+    "id": "fraud-raise-dispute",
+    "category": "fraud",
+    "type": "procedure",
+    "title": "Raising a dispute on a transaction",
+    "sample_queries": [
+      "How do I raise a dispute on a transaction?",
+      "I want to dispute a payment I made",
+      "How do I report a transaction problem that isn't fraud?"
+    ],
+    "overview": "Walks the user through raising a dispute for a transaction they authorized but that had a problem — different from reporting outright fraud.",
+    "steps": [
+      { "step_number": 1, "instruction": "In NetBanking, go to the Dashboard, find Urgent Care, and select Raise Dispute and Report Fraud, then Raise New Dispute. In the app, open the hamburger menu on your profile icon, go to Raise Dispute & Report Fraud under Secure Lock & Support, then select Raise New Dispute.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Provide the details requested, select the transaction, and attach any supporting documents you have.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Submit the dispute. You'll get updates by SMS and email once it's submitted, and you can check its status later in NetBanking or the app.", "wait_for_confirmation": false }
+    ]
+  },
+  {
+    "id": "fraud-check-ticket-status",
+    "category": "fraud",
+    "type": "faq",
+    "title": "Checking the status of a fraud or dispute ticket",
+    "sample_queries": [
+      "How do I check my dispute ticket status?",
+      "Has my fraud report been resolved yet?",
+      "Where can I track my fraud case?"
+    ],
+    "answer": "You can check ticket status in NetBanking by going to the Dashboard, then Urgent Care, and selecting Raise Dispute and Report Fraud — or in the app through the hamburger menu, Secure Lock & Support, then Raise Dispute & Report Fraud. You'll see all tickets raised in the last 6 months, split into a Dispute tab and a Fraud tab depending on which type you filed."
+  },
+  {
+    "id": "fraud-unblock-channels-after-report",
+    "category": "fraud",
+    "type": "faq",
+    "title": "Unblocking channels blocked while reporting fraud",
+    "sample_queries": [
+      "I blocked my card while reporting fraud, how do I get it back?",
+      "My NetBanking got blocked after I reported fraud, what now?",
+      "Can I unblock my debit card after a fraud report?"
+    ],
+    "answer": "For a credit card, blocking during a fraud report is permanent, so you'd need to request a reissue — you can do that instantly through NetBanking or the app if you didn't already request one while reporting, or visit the Credit Card page later to request a new card. For a debit card, NetBanking, or mobile banking access that got blocked, you'll need to visit your nearest branch to have it set back up."
+  },
+  {
+    "id": "fraud-document-upload-failure",
+    "category": "fraud",
+    "type": "faq",
+    "title": "What to do if a document upload fails during a fraud or dispute report",
+    "sample_queries": [
+      "My document upload failed while reporting fraud",
+      "I can't attach my FIR to the dispute form",
+      "The file I'm trying to upload for my fraud report won't go through"
+    ],
+    "answer": "During the initial report, you can only attach one document, under 2MB, in PDF or JPG format. If you have more documents to send, or the upload isn't working, email them to cc.disputes@hdfc.bank.in with your dispute or fraud ticket number in the subject line, and the bank will link them to your report."
+  },
+  {
+    "id": "fraud-zero-liability-policy",
+    "category": "fraud",
+    "type": "faq",
+    "title": "Zero liability policy for unauthorized transactions",
+    "sample_queries": [
+      "Will I get my money back if there's a fraud transaction?",
+      "Am I liable for a transaction I didn't make?",
+      "What is zero liability?",
+      "How many days do I have to report fraud to not lose my money?"
+    ],
+    "answer": "If an unauthorized transaction happens due to negligence on the bank's end — for example a security lapse on their side — you're generally covered under zero liability. If the transaction happened due to your own negligence, such as sharing your PIN or OTP, liability can shift to you unless you report it within three business days of noticing it. Reporting promptly is the single biggest factor in how much protection applies, so it's always worth reporting the moment something looks off, even before you're fully sure."
+  },
+  {
+    "id": "fraud-phishing-suspicious-message",
+    "category": "fraud",
+    "type": "faq",
+    "title": "What to do about a suspicious message, call, or link claiming to be from the bank",
+    "sample_queries": [
+      "I got a message asking for my OTP, is this real?",
+      "Someone called claiming to be from the bank asking for my PIN",
+      "I clicked a link in a text that looked like it was from the bank"
+    ],
+    "answer": "The bank will never call, message, or email you asking for your PIN, OTP, password, or full card number — any request like that is a scam attempt, regardless of how official it looks. Don't click links or share details in that message or call. If you already shared something sensitive or clicked a suspicious link, treat it the same as a fraud report: get it reported and the affected channels blocked right away through the Raise Dispute and Report Fraud option in NetBanking or the app, and you can also flag it to the National Cyber Crime helpline at 1930."
+  },
+  {
+    "id": "fraud-cybercrime-helpline",
+    "category": "fraud",
+    "type": "faq",
+    "title": "Reporting fraud to the National Cyber Crime helpline",
+    "sample_queries": [
+      "Should I also report this to the police or cyber cell?",
+      "What is the cyber crime helpline number?",
+      "Do I need to file a police complaint for bank fraud?"
+    ],
+    "answer": "Alongside reporting to the bank, you can report online financial fraud to India's National Cyber Crime helpline by calling 1930 or filing a report at cybercrime.gov.in. This is a separate, government-run process from the bank's own fraud investigation, and doing both gives you the strongest paper trail if the case needs further action."
+  }
+]

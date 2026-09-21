@@ -1,0 +1,866 @@
+[
+  {
+    "id": "billpay-smartpay-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1",
+    "title": "SmartPay - definition and Biller types",
+    "text": "The term \"SmartPay\" shall mean standing instructions for direct debit authorization of customers' HDFC Bank Credit Card, Debit Card and Account towards bill payment of presentment Billers, Payee/payment Billers and Presentment and payment covered under the \"BillPay & Recharge\" section of Net Banking. Presentment Billers: Billers that present an electronic bill (i.e., you will receive the bill electronically through the HDFC Bank Bill Payment service) and accept a payment against the presented bill. Payee/Payment Billers: Billers that do not present an electronic bill, but accept instant or adhoc payments. Presentment and Payment: Billers that present an electronic bill as well as accept instant or adhoc payments."
+  },
+  {
+    "id": "billpay-smartpay-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2",
+    "title": "SmartPay - application form and facility scope",
+    "text": "SmartPay application form should be filled by the primary cardholder/Accountholder. The facility will be available only on the designated Credit Card/Debit Card/Bank account and no other account or card held with the Bank. It can also be availed through Net Banking / Mobile Banking platform."
+  },
+  {
+    "id": "billpay-smartpay-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "3",
+    "title": "SmartPay - Bank's right to approve or reject registration",
+    "text": "HDFC Bank reserves the right to approve / reject the registration forms without assigning any reason whatsoever."
+  },
+  {
+    "id": "billpay-smartpay-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4",
+    "title": "SmartPay - Bank's right to revoke facility for unsatisfactory credit behaviour",
+    "text": "HDFC Bank reserves the right to revoke / stop this facility if the credit behaviour on the card/ Bank Account is unsatisfactory."
+  },
+  {
+    "id": "billpay-smartpay-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5",
+    "title": "SmartPay - customer obligation to update registration on detail changes",
+    "text": "Customer agrees that he / she would fill up a new SmartPay application form or modify existing biller registration details through Net banking/Mobile Banking when the Credit Card/ Debit card/Bank Account details, address or any biller detail provided earlier during registration is transferred or changed."
+  },
+  {
+    "id": "billpay-smartpay-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6",
+    "title": "SmartPay - customer responsibility to notify change or withdrawal",
+    "text": "It will be the responsibility of the customer to inform HDFC Bank in writing of any change or withdrawal of the SmartPay facility thus availed. Such change or withdrawal will take 30 days to be effective upon receipt of customer request. Failure of the customer to do the same and subsequent debits, if any, towards utility payments will constitute valid transactions and the customer will be liable to pay the same."
+  },
+  {
+    "id": "billpay-smartpay-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7",
+    "title": "SmartPay - cardholder responsibility for disconnection/penalty disputes",
+    "text": "Any disputes arising out of disconnection of the utility facility, penalty from government and late charges on instalment dues arising due to change / revocation of the facility will be the sole responsibility of the cardholder and the cardholder will not hold HDFC Bank responsible / liable for the same."
+  },
+  {
+    "id": "billpay-smartpay-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8",
+    "title": "SmartPay - payment timing per utility due date",
+    "text": "Certain utilities / service providers may specify the date on which payment is to be made, notwithstanding any instructions given by the cardholder in this regard, HDFC Bank shall remit the payment any time before the payment due date specified by the utilities / service providers in the e-bill given to the bank."
+  },
+  {
+    "id": "billpay-smartpay-9",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9",
+    "title": "SmartPay - processing subject to available limits/balance",
+    "text": "Without prejudice to the generality of the aforesaid, processing of all the instructions is subject to the availability of free, clear and available limits in the designated card/account at the time of processing the transaction. In the event of credit limit or available balance not being wholly sufficient, HDFC Bank shall not process the instructions and shall not make payments to the utility company. Bank is not liable in any such circumstances."
+  },
+  {
+    "id": "billpay-smartpay-10",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10",
+    "title": "SmartPay - cardholder indemnity for disputes with utility companies",
+    "text": "The cardholder indemnifies HDFC Bank from and against all actions, suits, claims, liabilities and proceedings due to or arising out of any or all disputes between the cardholder and utility companies or by reason of HDFC Bank acting in good faith or refusing to take or omitting to act on the SmartPay facility."
+  },
+  {
+    "id": "billpay-smartpay-11",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "11",
+    "title": "SmartPay - Bank's limitation of liability for loss or damage",
+    "text": "HDFC Bank shall not be liable to the customer for any loss or damage whatsoever or howsoever arising directly or indirectly including without limitation due to delay or failure to give effect to the SmartPay facility."
+  },
+  {
+    "id": "billpay-smartpay-12",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12",
+    "title": "SmartPay - endeavour to make timely payments, no warranty against delay",
+    "text": "HDFC Bank will endeavour to effect payments / carry out instructions received by it within the payment due date to each utility company. However, HDFC Bank does not warrant that payment / fulfilment of instructions will not be delayed for reasons beyond its control. As the instructions would depend on various electronic technology used from time to time, there could be delays in receipt of any instructions by HDFC Bank from the customer and by the provider of utilities / services."
+  },
+  {
+    "id": "billpay-smartpay-13",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "13",
+    "title": "SmartPay - no involvement in utility disputes; residential use only",
+    "text": "HDFC Bank will not in any way be connected with the disputes between utility companies and the customer. This facility is available only for utility bills pertaining to residential uses. No commercial utility bills will be paid under this scheme."
+  },
+  {
+    "id": "billpay-smartpay-14",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "14",
+    "title": "SmartPay - registration does not guarantee approval",
+    "text": "Signing/registration of the SmartPay (application form/facility) does not ensure automatic approval of this facility."
+  },
+  {
+    "id": "billpay-smartpay-15",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "15",
+    "title": "SmartPay - scope of standing instruction validity and limit",
+    "text": "The SmartPay facility is in respect of the entire charges or to the extent of the limit set by the customer on the utility outstanding and the said instruction shall be valid and binding for the validity period and subsequent renewal period of the Card Account, unless and until rescinded by the customer in writing to HDFC Bank."
+  },
+  {
+    "id": "billpay-smartpay-16",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16",
+    "title": "SmartPay - no receipt issued; statement as proof of payment",
+    "text": "No receipt will be given for bills paid through this facility. Card/Account statement is adequate proof that such payment was paid to utility company."
+  },
+  {
+    "id": "billpay-smartpay-17",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "17",
+    "title": "SmartPay - Bank not party to utility contracts or service deficiencies",
+    "text": "HDFC Bank neither endorses the utilities / services offered, nor is it in any manner party to the contracts that may be executed between the customer and the providers of such utilities / services. The providers of utilities / services shall be solely responsible to the customer to render the utilities services for which payment is to be made by HDFC Bank and HDFC Bank shall NOT be responsible/liable for any deficiency in the same including, but not limited to, deficient quality, delivery, quantity etc., and shall not be made party to any disputes between the customer and any providers of utilities / services."
+  },
+  {
+    "id": "billpay-smartpay-18",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "18",
+    "title": "SmartPay - customer shall not hold Bank liable for provider's service issues",
+    "text": "The customer shall not hold HDFC Bank liable for any non-service, delayed service or faulty service rendered by the provider of utilities / services and shall not contact or communicate in any manner whatsoever, inter alia, by electronic mail, phone, post, SMS or personal meeting with HDFC Bank in this regard."
+  },
+  {
+    "id": "billpay-smartpay-19",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "19",
+    "title": "SmartPay - late payment interest entitlement",
+    "text": "HDFC Bank shall be entitled without prejudice to any other right or remedy it may have to charge the customer late payment interest at the applicable rate for delayed payment on all late payments from the date the charge was required to be paid until the actual date of payment."
+  },
+  {
+    "id": "billpay-smartpay-20",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "20",
+    "title": "SmartPay - discretionary acceptance of cancellation requests",
+    "text": "HDFC Bank may, in its sole discretion, accept any cancellation request by the cardholder, provided that HDFC Bank has not already made the utility payment for the month for which the cancellation request is made."
+  },
+  {
+    "id": "billpay-smartpay-21",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "21",
+    "title": "SmartPay - relationship to Card Member Agreement (no prejudice)",
+    "text": "Nothing contained herein shall prejudice or affect the terms and conditions of the Card Member Agreement."
+  },
+  {
+    "id": "billpay-smartpay-22",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "22",
+    "title": "SmartPay - terms additional to Card Member Agreement",
+    "text": "The terms of this facility shall be in addition to and not in derogation of the terms contained in the Card Member Agreement."
+  },
+  {
+    "id": "billpay-smartpay-23",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "23",
+    "title": "SmartPay - no binding obligation to continue facility after termination",
+    "text": "Nothing contained in the SmartPay facility shall be construed as binding obligation on HDFC Bank or any participating utility company to continue the facility after the facility termination date or substitute by a new or similar facility."
+  },
+  {
+    "id": "billpay-smartpay-24",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "24",
+    "title": "SmartPay - Bank's right to revoke facility without prior intimation",
+    "text": "HDFC Bank reserves the right to revoke / stop this facility to any customer without any prior intimation if the Bank believes that the continued use of this facility is not in the interest of the Bank."
+  },
+  {
+    "id": "billpay-smartpay-25",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "25",
+    "title": "SmartPay - reliance on electronic communications from customer",
+    "text": "As and when other communication channels are introduced HDFC Bank may be entitled to rely upon all electronic communications, orders or messages to HDFC Bank from the customer whether received by email, SMS, on telephone or otherwise in the manner prescribed for the same from time to time by HDFC Bank and HDFC Bank shall not be obliged to verify or make further inquiry into the identity of the sender, or the message integrity, of any communications, orders or messages. The customer shall in no circumstance dispute such reliance by HDFC Bank."
+  },
+  {
+    "id": "billpay-smartpay-26",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "26",
+    "title": "SmartPay - exclusive jurisdiction of Chennai courts",
+    "text": "All disputes arising out of the SmartPay facility shall be subject to the exclusive jurisdiction of competent courts in Chennai."
+  },
+  {
+    "id": "billpay-smartpay-27",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "27",
+    "title": "SmartPay - nomination effective subject to Card/Account standing",
+    "text": "The SmartPay nomination will be effective subject to HDFC Bank Card/Account being valid and in good standing."
+  },
+  {
+    "id": "billpay-smartpay-28",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "28",
+    "title": "SmartPay - discretionary acceptance/decline of registration",
+    "text": "HDFC Bank may at its sole discretion accept or decline the said SmartPay registration."
+  },
+  {
+    "id": "billpay-smartpay-29",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "29",
+    "title": "SmartPay - unsigned charge records and undertaking to honour charges",
+    "text": "The record of charges in respect of the above services received or availed by me and submitted by utility companies to my Card Account/Bank Account will neither bear my signature nor the imprint of my Card. I therefore undertake to unconditionally honour and pay without demur and contestation all the said charges including interim charges booked by me under this facility, as and when I am billed for the same by HDFC Bank. This Recurring Transaction Instruction shall subsist during the validity period of my Card and subsequent renewals thereof."
+  },
+  {
+    "id": "billpay-smartpay-30",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "30",
+    "title": "SmartPay - self-attested bill copies and address matching confirmation",
+    "text": "I confirm that the latest self-attested bill copies of the utility service for which I would need to avail of the SmartPay facility are attached along with this application format. I also confirm that the address on the bill matches with residential address given for my Credit Card account."
+  },
+  {
+    "id": "billpay-smartpay-31",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "31",
+    "title": "SmartPay - confirmation utility bills are for residential use",
+    "text": "I confirm that the utility bills enclosed are photocopies of the original bills and that these utilities are used only for residential purpose."
+  },
+  {
+    "id": "billpay-smartpay-32",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "32",
+    "title": "SmartPay - no liability for biller service/billing deficiencies; e-bill processing window",
+    "text": "I understand that HDFC Bank is not responsible or liable for any service and/or billing deficiencies or inadequacies of utility companies as the case may be. All e-bills received will be processed within 2 to 3 working days before the due date. Furthermore, I affirm that I am liable to honour all my credit card/Debit card/ Bank Account commitments irrespective of any grievances / complaints I may have with utility companies."
+  },
+  {
+    "id": "billpay-smartpay-33",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "33",
+    "title": "SmartPay - continued manual payment until activation confirmation received",
+    "text": "I will continue making payments towards the above utility outstanding until I receive an SMS/ Email/letter confirmation from HDFC Bank indicating that my SmartPay facility has been activated along with effective date of activation."
+  },
+  {
+    "id": "billpay-smartpay-34",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "34",
+    "title": "SmartPay - written termination requirement",
+    "text": "I agree to communicate termination of facility to HDFC Bank in writing failing which the payment made to the utility company will be construed as valid and binding on me."
+  },
+  {
+    "id": "billpay-smartpay-35",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "35",
+    "title": "SmartPay - disputes to be resolved directly with utility company",
+    "text": "I agree to resolve disputes (if any) of whatsoever nature directly with the utility company and will not hold HDFC Bank liable for any deficiency of services provided by the utility company."
+  },
+  {
+    "id": "billpay-smartpay-36",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "36",
+    "title": "SmartPay - applicability of clauses to Net Banking/Mobile Banking registration",
+    "text": "I confirm that all the above clauses are applicable even if I apply for SmartPay service through Net Banking / Mobile Banking."
+  },
+  {
+    "id": "billpay-smartpay-37",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "37",
+    "title": "SmartPay - Bank's right to change list of eligible utility companies",
+    "text": "HDFC Bank may change from time to time the list of utility companies available for which SmartPay facility is extended."
+  },
+  {
+    "id": "billpay-smartpay-38",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "38",
+    "title": "SmartPay - stop payment request timing and single-bill scope",
+    "text": "Stop payment request needs to be submitted before the bill is scheduled for debit and is valid for that particular scheduled bill only and not for subsequent bills."
+  },
+  {
+    "id": "billpay-smartpay-39a",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "39(a)",
+    "title": "SmartPay - Debit Card upgrade/reissue/renewal carry-forward and Ecom flag",
+    "text": "In-case if your Debit card is being upgraded/reissued/renewed, then the SmartPay on your old debit card will be carried forward to your new debit card. Please note that if there is any new e-bill already scheduled for payment debit, then debits for such scheduled e-bills will not get processed on your new debit card (since bill schedule has already taken place and then the new debit card is issued). All subsequent bills generated & scheduled post issuance of new debit card will go smoothly as per process. When customer Debit card is being upgraded/reissued/renewed need to enable Ecom flag by logging into My cards for all online transactions to go through seamlessly. For example: Bill Scheduled: 5th Jan 2024 (with due date as 15th Jan 2024), New debit card issued on: 8th Jan 2024. Here, the SmartPay debit will NOT take place on the new debit card. Hence, customer can make adhoc / one-time manual payment towards this bill and future bills which will be received and scheduled will get debited as per existing process on the new debit card."
+  },
+  {
+    "id": "billpay-smartpay-39b",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "39(b)",
+    "title": "SmartPay - Credit Card upgrade/reissue/renewal carry-forward",
+    "text": "In-case if your Credit card is being upgraded/reissued/renewed, then the SmartPay on your old credit card will be carried forward to your new credit card and there will not be any impact on existing/new bills scheduled prior to new credit card issuance. All the SmartPay debits will take place as per process. For example: Bill Scheduled: 5th Jan 2024 (with due date as 15th Jan 2024), New credit card issued on: 8th Jan 2024. Here, the SmartPay debit will take place on the new credit card as per existing process."
+  },
+  {
+    "id": "billpay-smartpay-40",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "40",
+    "title": "SmartPay - avoiding dual registration with Standing Instructions under Bill Pay",
+    "text": "In-case you have registered for Standing Instructions facility under Bill Pay for your HDFC Bank Credit Card for the same biller registered under SmartPay, it is advisable to delete either of two registrations to avoid dual payment."
+  },
+  {
+    "id": "billpay-smartpay-41",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "41",
+    "title": "SmartPay - deletion channels and effect",
+    "text": "Deletion of a registered bill can be initiated either by logging in Net banking, Mobile Banking or by calling Phone Banking team. Post deleting a bill from SmartPay, no further e-bills will be processed for the deleted bill."
+  },
+  {
+    "id": "billpay-smartpay-42",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "42",
+    "title": "SmartPay - Corporate Mobile connections (CUG) not permitted",
+    "text": "Corporate Mobile connections (CUG) should not be given for SmartPay registrations. Only retail Mobile connections should be registered for availing SmartPay facility. HDFC Bank is NOT responsible if a high value ticket of CUG connection is processed through SmartPay service."
+  },
+  {
+    "id": "billpay-smartpay-43",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "43",
+    "title": "SmartPay - customer responsibility to delete bill on service surrender/termination",
+    "text": "It is the customer's responsibility to DELETE a bill if he has surrendered / terminated the service with his biller. HDFC Bank is NOT responsible for any such debits that takes place on a surrendered / terminated connection."
+  },
+  {
+    "id": "billpay-smartpay-44",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "44",
+    "title": "SmartPay - no liability for bills not fetched during fetch process",
+    "text": "HDFC Bank is not responsible if a bill is NOT fetched during the bill fetch process. Customer's need to manually pay their bills through alternate mode to avoid service disruption / late fees."
+  },
+  {
+    "id": "billpay-smartpay-45",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "45",
+    "title": "SmartPay - no liability for incorrect e-bill from biller",
+    "text": "HDFC Bank is not responsible if an incorrect e-bill is given by the biller and gets processed. Customer will coordinate with his biller for any such discrepancy."
+  },
+  {
+    "id": "billpay-smartpay-46",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "46",
+    "title": "SmartPay - deletion of bills inactive for 14 months, with prior SMS notice",
+    "text": "HDFC Bank reserves the right to delete all/any such bills where debits are not processed at all for a time period of 14 months. SMS will be sent to the customer 30 days prior to the deletion action."
+  },
+  {
+    "id": "billpay-smartpay-47",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "47",
+    "title": "SmartPay - bill-related disputes to be raised with billers",
+    "text": "Customer will contact his billers for all bill related disputes and will not hold HDFC Bank responsible."
+  },
+  {
+    "id": "billpay-smartpay-48",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "48",
+    "title": "SmartPay - no liability for delayed/non-receipt of SMS/Email communication",
+    "text": "HDFC Bank is not responsible for any delay or non-receipt of SmartPay SMS/Email communication."
+  },
+  {
+    "id": "billpay-smartpay-49",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "49",
+    "title": "SmartPay - bill activation timeline and bill fetch commencement",
+    "text": "Bills registered will be activated within 1 hour and the Bill Fetch process will also start post activation of the bill. This will allow HDFC Bank to start Bill fetch from same day and such fetched bills will get scheduled for auto debit as per process."
+  },
+  {
+    "id": "billpay-smartpay-50",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "50",
+    "title": "SmartPay - Bank's right to change waiting/cooling period",
+    "text": "HDFC Bank reserves the right to change the waiting / cooling period."
+  },
+  {
+    "id": "billpay-smartpay-51",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "51",
+    "title": "SmartPay - no liability for BBPS/biller system unavailability; reversal timeline",
+    "text": "HDFC Bank is not responsible if the BBPS / biller system is not available due to what-so-ever reason and is not accepting the payment posting request. In such cases, reversals will be processed back to the same origin of debit for all such biller posting failures cases within 3 to 5 working days."
+  },
+  {
+    "id": "billpay-smartpay-52",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "52",
+    "title": "SmartPay - Standing Instruction processing timeline around due date",
+    "text": "Bills setup for Standing Instruction on Debit Card/Credit Card or Bank Account will be processed around 4 working days prior to the due date. Debit will happen on next working date from scheduled date. Long weekends, public holidays will be excluded in this 4 working days and settlement process will be actioned accordingly in the next working day. HDFC Bank is not liable if there is a late payment charges/service disruption to the customer due to such non-working holidays. Customer can seek details from the bank and coordinate further with his respective biller for any billing related disputes."
+  },
+  {
+    "id": "billpay-smartpay-53",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "53",
+    "title": "SmartPay/BillPay - settlement timeline to billers",
+    "text": "All SmartPay / BillPay (SI and NON-SI) debits towards Bill Payments will get settled to the respective billers within 2-3 working days."
+  },
+  {
+    "id": "billpay-smartpay-54",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "54",
+    "title": "SmartPay - SMS alerts limited to domestic mobile numbers",
+    "text": "Bank is not responsible for non-delivery of SMS if customer has an overseas/foreign country code (ISD) mobile connections and mapped to SmartPay facility. BillPay Alerts will be sent to only domestic mobile numbers."
+  },
+  {
+    "id": "billpay-smartpay-55",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "55",
+    "title": "SmartPay - registered bills should observe corresponding fetched-bill debits",
+    "text": "All Bills registered for Smartpay should also observe corresponding debits on fetched bills."
+  },
+  {
+    "id": "billpay-smartpay-56",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "56",
+    "title": "SmartPay - LIC Payment debit timing relative to grace period",
+    "text": "LIC Payment: Amount will be debited 4 days before the due date of grace period (Grace period will be included in due date as per LIC Policy). e.g: If your due date of policy payment is 8th Sep, one-month grace period will be included than as per LIC your due date will be 8th Oct, so amount will be debited around 4th Oct."
+  },
+  {
+    "id": "billpay-smartpay-57",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "57",
+    "title": "SmartPay - bill payment limited to Standing Instruction limit set",
+    "text": "Bill amount will get paid provided the amount is within the specified limit set for Standing Instruction. (Kindly ensure that the Standing Instruction Limit is sufficiently high to ensure payments with normal variations in bill amount). In case a bill amount presented is higher than the amount specified here, the bill will not be paid automatically and will have to be paid using 'View / Pay Bill' option."
+  },
+  {
+    "id": "billpay-smartpay-58",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "58",
+    "title": "SmartPay - Payment Only biller type debit process",
+    "text": "For Payment Only biller type, no bill will get presented. The Standing Instruction amount will get debited and paid to biller as per the period and frequency cycle set."
+  },
+  {
+    "id": "billpay-smartpay-59",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "59",
+    "title": "SmartPay - RBI E-Mandate first-bill additional factor authentication",
+    "text": "As per RBI E-Mandate Framework circular, bills registered under SI (Credit and Debit Cards) will require additional factor of authentication from customer to schedule the First bill for auto debit. Customer will have to provide OTP based consent via Bitly link sent with pre-debit notification on your registered mobile number/email through SMS/Email. If you do not provide consent, the bill will not be scheduled or paid automatically. This authentication is mandatory for 1st Bill only unless the bill value is above RBI Transaction limit depending on the category."
+  },
+  {
+    "id": "billpay-smartpay-60",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "60",
+    "title": "SmartPay - RBI E-Mandate threshold-based additional factor authentication (w.e.f. 12 Dec 2023)",
+    "text": "As per RBI E-Mandate w.e.f. 12th December 2023, Bills registered for SI where bill amount is greater than Rs. 1,00,000 for categories - Mutual Fund, Insurance and Credit Card Repayment & Rs 15,000 for all other categories will require additional factor of authentication from customer to schedule the bill for auto debit. Customer will have to provide OTP based consent via Bitly link sent with pre-debit notification on your registered mobile number/email through SMS/Email. If you do not provide consent, the bill will not be scheduled or paid automatically."
+  },
+  {
+    "id": "billpay-smartpay-61",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "61",
+    "title": "SmartPay - cardholder responsibility to notify change or withdrawal (restated)",
+    "text": "It will be the responsibility of the cardholder to inform HDFC Bank in writing of any change or withdrawal of the SmartPay facility thus availed. Such change or withdrawal will take 30 days to be effective upon receipt of cardholder request. Failure of the cardholder to do the same and subsequent debits, if any, towards utility payments will constitute valid transactions and the cardholder will be liable to pay the same."
+  },
+  {
+    "id": "billpay-smartpay-62",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "62",
+    "title": "SmartPay - cardholder indemnity for utility company disputes (restated)",
+    "text": "The cardholder indemnifies HDFC Bank from and against all actions, suits, claims, liabilities and proceedings due to or arising out of any or all disputes between the cardholder and utility companies or by reason of HDFC Bank acting in good faith or refusing to take or omitting to act on the SmartPay facility."
+  },
+  {
+    "id": "billpay-smartpay-63",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "63",
+    "title": "SmartPay - Bank's limitation of liability for loss or damage (restated)",
+    "text": "HDFC Bank shall not be liable to the cardholder for any loss or damage whatsoever or howsoever arising directly or indirectly including without limitation due to delay or failure to give effect to the SmartPay facility."
+  },
+  {
+    "id": "billpay-smartpay-64",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "64",
+    "title": "SmartPay - non-processing when e-bill exceeds Autopay limit",
+    "text": "SmartPay will not get processed if the received e-bill is greater than the Autopay limit set by the customer."
+  },
+  {
+    "id": "billpay-smartpay-65",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "65",
+    "title": "SmartPay - customer actions when a bill is scheduled for auto debit",
+    "text": "In the scenario if the bill is scheduled for auto debit, customer needs to do either of the following actions: (a) Opt for stop payment via NB/MB under the bill where customer doesn't want auto debit. This will only stop the existing scheduled bill & subsequent bills will be paid via auto debit; or (b) Delete the bill on NB/MB to ensure that there are no future auto debits."
+  },
+  {
+    "id": "billpay-cashback-overview",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "cashback-overview",
+    "title": "SmartPay CashBack Offer - overview, eligibility, and monthly cap",
+    "text": "SmartPay CashBack Offer is only applicable for bills registered for SmartPay on Debit & Credit Cards. Register for SmartPay (automatic payments) under BillPay using HDFC Bank Credit / Debit Cards and receive 5% cash back for next 12 months. Cash back period of 12 months will start from the date when 1st bill is registered for SmartPay (Auto payment) service. Maximum cash back of Rs. 150/- per month/statement cycle."
+  },
+  {
+    "id": "billpay-cashback-cc",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "cashback-cc",
+    "title": "CashBack for Credit Card - posting and eligibility",
+    "text": "Cashback shall be posted in the respective card account, in the next statement cycle from the SmartPay transaction. Cashback is not provided for Credit Card billers registered on Debit Card. The above-mentioned Promo Codes are configured in Prima for cashback posting in Credit card."
+  },
+  {
+    "id": "billpay-cashback-dc",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "cashback-dc",
+    "title": "CashBack for Debit Card - posting, redemption, and validity",
+    "text": "Cashback point proceeds shall be posted to customer's Debit Card linked account within 90 days from the end of the offer period, on best effort basis. Customers can redeem Cashback points by logging into Net Banking/Mobile Banking or calling Phone Banking and request for redemption of Cashback points. Every 1 Cashback point is equal to Re 1. Reward Points accrued as part of cashback under SmartPay on Debit Cards have a validity of 90 days from the date of posting; no requests for extension will be allowed. Redemption via Net Banking: Cards > Debit Cards > Enquire > Cashback Enquiry and Redemption > Account Number > Continue > Input the amount under Debit Card Promotional Cashback Points. Redemption via Phone banking: 48 hours post request for redemption of Cashback points, the equivalent amount shall be credited to the customer primary account linked to the debit card. Promotional Cashback points earned will be valid for redemption for 3 months from cashback posting month, post which the same will expire. Any queries/complaints related to the offer are to be raised only after the end of TAT for cashback posting of 75 days."
+  },
+  {
+    "id": "billpay-cashback-examples",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "cashback-examples",
+    "title": "CashBack Offer - illustrative examples",
+    "text": "Example 1: Customer A registers for SmartPay for the first time on 1st Jan 2023, adding 2 bills (Vodafone Post-paid and Airtel DTH); his cashback offer expires on 31st Dec 2023. He is eligible for cashback on successful SmartPay debits from both bills between 1st Jan 2023 and 31st Dec 2023, subject to max eligibility of 5% or Rs. 150, whichever is lower, calculated on the consolidated SmartPay debit amount. Example 2: Customer B registers on 1st Jan 2023 with 2 bills and adds a third bill (MSEB Electricity) on 20th Aug 2023; his offer also expires 31st Dec 2023, and he is eligible for cashback on debits from all three bills within that window, subject to the same 5%/Rs. 150 cap. Example 3: Customer C registered on 1st Jan 2022, with the offer expiring 31st Dec 2022 and cashback already received for that window; bills added later in Jan, Feb, and Sept 2023 are not eligible for further cashback since the offer period had expired."
+  },
+  {
+    "id": "billpay-cashback-notes",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "cashback-notes",
+    "title": "CashBack Offer - general notes and exclusions",
+    "text": "Cashback is not given for SmartPay on Bank Account registered bill payments, Adhoc payments done through BillPay, or Register & Payment. Bank reserves the right to change Cashback offer details. SmartPay on Credit Card cashback is calculated by the system automatically once the credit card statement is generated. SmartPay on Debit Card cashback is calculated by Marketing Operations team once a month (after month end) and posted as cashback points to the customer debit card associated bank account. If customer is not registered on SmartPay, then no cashback would be posted. Cashback will not be provided for additional bills registered post the Cashback period."
+  },
+  {
+    "id": "billpay-voucher-overview",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "voucher-overview",
+    "title": "Voucher Offer - overview and category exclusions",
+    "text": "The Voucher Offer is only applicable for bills registered for SmartPay on Debit Cards & Credit Cards. E-Voucher is not applicable on DTH, Cable TV, Education fee payment, LPG, FASTag, Loan repayment, Recurring Deposit, Donation, Mutual fund, Mobile Prepaid, Tax & Credit Card categories. HDFC Bank has a Voucher program based on the number of bills registered under SmartPay, with different voucher values for SmartPay on Credit Card versus Debit Card."
+  },
+  {
+    "id": "billpay-voucher-table",
+    "category": "terms_and_conditions",
+    "type": "table",
+    "clause_number": "voucher-table",
+    "title": "Voucher Program - values by number of bills registered",
+    "text": "Voucher Program (Voucher worth in Rs., by number of bills registered): 0 Bill - Not Eligible (CC and DC); 1 Bill - Not Eligible (CC and DC); 2 Bills - Rs. 200 (CC) / Rs. 200 (DC); 3 Bills - Rs. 400 (CC) / Rs. 300 (DC); 4 Bills - Rs. 600 (CC) / Rs. 400 (DC); 5 & more Bills - Rs. 800 (CC) / Rs. 500 (DC)."
+  },
+  {
+    "id": "billpay-voucher-notes",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "voucher-notes",
+    "title": "Voucher Offer - notes, exclusions, and redemption limits",
+    "text": "Voucher program is not applicable for SmartPay on Bank Account registered bill payments, Adhoc payments done through BillPay, or Register & Payment. Any cancellation/deletion/modification of bills post registration would lead to ineligibility to the voucher program. Bank reserves the right to change the voucher program details. The e-voucher can be redeemed against one or more partner brands such as Amazon, Myntra, Flipkart, Uber, Ola, Amazon Pay, Zomato, and Swiggy, among others. E-Voucher would be posted within 90 days from the end of the offer period. Customer can avail this offer for up to 20 bills added on SmartPay (10 on Credit Cards and 10 on Debit Cards); once availed for 10 bills via Credit/Debit card, future added bills will not be eligible for the voucher benefit. E-Voucher link would be sent via SMS on the registered mobile number. Customers can choose their own Gift Voucher from the given brands for any denomination until their wallet balance is exhausted. Customer is eligible only if the bill is active at the time of fulfilment under the selected Debit/Credit Card. If the same utility bill is deleted & re-registered on automatic payment, the customer will not be eligible for e-voucher. Customer will be eligible for e-voucher only if 2 or more utility bills are set on automatic payment using Debit/Credit Card within the offer period. E-Voucher is not applicable on DTH, Cable TV, Education fee payment, LPG, FASTag, Loan repayment, Recurring Deposit, Donation, Mutual fund, Mobile Prepaid & Tax categories."
+  },
+  {
+    "id": "billpay-voucher-claim-process",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "voucher-claim-process",
+    "title": "Voucher Offer - E-Voucher claim process",
+    "text": "SMS communication will be sent to all winners with a link to the landing page. Step 1: On the landing page, enter your unique promo code and registered mobile number. Step 2: Enter the OTP received on your registered mobile number and submit. Step 3: Choose your Brand and click on 'Redeem' to claim your Gift Voucher. Step 4: Enter your details - Name, Mobile number, E-Mail id - then choose your denomination and quantity. Step 5: Click on 'SUBMIT'. The Gift Voucher of the chosen brand will be sent to the customer instantly."
+  },
+  {
+    "id": "billpay-cashback-voucher-general-notes",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "cashback-voucher-general-notes",
+    "title": "CashBack and Voucher - additional general notes",
+    "text": "Customer will also get Reward Points on SmartPay transactions basis respective card feature. Cashback and Voucher offer will not be given for SmartPay bills registered on Bank Account, Adhoc payments done through BillPay, or Register & Pay. Bank reserves the right to change Cashback and voucher offer details."
+  },
+  {
+    "id": "billpay-permissible-limit-table",
+    "category": "terms_and_conditions",
+    "type": "table",
+    "clause_number": "permissible-limit-table",
+    "title": "Permissible limit to register bills - by category and channel",
+    "text": "Permissible SmartPay registration limits by category (channel enabled and number of permissible registrations): Mobile Prepaid - not applicable via SmartPay registration. Rental Payment - enabled on Bank Account, Debit Card, Credit Card; limit 3. Tax - enabled on all three channels; limit 5. Insurance - enabled on all three channels; limit 500. Broadband Postpaid - enabled on all three channels; limit 5. Loan - enabled on Bank Account and Debit Card only; limit 100. Mobile Postpaid - enabled on all three channels; limit 10. Donation - enabled on all three channels; limit 5. Subscription - enabled on all three channels; limit 5. DTH - enabled on all three channels; limit 5. Mutual Fund - enabled on Bank Account only; limit 500. Electricity - enabled on all three channels; limit 10. Landline Postpaid - enabled on all three channels; limit 10. Gas - enabled on all three channels; limit 5. Credit Card - not applicable via SmartPay registration. Water - enabled on all three channels; limit 5. Gold - not applicable via SmartPay registration. FASTag - not applicable via SmartPay registration. LPG Cylinder - enabled on all three channels; limit 5. Cable TV - enabled on all three channels; limit 5. Housing Society - not applicable via SmartPay registration. Municipal Services - enabled on all three channels; limit 5. Hospital - enabled on all three channels; limit 5. Clubs and Associations - enabled on all three channels; limit 5. Recurring Deposit - enabled on all three channels; limit 100."
+  },
+  {
+    "id": "billpay-general-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-1",
+    "title": "General T&C - acceptance of bill payment services on customer instruction",
+    "text": "I agree and accept the services as provided by the Bank at my request to carry out my bill payments by Phone Banking/ATM/Net Banking on my account / card as given by me from time to time."
+  },
+  {
+    "id": "billpay-general-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-2",
+    "title": "General T&C - correct biller identification details and indemnity",
+    "text": "I agree to provide my correct identification details (biller reference values) as registered with the billing company. I agree to indemnify the Bank from any liability due to erroneous/incomplete information given by me in this regard. Kindly refer your bill copy to confirm the biller details. Bank is not liable for incorrect details added."
+  },
+  {
+    "id": "billpay-general-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-3",
+    "title": "General T&C - responsibility for bills including third-party bills",
+    "text": "I agree that all bills (SI and NON-SI) showing under my User ID / Customer ID / Account are either added by me or given by me to Bank's SmartPay sourcing sales team, which also includes bills in my name or in the name of my known persons (3rd Party bills). I agree to indemnify the Bank from any liability arising due to 3rd party bills registered in my card/bank account, given by me in this regard. Bank is not liable for 3rd party bills reflecting in my accounts."
+  },
+  {
+    "id": "billpay-general-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-4",
+    "title": "General T&C - no Bank liability for excess adhoc payments to billers",
+    "text": "I understand that Bank will not be liable for any customer claims on excess payments made by customers through adhoc mode to their respective billers inspite of BillPay (NON-SI) and/or SmartPay (SI) transactions being successfully processed by the bank. Customer will only need to contact his biller for further clarifications and Bank is NOT liable to process any refunds on SmartPay/BillPay processed transactions."
+  },
+  {
+    "id": "billpay-general-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-5",
+    "title": "General T&C - deletion/stop payment must be initiated at least 7 days prior to due date",
+    "text": "It is the customer's responsibility to make sure that they initiate a DELETION or STOP PAYMENT at least 7 days prior to the due date. Bank will not be liable for any refund if the customer chooses to process a deletion / stop payment close to the due date, which resulted in debit to his card/account."
+  },
+  {
+    "id": "billpay-general-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-6",
+    "title": "General T&C - no liability for late e-bill receipt due to short due date",
+    "text": "Bank will not be liable for any claim if the bill is not paid/processed due to late receipt of e-bill from the biller due to short due date. Customer cannot claim any compensation like late payment charges, re-connection charges, reinstatement charges, etc. which is levied by the biller to the customer."
+  },
+  {
+    "id": "billpay-general-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-7",
+    "title": "General T&C - facility subject to billing company confirmation of details",
+    "text": "I agree that this facility (BillPay/SmartPay service) will be available to me subject to and upon receipt of the billing company's confirmation as to the details furnished by me. Once a biller is successfully registered to the HDFC Bank Bill Payment service, these details are sent to the biller for verification. Upon successful confirmation from the biller, you will receive your electronic bill from the next billing cycle."
+  },
+  {
+    "id": "billpay-general-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-8",
+    "title": "General T&C - responsibility to update identification detail changes",
+    "text": "I agree that in case of any change in my identification (biller reference values) details, it is my sole responsibility to communicate these changes as registered with the billing company to the Bank immediately. It is the sole responsibility of the customer to modify / delete the existing registrations and re-register the utility bill with correct biller reference values to avail BillPay/SmartPay service."
+  },
+  {
+    "id": "billpay-general-9",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-9",
+    "title": "General T&C - consent to billing company sharing details with Bank",
+    "text": "I have no objections whatsoever to the billing company providing my billing details to the Bank."
+  },
+  {
+    "id": "billpay-general-10",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-10",
+    "title": "General T&C - bill detail updates dependent on BBPS/Biller/BillDesk",
+    "text": "Bill details would be updated online as soon as Bank receives or fetches the same from BBPS/Biller/BillDesk. Please note, we are totally dependent on the utility company/TSP (BillDesk)/BBPS platform for fetching / presenting and settlement of bill."
+  },
+  {
+    "id": "billpay-general-11",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-11",
+    "title": "General T&C - electronic billing/payment details and Bank's limited liability for errors",
+    "text": "I agree that all billing and payment details will be prepared by electronic means and the information contained therein will be extracted from the computerized system maintained by the billing company and the Bank respectively. The Bank is not liable for any error in the statement as provided by billing company and I shall always hold the Bank harmless against any losses, damages etc. that may be incurred or suffered by me if the information contained is inaccurate/incorrect/incomplete."
+  },
+  {
+    "id": "billpay-general-12",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-12",
+    "title": "General T&C - bill disputes settled directly with billing company",
+    "text": "I agree that any disputes on bill details will be settled directly by me with the billing company and the Bank's responsibility is limited to provision of information only."
+  },
+  {
+    "id": "billpay-general-13",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-13",
+    "title": "General T&C - obligation to pay exact bill amount before due date",
+    "text": "I agree to pay the exact amount due as per the billing company's bill before the expiry of due date thereof and failing which I hold the Bank harmless against the consequences thereof including in particular the non-payment of bill amount."
+  },
+  {
+    "id": "billpay-general-14",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-14",
+    "title": "General T&C - Bank not liable for good-faith actions, refusals, or facility withdrawal with notice",
+    "text": "I unconditionally agree that I shall not hold the Bank liable for: transactions carried out on my instructions by the Bank in good faith; the Bank not carrying out instructions where it has reason to believe (a decision I shall not question/dispute) that the instructions are not genuine or are otherwise unclear, improper, vague or doubtful; the Bank accepting instructions given by any one of us in case of joint accounts; any loss or damage incurred or suffered by me due to any error, defect, failure or interruption in the provision of bill payment services arising from or caused by any reason whatsoever; or the Bank withdrawing/suspending the facility wholly/partially where it has, on a best-effort basis, tried to notify me through its website or any legally recognised medium of communication giving a minimum notice of 30 days."
+  },
+  {
+    "id": "billpay-general-15",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-15",
+    "title": "General T&C - instruction/transaction records as conclusive evidence",
+    "text": "I agree that the record of instructions given and transactions with the Bank shall be conclusive proof and binding for all purposes and can be used as evidence in any proceedings."
+  },
+  {
+    "id": "billpay-general-16",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-16",
+    "title": "General T&C - Register & Pay (Non-SI) payment timing and rejection on incorrect details",
+    "text": "Register & pay (Non-Standing Instruction): To ensure no service disruption or late payment charge, please pay at least 3 working days prior to the due date. If the biller details provided by you are incorrect, the biller will reject the payment."
+  },
+  {
+    "id": "billpay-general-17",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-17",
+    "title": "General T&C - processing during business hours per Bank/billing company schedule",
+    "text": "I agree that all transactions other than those executed instantaneously by the Bank, that is those requiring processing by the Bank/Billing company, will be carried out only during business hours and the value dates, if any, will follow the operating hours/days decided by the Bank/billing company."
+  },
+  {
+    "id": "billpay-general-18",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-18",
+    "title": "General T&C - 30 days' written notice required to terminate Bill Payments facility",
+    "text": "I agree to give the Bank 30 days' notice in writing and obtain an acknowledgment thereof in order to terminate the Bill Payments facility availed by me."
+  },
+  {
+    "id": "billpay-general-19",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-19",
+    "title": "General T&C - binding nature of ATM, Phone Banking, Net Banking terms",
+    "text": "I agree that all the conditions applicable to ATM Services, Phone Banking Services, Net Banking Services are binding on me in this regard."
+  },
+  {
+    "id": "billpay-general-20",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-20",
+    "title": "General T&C - FASTag recharge reflection time",
+    "text": "HDFC Bank Fastag recharge may take up to 15 minutes to reflect in the Fastag Wallet."
+  },
+  {
+    "id": "billpay-general-21",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-21",
+    "title": "General T&C - security control limits for Mobile Prepaid, DTH, and other bank credit card bill payments",
+    "text": "Security controls added in BillPay & Recharge platform: (A) Mobile prepaid recharge - only 1 transaction up to Rs. 1,000 is allowed in the first 24 hours after registration; maximum 3 transactions/day allowed with a total transaction limit of Rs. 3,000 post 24 hours. (B) DTH Recharge - only 1 transaction up to Rs. 2,000 is allowed in the first 24 hours after registration; maximum 3 transactions/day allowed with a total transaction limit of Rs. 12,500 after 24 hours. (C) Other Bank credit cards bill payments - no transaction allowed in the first 2 hours after registration; transactions up to Rs. 10,000 can be initiated after a 2-hour cooling period; bill payment up to Rs. 2,00,000 is allowed per day for Credit Card."
+  },
+  {
+    "id": "billpay-general-22",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-22",
+    "title": "General T&C - SEBI circular on sharing bank account number with payment aggregator/BillDesk",
+    "text": "As per SEBI circular number SEBI/HO/IMD/IMD-I DOF5/P/CIR/2022/41 effective 01-06-2022, we will be sharing the Bank account number with payment aggregator/Billdesk and they may forward the same for completing the settlement of the transaction."
+  },
+  {
+    "id": "billpay-general-23",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-23",
+    "title": "General T&C - AMC verification of source account per SEBI circular",
+    "text": "Please note as per SEBI Circular, AMCs have to verify the source account of the funds. HDFC Bank is not liable for rejection or failure of transaction as we are dependent on Biller/AMC."
+  },
+  {
+    "id": "billpay-general-24",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-24",
+    "title": "General T&C - avoiding duplicate payment if already paid via Pay Now/Ad-hoc/alternate channel",
+    "text": "In case you have already paid your bill using Pay Now / Ad-hoc mode / Alternate channel, please do not make a payment against presented bill to avoid duplicate payment to biller."
+  },
+  {
+    "id": "billpay-general-25",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-25",
+    "title": "General T&C - expired bill payment guidance",
+    "text": "In case you are unable to make a payment for an expired bill here, you may also want to check if the concerned biller is accepting payments for expired bills at their website."
+  },
+  {
+    "id": "billpay-general-26",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-26",
+    "title": "General T&C - Pay Bill button for pending presented bills",
+    "text": "Pay Bill: To pay a pending bill, please use the Pay button. This button will appear when an electronic bill is presented to you by the biller and is due for payment."
+  },
+  {
+    "id": "billpay-general-27",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-27",
+    "title": "General T&C - Pay button for instant/ad-hoc/partial payments",
+    "text": "Pay: To make Instant & ad-hoc or partial payment to your biller, please use the Pay button. Note that this button will be available only for the 'Payment' and 'Presentment and Payment' billers who accept Instant or ad-hoc payments. To avoid duplicate bill payments, please check payment history before proceeding for making payment using Pay button."
+  },
+  {
+    "id": "billpay-general-28",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-28",
+    "title": "General T&C - Recharge menu for instant DTH and prepaid mobile recharge",
+    "text": "Recharge: To do instant recharge for DTH and Prepaid mobile billers, please click on Recharge menu option."
+  },
+  {
+    "id": "billpay-general-29",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-29",
+    "title": "General T&C - SEBI circular on applicable NAV based on fund realization date for iSIP",
+    "text": "As per SEBI/HO/IMD/DF2/CIR/P/2020/253 circular dated December 31, 2020, effective from February 1, 2021, the applicable NAV in respect of purchase of units of mutual fund scheme shall be subject to realization & availability of the funds in the bank account of mutual fund before the applicable cut off timings for purchase transactions. Accordingly, for all iSIP transactions customers will receive NAV of date of credit of funds into the Mutual Fund's bank account and not the date of debit to the customer's account."
+  },
+  {
+    "id": "billpay-general-30",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-30",
+    "title": "General T&C - updating Mobile number and Email ID for BillPay alerts",
+    "text": "Customer after updating Mobile number and Email ID in Bank's core system needs to follow these steps to update the same for BillPay alerts: (1) Mobile/email gets updated when customer does fresh biller registration or non-SI transaction. (2) Write to HDFC Bank for change in Mobile number and Email ID for BillPay alerts."
+  },
+  {
+    "id": "billpay-general-31",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "general-31",
+    "title": "General T&C - LIC Payment debit timing relative to grace period",
+    "text": "LIC Payment: Amount will be debited 4 days before the due date of grace period (Grace period will be included in due date as per LIC Policy). e.g: If your due date of policy payment is 8th Sep, one-month grace period will be included than as per LIC your due date will be 8th Oct, so amount will be debited around 4th Oct."
+  }
+]

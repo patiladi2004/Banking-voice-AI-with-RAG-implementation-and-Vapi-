@@ -1,0 +1,274 @@
+[
+  {
+    "id": "easyemi-1-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.1",
+    "title": "EasyEMI - eligibility for select credit card holders",
+    "text": "The EasyEMI Scheme is open to select HDFC Bank credit card holders holding a valid HDFC Bank credit card issued in India. EasyEMI option is not available on select Corporate Credit Cards, Purchase and Commercial credit cards. EasyEMI transactions done on Credit Card products where the EasyEMI option is not available shall be debited to the card account in full."
+  },
+  {
+    "id": "easyemi-1-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.2",
+    "title": "EasyEMI - no Reward Points eligibility",
+    "text": "EasyEMI transactions will not be eligible for Reward Points effective 15th July 2017."
+  },
+  {
+    "id": "easyemi-1-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.3",
+    "title": "EasyEMI - valid only on regular status cards",
+    "text": "EasyEMI is valid only on Credit cards in regular status. It is not valid on cards on which a block is placed due to Payment Due, Lost Card reported, Upgrade in progress etc. EasyEMI transactions done on such Credit Cards shall be debited to the card account in full and become payable."
+  },
+  {
+    "id": "easyemi-1-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.4",
+    "title": "EasyEMI - availability at select merchants",
+    "text": "EasyEMI facility is available at select merchant websites and merchant outlets."
+  },
+  {
+    "id": "easyemi-1-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.5",
+    "title": "EasyEMI - not available at jewellery merchants",
+    "text": "EasyEMI is not valid at Jewellery merchants or at merchants classified under Jewellery related Merchant Category Codes (MCCs) by Acquiring Banks. HDFC Bank will not be liable to convert any transaction done at such merchants and any such conversion request will be rejected in compliance to regulatory guidelines."
+  },
+  {
+    "id": "easyemi-2-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.1",
+    "title": "EasyEMI - first EMI interest calculation",
+    "text": "For the First EMI, the Interest will be calculated from the loan booking date till the payment due date."
+  },
+  {
+    "id": "easyemi-2-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.2",
+    "title": "EasyEMI - merchant payback/cashback dispute period",
+    "text": "Any query related to merchant payback / Cashback to be raised within 180 days of transaction date."
+  },
+  {
+    "id": "easyemi-2-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.3",
+    "title": "EasyEMI - loan booking notification and rejection",
+    "text": "Customer is informed about successful or rejected Loan Booking on the Card and customer should call Phone banking to check the reason in case of reject."
+  },
+  {
+    "id": "easyemi-2-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.4",
+    "title": "EasyEMI - conversion processing time",
+    "text": "EasyEMI conversion will take minimum 4 working days from the date of transaction."
+  },
+  {
+    "id": "easyemi-2-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.5",
+    "title": "EasyEMI - point of sale transaction requirements",
+    "text": "EasyEMI needs to be availed at the time of doing transaction at merchant outlet or merchant website. It is not a backend conversion process. In case of merchant websites offering HDFC Bank EasyEMI, HDFC Bank EMI option and required tenure needs to be selected on the payment page of merchant website. The Bank is not liable to or responsible for converting transactions wherein HDFC Bank EMI option was not chosen by cardholder or in case of technical issues at merchant's end in routing the transaction to the Bank as an EMI transaction."
+  },
+  {
+    "id": "easyemi-2-6-a",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.6(a)",
+    "title": "EasyEMI - physical outlet POS transactions",
+    "text": "In case of transactions done at physical outlets of merchants (POS transactions), please check with merchant on availability of EasyEMI facility BEFORE swiping your HDFC Bank Credit card. EasyEMI in POS transactions is valid only on swipe done on HDFC Bank/Plutus swipe machine. Please ensure that the intention to avail HDFC Bank EasyEMI along with the tenure option is communicated to merchant before swiping card."
+  },
+  {
+    "id": "easyemi-2-6-b",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.6(b)",
+    "title": "EasyEMI - chargeslip details and verification",
+    "text": "The chargeslip generated post swipe will indicate the EasyEMI tenure, Transaction Amount, Merchant Payback, Loan Amount, EasyEMI Finance Charges (% on reducing balance per annum) and EMI value. Please highlight to merchant immediately if the tenure is not appearing/wrongly appearing."
+  },
+  {
+    "id": "easyemi-2-6-c",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.6(c)",
+    "title": "EasyEMI - Bank not liable for erroneous merchant swipes",
+    "text": "HDFC Bank is not liable for erroneous swipes done by merchant eg. Swipe done as regular transaction instead of swiping as EasyEMI transaction OR swipe done on other Bank swipe machine. The Bank is also not liable to or responsible for converting such erroneous transactions to EasyEMI transactions at the backend."
+  },
+  {
+    "id": "easyemi-2-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.7",
+    "title": "EasyEMI - chargeslip review and consent",
+    "text": "Please ensure that all terms and charges mentioned on chargeslip are read before signing on the same. Cardholder can ask merchant to void transaction if he/she is not in agreement with the terms/charges. Once a transaction is settled by merchant, Bank will deem chargeslip as customer consent for EasyEMI terms, conditions and charges."
+  },
+  {
+    "id": "easyemi-3-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "3.1",
+    "title": "EasyEMI - merchant payback applicability",
+    "text": "At select merchants, Merchant Payback might be applicable. This is being provided by respective merchant/manufacturer and not by Issuing Bank. In such cases, the Loan amount will be Transaction Amount less Merchant Payback amount. EasyEMI Finance Charges will be applied on the Loan Amount to calculate EMI."
+  },
+  {
+    "id": "easyemi-3-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "3.2",
+    "title": "EasyEMI - processing fee applicability",
+    "text": "At select merchants, processing fee may be applicable on EasyEMI transactions."
+  },
+  {
+    "id": "easyemi-3-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "3.3",
+    "title": "EasyEMI - processing fee billing and taxes",
+    "text": "Processing fee (if any) will be charged in full in the statement subsequent to the transaction date. Service tax, Education Cess and other taxes as mandated by Government regulations from time to time will be applicable on Processing Fee charged."
+  },
+  {
+    "id": "easyemi-4-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.1",
+    "title": "EasyEMI - credit limit blocking",
+    "text": "The credit limit on the HDFC Bank credit card shall be blocked to the extent of the full transaction amount. The credit limit will be released as and when the EMI is billed and paid for in subsequent months as per EMI plan."
+  },
+  {
+    "id": "easyemi-4-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.2",
+    "title": "EasyEMI - EMI debit part of minimum amount due",
+    "text": "The EMI debit per statement will be part of Minimum Amount Due and is payable by the Payment Due Date. Service tax, Education Cess and other taxes as mandated by Government regulations from time to time will be applicable on Interest component of each EMI billed."
+  },
+  {
+    "id": "easyemi-5-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.1",
+    "title": "EasyEMI - refund greater than 90.01% preclosure",
+    "text": "In case of Online EasyEMI transactions done at merchant websites, if refund done by merchant is greater than 90.01% of EasyEMI Principal Outstanding on Credit Card then EMI Loan will be pre-closed. In such cases processing fees charged (if any) will be reversed. Interest charged as part of EMIs already posted to card will not be reversed."
+  },
+  {
+    "id": "easyemi-5-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.2",
+    "title": "EasyEMI - preclosure interest charges",
+    "text": "Since EMI will be preclosed, EasyEMI preclosure Interest charges (as applicable) will be levied to card eg. Customer is in 3rd month of EMI and statement date is 25th of every month. If loan gets preclosed on 19th November, then interest for 25th October to 19th November will be levied as Preclosure Interest charges."
+  },
+  {
+    "id": "easyemi-5-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.3",
+    "title": "EasyEMI - refund less than 90.01% partial closure",
+    "text": "However, If the refund amount from merchant is less than 90.01% of EasyEMI Principal Outstanding, then the EMI Loan will not get pre-closed. In such cases, the balance EasyEMI Principal outstanding will get reduced to the extent of the refund and EMI for remaining tenures will get reduced."
+  },
+  {
+    "id": "easyemi-6-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.1",
+    "title": "EasyEMI - merchant terms and conditions applicability",
+    "text": "All prevailing terms and conditions of merchants would apply in addition to these terms and conditions."
+  },
+  {
+    "id": "easyemi-6-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.2",
+    "title": "EasyEMI - approval at Bank's discretion",
+    "text": "Approval of EasyEMI is at the sole discretion of HDFC Bank. The EasyEMI scheme is available for select tenures and the purchase amount along with Interest, processing fee charges needs to be re-paid within the respective tenure opted for by the HDFC Bank Credit Card customer."
+  },
+  {
+    "id": "easyemi-6-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.3",
+    "title": "EasyEMI - tenure change not allowed",
+    "text": "Change of tenure is not allowed once EasyEMI txn has been completed."
+  },
+  {
+    "id": "easyemi-6-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.4",
+    "title": "EasyEMI - dispute reporting period",
+    "text": "Customers need to report to HDFC Bank any dispute with respect to an EasyEMI transaction within 60 days of transaction being done. The bank is not liable for any kind of conversion or charges reversal for claims beyond this period."
+  },
+  {
+    "id": "easyemi-7-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.1",
+    "title": "EasyEMI - preclosure through customer service",
+    "text": "The EMI scheme can be pre-closed by calling the 24 hour HDFC Bank Credit Cards customer service. Preclosure Interest charges (as applicable) will apply. In case of preclosure, any payback offered by merchant at time of loan booking will be debited on pro rata basis."
+  },
+  {
+    "id": "easyemi-7-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.2",
+    "title": "EasyEMI - excess payments not towards EMI",
+    "text": "Any payment made into the credit card account over and above the EasyEMI shall not be deemed to be payment towards the amount availed under EMI scheme and shall not result in the closure of the said facility."
+  },
+  {
+    "id": "easyemi-7-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.3",
+    "title": "EasyEMI - Bank right to revise prepayment charges",
+    "text": "HDFC Bank reserves the right to revise the pre-payment charges at its discretion, without prior notice and such revised charges shall be binding on the Card Holder."
+  },
+  {
+    "id": "easyemi-8-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.1",
+    "title": "EasyEMI - cancellation of transaction",
+    "text": "Customers can choose to cancel the EasyEMI transaction and pay in full instead of monthly installments by calling the 24 hour HDFC Bank Credit Cards customer service. On cancellation original Loan amount and Merchant Payback will be debited in full (and become payable), EMI debits will be credited; processing fees charged initially (if any) will be reversed. However once an EasyEMI transaction is cancelled on card, the same cannot be reconverted."
+  },
+  {
+    "id": "easyemi-9-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.1",
+    "title": "EasyEMI - closure on three months non-payment",
+    "text": "In the event of non-payment of minimum amount due for three successive months the EMI shall be closed and the principal outstanding, the interest for the day till closure and the pre-closure charges shall be debited to the credit card account of the Cardholder and appear in the subsequent monthly statement. HDFC Bank shall be entitled to demand immediate repayment of such consolidated outstanding amounts."
+  },
+  {
+    "id": "easyemi-9-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.2",
+    "title": "EasyEMI - closure on delinquency",
+    "text": "In the event of cardholder becoming delinquent, the EMI shall be closed and the principal outstanding, the interest for the day till closure and the pre-closure charges shall be debited to the credit card account of the Cardholder and appear in the subsequent monthly statement. HDFC Bank shall be entitled to demand immediate repayment of such consolidated outstanding amounts."
+  },
+  {
+    "id": "easyemi-9-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.3",
+    "title": "EasyEMI - card closure before all instalments",
+    "text": "In the event of a credit card being closed prior to all installments being charged, the amount outstanding against EasyEMI scheme may be charged as a consolidated transaction of the card member. HDFC Bank shall be entitled to demand immediate repayment of such consolidated outstanding amount."
+  },
+  {
+    "id": "easyemi-10-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.1",
+    "title": "EasyEMI - dispute resolution with HDFC Bank",
+    "text": "Any query/dispute with regards to the payment using the EasyEMI option should be directed towards HDFC Bank, and merchants shall not be liable for the same in any manner."
+  }
+]

@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "debit-rbi-2013-12-01",
+    "category": "terms_and_conditions",
+    "type": "notice",
+    "clause_number": "rbi-mandate-2013-12-01",
+    "title": "RBI mandate - ATM PIN required for Debit Card retail transactions in India (w.e.f. 1 Dec 2013)",
+    "text": "W.e.f. 1st December 2013: Customer will need to use his ATM PIN when using his HDFC Bank Debit Card at any retail outlet in India; transactions with incorrect PIN or those without a PIN will be declined. Transactions initiated on merchants located outside India may get processed without PIN/additional authentication depending on the guidelines followed in those countries."
+  },
+  {
+    "id": "debit-rbi-2016-11-07",
+    "category": "terms_and_conditions",
+    "type": "notice",
+    "clause_number": "rbi-mandate-2016-11-07",
+    "title": "RBI mandate - Chip Debit Card activation and International Usage deactivation (w.e.f. 7 Nov 2016)",
+    "text": "W.e.f 7th November 2016: Your Debit card will be a chip card activated for International & Domestic Usage. If you wish to deactivate the International Usage on your Chip Debit Card, please login to NetBanking, call PhoneBanking or visit your nearest HDFC Bank branch. Kindly note, all re-issued Debit Cards will have the same International limit as the old Card. NRO Debit Card will continue to be enabled only for domestic usage as per regulatory mandate."
+  },
+  {
+    "id": "debit-notice-2016-11-01",
+    "category": "terms_and_conditions",
+    "type": "notice",
+    "clause_number": "notice-2016-11-01",
+    "title": "Notice - Fuel Surcharge waiver at govt. petrol outlets and cash withdrawal limit at merchant establishments (effective 1 Nov 2016)",
+    "text": "Effective 1st November 2016: Fuel Surcharge would not be applicable for transactions done on HDFC Bank swipe machines at government petrol outlets (HPCL/IOCL/BPCL). Cash withdrawal facility can now be availed across merchant establishments with a maximum upper limit of up to Rs 2,000/transaction on HDFC Bank Debit Cards."
+  },
+  {
+    "id": "debit-16-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.2",
+    "title": "Debit Card - definition of Account",
+    "text": "Account refers to the Cardholder's Savings and/or Current Account and/or any other type of account so designated by the Bank to be eligible account(s) for operations through the use of the Card. The Cardholder should be either the account holder or sole signatory or authorized to act alone when there is more than one signatory."
+  },
+  {
+    "id": "debit-16-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.3",
+    "title": "Debit Card - definition of Bank",
+    "text": "Bank refers to HDFC Bank Limited, a banking company incorporated in India under the Companies Act 1956 and having its registered office at HDFC Bank House, Senapati Bapat Marg, Lower Parel, Mumbai 400013, India and includes its successors and assigns."
+  },
+  {
+    "id": "debit-16-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.4",
+    "title": "Debit Card - definition of Card",
+    "text": "Card refers to the HDFC Bank International Debit Card."
+  },
+  {
+    "id": "debit-16-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.5",
+    "title": "Debit Card - definition of Cardholder",
+    "text": "Cardholder refers to a Customer of the Bank authorized to use the HDFC Bank International Debit Card."
+  },
+  {
+    "id": "debit-16-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.6",
+    "title": "Debit Card - definition of EDC terminal",
+    "text": "EDC terminal shall mean point of service capable of handling Card transactions i.e. electronic draft capture (EDC) terminals, printers, other peripherals and accessories, including PIN pads and necessary software to run the devices and which processes the transaction at the Merchant Establishment."
+  },
+  {
+    "id": "debit-16-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.7",
+    "title": "Debit Card - definition of International transactions",
+    "text": "International transactions refers to the transactions entered into by the Cardholder on his internationally valid Debit Card outside of India, Nepal and Bhutan."
+  },
+  {
+    "id": "debit-16-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.8",
+    "title": "Debit Card - definition of Maestro",
+    "text": "Maestro shall mean a mark owned by MasterCard."
+  },
+  {
+    "id": "debit-16-9",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.9",
+    "title": "Debit Card - definition of MasterCard",
+    "text": "MasterCard shall mean a mark owned by MasterCard."
+  },
+  {
+    "id": "debit-16-10",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.10",
+    "title": "Debit Card - definition of MasterCard/Cirrus ATM Network",
+    "text": "MasterCard/Cirrus ATM Network shall mean ATMs located, which honour the Debit Card and display the MasterCard/Cirrus or Maestro Symbols."
+  },
+  {
+    "id": "debit-16-11",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.11",
+    "title": "Debit Card - definition of Merchant",
+    "text": "Merchant means any person who owns or manages or operates a service establishment wherever located which honours the Card and includes amongst others, stores, shops, restaurants, hotels, airline organisations, ATMs advertised by the Bank, Visa/MasterCard or the Merchant."
+  },
+  {
+    "id": "debit-16-12",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.12",
+    "title": "Debit Card - definition of Merchant Establishment",
+    "text": "Merchant Establishment shall mean establishments wherever located which honour a Debit Card and shall include among others, stores, shops, restaurants, hotels, airline organisations advertised as honouring a Debit Card."
+  },
+  {
+    "id": "debit-16-13",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.13",
+    "title": "Debit Card - definition of Primary Account",
+    "text": "Primary Account shall mean the account linked to the Card, debited for transactions done at Merchant Establishments or Visa/PLUS and MasterCard/Cirrus ATM locations."
+  },
+  {
+    "id": "debit-16-14",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.14",
+    "title": "Debit Card - definition of Terms",
+    "text": "Terms refer to Terms and Conditions for use of the Card as specified in this document."
+  },
+  {
+    "id": "debit-16-15",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.15",
+    "title": "Debit Card - definition of Transactions",
+    "text": "Transactions mean any instruction given by a Cardholder using a Card directly or indirectly to the Bank to effect a transaction."
+  },
+  {
+    "id": "debit-16-16",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.16",
+    "title": "Debit Card - definition of Visa Electron/Flag",
+    "text": "Visa Electron/Flag shall mean mark owned by Visa International."
+  },
+  {
+    "id": "debit-16-17",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.17",
+    "title": "Debit Card - definition of Visa/PLUS ATM Network",
+    "text": "Visa/PLUS ATM Network shall mean ATMs located which honour the Debit Card and displaying the Visa/PLUS or Visa Electron/Flag Symbols."
+  },
+  {
+    "id": "debit-16-18",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.18",
+    "title": "Debit Card - applicability of RBI regulations",
+    "text": "The issue and use of the Card shall be subject to the RBI's regulations in force from time to time."
+  },
+  {
+    "id": "debit-16-19-a",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.19-a",
+    "title": "Debit Card - Exchange Control Regulations, prohibited capital account transactions, and Nepal/Bhutan restriction (part 1 of 3)",
+    "text": "Utilization of the Card shall be in strict accordance with the Exchange Control Regulations of the Reserve Bank of India (RBI). Capital Account transactions outside India such as opening of an account with a bank outside India, investment, setting up of an entity and purchase of immovable property are not allowed/permitted using HDFC Bank's Debit Card. In the event of noncompliance by the Cardholder with the same, the Cardholder shall be liable for action under FEMA, 1999 and any other law and/or regulation in force from time to time relating to Foreign Exchange. The Cardholder may be debarred from holding the internationally valid Debit Card, either at the instance of the Bank or the RBI."
+  },
+  {
+    "id": "debit-16-19-b",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.19-b",
+    "title": "Debit Card - Exchange Control Regulations, prohibited capital account transactions, and Nepal/Bhutan restriction (part 2 of 3)",
+    "text": "The Card cannot be used for making payment towards foreign currency transactions in Nepal and Bhutan i.e. while using the Card in Nepal or Bhutan, the currency of the transactions should be the local currency of those countries or in Indian rupees. The Card is valid for use both in India as well as outside India but would carry the inscription \"Not valid for payment in foreign exchange in Nepal and Bhutan\"."
+  },
+  {
+    "id": "debit-16-19-c",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.19-c",
+    "title": "Debit Card - Exchange Control Regulations, prohibited capital account transactions, and Nepal/Bhutan restriction (part 3 of 3)",
+    "text": "In case the Card is cancelled, whether on account of non-compliance with Exchange Control Regulations or otherwise, the Bank will not be responsible for any attempted usage of the Card, whether in India or abroad, resulting in the Card being dishonored and the concerned Merchant would be entitled to seize/confiscate a cancelled Card on presentation."
+  },
+  {
+    "id": "debit-16-20",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.20",
+    "title": "Debit Card - use within foreign exchange entitlements for bonafide personal expenses",
+    "text": "The Card may be used, within the foreign exchange entitlements as stipulated by RBI from time to time, by Cardholders going abroad for all bonafide personal expenses for personal use provided the total exchange drawn during the trip abroad does not exceed the entitlement. Import of goods so purchased abroad into India would be governed by the baggage rules/EXIM policy in force. The entitlement of exchange should be ascertained (prior to the trip) from the authorised dealer branches of the Bank. The Card cannot be used for effecting remittances for which the release of exchange is not permissible under the extant regulations."
+  },
+  {
+    "id": "debit-16-21",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.21",
+    "title": "Debit Card - validity in India and abroad, expiry, and acceptance network",
+    "text": "The Card is valid in India and abroad. The Card is not valid for foreign exchange payments in India, Nepal and Bhutan. The Card is valid up to the last working day of the month indicated. The Cardholder shall destroy the Card when it expires by cutting it in half diagonally. The Bank shall send the renewed Card and attempt delivery of the Card at the address recorded with the Bank in its system before the expiry of the Card. The Card is acceptable at: the HDFC Bank's ATM network; any ATM of other Banks which are members of the PLUS/CIRRUS ATM network in India and abroad; and any Visa/Visa Electron/Visa Flag/MasterCard/Maestro merchant outlet in India and abroad."
+  },
+  {
+    "id": "debit-16-22-a",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.22-a",
+    "title": "Debit Card - Cardholder obligations for safekeeping, disputes, and Chip activation (part 1 of 2)",
+    "text": "The Cardholder shall at all times ensure that the Card is kept at a safe place and shall under no circumstance allow the Card to be used by any other individual. The Cardholder will sign on the reverse of the Card immediately upon receipt. The Card is the property of HDFC Bank and must be returned to an authorised person of the Bank on request within the Bank's premises; the Cardholder shall ensure the identity of the authorised person is established before handing over the Card. The Cardholder will be responsible for all facilities granted by the Bank in respect of the Card and for all related charges."
+  },
+  {
+    "id": "debit-16-22-b",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.22-b",
+    "title": "Debit Card - Cardholder obligations for safekeeping, disputes, and Chip activation (part 2 of 2)",
+    "text": "In case the Cardholder has any dispute in respect of any charge indicated in the Statement, the Cardholder shall advise details to the Bank within 15 days of the statement date, failing which it will be construed that all charges are acceptable and in order; the Bank may at its sole discretion accept disputes on charges older than 15 days. The Cardholder shall act in good faith in relation to all dealings with the Card(s) and the Bank. I/We consent that the CHIP debit card is activated for International and domestic usage; if I/We would like to deactivate international usage, I/we will log into Netbanking/call phone banking."
+  },
+  {
+    "id": "debit-16-23-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.23.1",
+    "title": "EasyShop Gold Debit Card - Cash back terms and category exclusions",
+    "text": "The Cash back on the Gold Debit Card will be given in multiples of amounts as decided by the Bank. The Cash back will be given after the end of every month. Effective 01-July-14, continue earning CashBack on Debit Card on all categories except fuel, jewellery and services like insurance, mutual funds, govt payments, Business Services, etc."
+  },
+  {
+    "id": "debit-16-23-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.23.2",
+    "title": "EasyShop Gold Debit Card - Special Offers at Premium outlets, Hotels and Restaurants",
+    "text": "All participating brands/establishments are independently liable/responsible for the quality of the goods/services provided by them under this program. Offer valid only if the purchase is made using the EasyShop Gold Debit Card. Cardholder must clearly announce intention to avail of the discounts at the participating merchants before the bill is drawn/placing the order. HDFC Bank reserves the right to cancel the offer or reduce the length of the offer or change the Terms and Conditions without prior notice."
+  },
+  {
+    "id": "debit-16-24",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24",
+    "title": "EasyShop International Business Debit Card and Personal Dual Branded Debit Card (JetPrivilege Programme) - scope",
+    "text": "This clause covers the EasyShop International Business Debit Card and Personal Dual Branded Debit Card (under the JetPrivilege Programme - JetPrivilege HDFC Bank World/Signature Debit Card) for Partnership, Public Limited and Private Limited Companies."
+  },
+  {
+    "id": "debit-16-24-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.1",
+    "title": "Business Debit Card - acceptance of facility for ATM/POS/other services up to per-day limit",
+    "text": "I/We agree and accept the facility provided by HDFC Bank Limited at our request to carry out banking transactions in the Current Account bearing number as mentioned in our applications with HDFC Bank and as per instructions for operation of the said account. We are aware that the facility is to facilitate easy withdrawal of cash at Automated Teller Machine (ATM)/incurring of expenditure by transactions at Point of Sale (POS) or any other services offered on the Debit Card through ATM/NetBanking, by use of Debit Card by the Cardholder up to the applicable per day Card limit."
+  },
+  {
+    "id": "debit-16-24-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.2",
+    "title": "Business Debit Card - abidance by Bank's terms, conditions and rules",
+    "text": "I/We shall abide by all HDFC Bank's terms, conditions and rules in force from time to time relating to the use of Debit Card facility."
+  },
+  {
+    "id": "debit-16-24-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.3",
+    "title": "Business Debit Card - entitlement to receive Card and PIN; POS usage without PIN",
+    "text": "I/We agree and accept that the Company/the Firm and the Cardholder shall be solely entitled to receive the Debit Card and the Personal Identification Number (PIN) to access the ATM by use of the Debit Card and to acknowledge the same. I/We acknowledge that the Debit Card can also be used for purchases at Point of Sale, without PIN."
+  },
+  {
+    "id": "debit-16-24-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.4",
+    "title": "Business Debit Card - PIN secrecy and confidentiality undertaking",
+    "text": "I/We agree and undertake that the Cardholder shall keep the PIN totally secret and confidential and not reveal the same to any third party."
+  },
+  {
+    "id": "debit-16-24-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.5",
+    "title": "Business Debit Card - Company/Firm's acknowledgement of debits from Card usage",
+    "text": "I/We agree and acknowledge that the use of the ATM/Debit Card will result in debit to the said account and that the Company/the Firm shall have no objection for the same."
+  },
+  {
+    "id": "debit-16-24-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.6",
+    "title": "Business Debit Card - Company/Firm's responsibility for all Cardholder transactions",
+    "text": "I/We agree and acknowledge that the Company/the Firm shall be responsible for all transactions carried on by the Cardholder through the use of the ATM/Debit Card at the ATMs including withdrawal of cash and use for transactions at various merchant locations either in India or abroad and the same shall be binding on the Company/the Firm."
+  },
+  {
+    "id": "debit-16-24-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.7",
+    "title": "Business Debit Card - notification of operating instruction changes and indemnity",
+    "text": "I/We shall from time to time inform HDFC Bank by furnishing a copy of the Board Resolution/Authority letter of partners and all other documents and writing about changes in the operating instructions and, in such event, forthwith change the PIN. We shall indemnify HDFC Bank at all times and keep HDFC Bank indemnified and saved harmless from and against any and all claims, losses, damages, costs, liabilities, charges and expenses incurred, suffered or paid by HDFC Bank and against all demands, actions, suits and proceedings made, filed, instituted against HDFC Bank in connection with or arising out of or relating to HDFC Bank by carrying out the transactions performed by the Cardholder or any substitute(s) through the Debit Card."
+  },
+  {
+    "id": "debit-16-24-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.8",
+    "title": "Business Debit Card - Bank not responsible to monitor nature of expenses",
+    "text": "I/We agree and confirm that HDFC Bank shall not be responsible and liable to monitor the nature of expenses incurred by the use of the Debit Card."
+  },
+  {
+    "id": "debit-16-24-9",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.9",
+    "title": "Business Debit Card - Company/Firm's sole responsibility for FEMA/RBI compliance",
+    "text": "I/We agree, undertake and confirm that the Company/the Firm shall solely be responsible to comply with the provisions of the Foreign Exchange Management Act, 1999 and the regulations of the Reserve Bank of India relating to foreign exchange in force from time to time."
+  },
+  {
+    "id": "debit-16-24-10",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.10",
+    "title": "Business Debit Card - hotlisting on change of operating instructions from Singly/Either or Survivor",
+    "text": "I/We agree and acknowledge that in case the account operating instructions are changed to any other than \"Singly/Either or Survivor\" the card will be hotlisted and will cease to be operational."
+  },
+  {
+    "id": "debit-jetprivilege-disclosure-authorization",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-disclosure-authorization",
+    "title": "JetPrivilege HDFC Bank Debit Card - authorisation to disclose information and transfer reward points",
+    "text": "I/We authorise HDFC Bank to disclose, from time to time, any information relating to my Card (including any default in payments) to any Card issuer, credit bureau, financial institution, any parent/subsidiary, affiliate, co-brand partner and associate of HDFC Bank, and to third parties engaged by HDFC Bank, for purposes such as marketing of services, proper operation of the Card account and other administrative services. I/We authorise HDFC Bank to transfer my/our accrued reward points periodically to my JetPrivilege Frequent Flyer Program membership number as provided by me/us or generated by system as applicable in the Card application form."
+  },
+  {
+    "id": "debit-jetprivilege-return-travel-voucher-a",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-return-travel-voucher-a",
+    "title": "JetPrivilege HDFC Bank Debit Card - Return Travel Discount Voucher terms (part 1 of 6)",
+    "text": "On payment of first year and renewal fees, JetPrivilege HDFC Bank World/Signature Debit Card members are entitled to a discount voucher worth Rs. 750 (the \"Offer\"), for Debit Card primary cardholders only. The voucher entitles the guest to a discount of Rs. 750 on return revenue tickets for travel only on Jet Airways' domestic flights within India, available only for return travel in Economy cabin in any booking fare class, and the discount code cannot be partially utilized for one-way travel. Against the voucher, the base fare component is discounted up to Rs. 750; if the actual base fare exceeds Rs."
+  },
+  {
+    "id": "debit-jetprivilege-return-travel-voucher-b",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-return-travel-voucher-b",
+    "title": "JetPrivilege HDFC Bank Debit Card - Return Travel Discount Voucher terms (part 2 of 6)",
+    "text": "750 the cardholder bears the difference plus applicable taxes, surcharges and levies, and if the base fare is less than Rs. 750 the excess is not refunded. The voucher is voluntarily transferable and the discount code is valid for six months from the date of issue for both booking and travel. Jet Airways will email the cardholder's unique discount voucher code within 10 working days of receipt of the Debit Card fees; the code will not be extended after its validity date, is for one-time usage, redeemable only via www.jetairways.com India country site, and becomes invalid upon utilization."
+  },
+  {
+    "id": "debit-jetprivilege-return-travel-voucher-c",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-return-travel-voucher-c",
+    "title": "JetPrivilege HDFC Bank Debit Card - Return Travel Discount Voucher terms (part 3 of 6)",
+    "text": "Payment of taxes/surcharges/fees/levies and ticketing must be done instantly at redemption, and payment for the balance fare and applicable charges must be made using the JetPrivilege-HDFC Bank Debit Card only. If a cardholder uses another cardholder's code without consent, the cardholder who utilized it must pay Jet Airways the discount amount availed. Seats are subject to availability with no guarantee from Jet Airways or HDFC Bank; tickets are non-transferable once booked; cancelled tickets are refunded net of the discount availed, and upon cancellation the discount code is deemed utilized and will not be reinstated;"
+  },
+  {
+    "id": "debit-jetprivilege-return-travel-voucher-d",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-return-travel-voucher-d",
+    "title": "JetPrivilege HDFC Bank Debit Card - Return Travel Discount Voucher terms (part 4 of 6)",
+    "text": "cancellations/refunds/reissues are subject to Jet Airways' ticketing policies; new bookings cannot be made against a cancelled booking to re-utilize the code. If the cardholder closes the Debit Card account after availing the code at enrollment/renewal, annual fees already paid will not be refunded, and if fees were unpaid but the code was utilized, the cardholder must pay for the discount availed. Airport development fees and other taxes/levies are subject to their own refund policies on cancellation. Cardholders waive claims against Jet Airways regarding the Offer; Jet Airways' decisions are final and binding and non-contestable;"
+  },
+  {
+    "id": "debit-jetprivilege-return-travel-voucher-e",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-return-travel-voucher-e",
+    "title": "JetPrivilege HDFC Bank Debit Card - Return Travel Discount Voucher terms (part 5 of 6)",
+    "text": "Jet Airways and HDFC Bank reserve the right to change, amend, withdraw or alter the Offer's terms at any time without prior notice; the Offer cannot be combined with other Jet Airways promotional offers including the base fare waiver ticket offer; the Offer is optional and subject to applicable jurisdictional rules and Jet Airways' conditions of contract. Disputes are subject to Indian law and the exclusive jurisdiction of courts in Mumbai. Payment of fees/charges due from the cardholder is governed by HDFC's terms and the card member terms and conditions."
+  },
+  {
+    "id": "debit-jetprivilege-return-travel-voucher-f",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-return-travel-voucher-f",
+    "title": "JetPrivilege HDFC Bank Debit Card - Return Travel Discount Voucher terms (part 6 of 6)",
+    "text": "HDFC makes no warranty regarding availability, delivery, quality, merchantability or suitability of the Offer or products/services, with Jet Airways solely liable for the same; related disputes must be addressed directly to Jet Airways in writing, and HDFC will not entertain such communication. HDFC Bank shall not be liable for any loss, damage or personal injury suffered by use or non-use of products/services under the Offer, nor responsible if the email address provided is incorrect or the mail bounces."
+  },
+  {
+    "id": "debit-jetprivilege-online-discount-a",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-5-percent-online-discount-a",
+    "title": "JetPrivilege HDFC Bank Debit Card - 5% Online Discount terms (part 1 of 5)",
+    "text": "JetPrivilege HDFC Bank World/Signature Debit Card members are entitled to a 5% discount (the \"Offer\") for every domestic/international revenue ticket booked on www.jetairways.com. The online discount applies only to international flights originating from India with payment made in INR; if payment is in a foreign currency for a flight originating outside India, the discount does not apply. Members must quote promotion code \"JTHDFC\" at booking."
+  },
+  {
+    "id": "debit-jetprivilege-online-discount-b",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-5-percent-online-discount-b",
+    "title": "JetPrivilege HDFC Bank Debit Card - 5% Online Discount terms (part 2 of 5)",
+    "text": "The discount applies to one-way or return revenue tickets on Jet Airways domestic and international flights, is available only for Jet Airways marketed and/or operated flights and specified codeshares (interline or other-airline-operated codeshare travel is excluded), and applies only to Economy cabin bookings in eligible fare classes, excluding award travel, 9W*/OAL, Interline, and Groups. The code is voluntarily transferable, redeemable only via www.jetairways.com India country site, and available every time a cardholder books revenue tickets on that site. Under the offer, 5% of the base fare component is discounted;"
+  },
+  {
+    "id": "debit-jetprivilege-online-discount-c",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-5-percent-online-discount-c",
+    "title": "JetPrivilege HDFC Bank Debit Card - 5% Online Discount terms (part 3 of 5)",
+    "text": "the cardholder bears the remaining base fare plus applicable fees, taxes, surcharges and levies. Payment of taxes/surcharges/levies and ticketing must be done instantly at redemption, and payment for the balance fare and charges must be made using the JetPrivilege-HDFC Bank World/Platinum Debit Card only. Black-out periods or restrictions may apply. Tickets are non-transferable once booked; cancelled tickets are refunded, re-issued, or subject to Jet Airways' fare-class ticketing terms, with refunds net of the discount availed and subject to Jet Airways' cancellation/refund/reissue policies. The code is usable only via www.jetairways.com;"
+  },
+  {
+    "id": "debit-jetprivilege-online-discount-d",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-5-percent-online-discount-d",
+    "title": "JetPrivilege HDFC Bank Debit Card - 5% Online Discount terms (part 4 of 5)",
+    "text": "a fresh booking through another channel after cancellation forfeits the Offer's benefit. Airport development fees and other charges are subject to their own refund policies on cancellation of travel. Cardholders waive claims against Jet Airways regarding the Offer; Jet Airways' decisions are final and binding and non-contestable; Jet Airways and HDFC Bank reserve the right to change, amend, withdraw or alter the Offer's terms at any time without prior notice; the Offer cannot be combined with other Jet Airways promotional offers including the base fare waiver ticket and the Rs. 750 return travel discount offer;"
+  },
+  {
+    "id": "debit-jetprivilege-online-discount-e",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-5-percent-online-discount-e",
+    "title": "JetPrivilege HDFC Bank Debit Card - 5% Online Discount terms (part 5 of 5)",
+    "text": "the Offer is optional and subject to applicable jurisdictional rules and Jet Airways' conditions of contract. Disputes are subject to Indian law and the exclusive jurisdiction of courts in Mumbai. Payment of fees/charges due from the cardholder is governed by HDFC's terms and the card member terms and conditions. HDFC makes no warranty regarding availability, delivery, quality, merchantability or suitability of the Offer or products/services, with Jet Airways solely liable for the same; related disputes must be addressed directly to Jet Airways in writing, and HDFC will not entertain such communication."
+  },
+  {
+    "id": "debit-jetprivilege-annual-fees-a",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-annual-renewal-fees-a",
+    "title": "JetPrivilege HDFC Bank Debit Card - Annual/Renewal Fees and JPMiles disputes (part 1 of 2)",
+    "text": "Annual Fees will be charged in the first month from the date of issuance of the Card and after completion of every 12 months thereafter. HDFC Bank will not be responsible for disputes regarding accruals of JPMiles in respect of flights taken or other activities resulting in accrual of JPMiles under the JetPrivilege Programme or the Extra JPMiles Programme. JPMiles purchased by HDFC Bank will be used only towards Qualifying Expenditure and will not be adjusted against JPMiles earned by a Personal Dual Branded Debit Cardholder for flights or other activities under those programmes."
+  },
+  {
+    "id": "debit-jetprivilege-annual-fees-b",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-annual-renewal-fees-b",
+    "title": "JetPrivilege HDFC Bank Debit Card - Annual/Renewal Fees and JPMiles disputes (part 2 of 2)",
+    "text": "The issuance of air tickets on redemption of JPMiles or other JetPrivilege Programme benefits shall be in accordance with JetPrivilege Programme terms, communicated by Jet to the Personal Dual Branded Debit Cardholders and to HDFC Bank; Cardholders must contact Jet directly for any query or claim regarding JPMiles redemption or JetPrivilege Programme benefits, and HDFC Bank is not required to deal with, or liable or responsible for, any such query or claim."
+  },
+  {
+    "id": "debit-jetprivilege-enrollment-benefit",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-enrollment-benefit",
+    "title": "JetPrivilege HDFC Bank Debit Card - Enrollment Benefit",
+    "text": "The enrollment/renewal benefits (applicable as per the variant) and discount voucher will not be available if the Personal Dual Branded Debit Cardholder's Annual Fees are waived off for any reason. Effective 15th November 2017, the enrollment benefit will not be applicable for any issuance."
+  },
+  {
+    "id": "debit-jetprivilege-first-swipe-bonus",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-first-swipe-bonus",
+    "title": "JetPrivilege HDFC Bank Debit Card - Annual Renewal First Swipe Bonus",
+    "text": "Personal Dual Branded Debit Cardholders will qualify for First Swipe Bonus JPMiles upon undertaking a first spend transaction on their Debit Card within 90 days of Card issuance/renewal date; no minimum amount applies. A spend transaction on an additional cardholder's account will qualify the primary cardholder for the First Swipe Bonus, which is a one-time bonus. Card fees and other applicable charges will not qualify for First Swipe Bonus JPMiles."
+  },
+  {
+    "id": "debit-jetprivilege-spends-jpmiles",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-spends-jpmiles",
+    "title": "JetPrivilege HDFC Bank Debit Card - Spends JPMiles",
+    "text": "Personal Dual Branded Debit Cardholders qualify to earn Spends JPMiles upon undertaking spends transactions, which will reflect within 40 working days of the eligible transaction. An additional cardholder's Spends JPMiles will reflect into the primary cardholder's JetPrivilege membership account. In the event of a spends transaction reversal, proportionate Spends JPMiles will be negated from the cardholder's subsequent Spends JPMiles."
+  },
+  {
+    "id": "debit-jetprivilege-online-bonus-jpmiles",
+    "category": "terms_and_conditions",
+    "type": "section",
+    "clause_number": "jetprivilege-online-bonus-jpmiles",
+    "title": "JetPrivilege HDFC Bank Debit Card - Online Bonus JPMiles",
+    "text": "Online Spends JPMiles accrue upon purchase of revenue airline tickets on www.jetairways.com; purchase of redemption tickets or other merchandise does not qualify. In the event of a ticket cancellation, proportionate Online Bonus JPMiles will be negated from the cardholder's subsequent Online Bonus JPMiles. An additional debit cardholder's Online Spends JPMiles will be debited into the primary cardholder's JetPrivilege membership account."
+  },
+  {
+    "id": "debit-extra-jpmiles-1-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-1.1",
+    "title": "EXTRA JPMiles - applicability to eligible JetPrivilege HDFC Bank Debit Cardholders",
+    "text": "These Terms and Conditions apply to those JetPrivilege HDFC Bank Debit Cardholders who are eligible to earn EXTRA JPMiles."
+  },
+  {
+    "id": "debit-extra-jpmiles-1-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-1.2",
+    "title": "EXTRA JPMiles - HDFC Bank and Pinpoint India's right to amend terms",
+    "text": "HDFC Bank and Pinpoint India reserve the right to add, alter, modify, change or vary all or any of these terms and conditions at any time and without prior notice."
+  },
+  {
+    "id": "debit-extra-jpmiles-1-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-1.3",
+    "title": "EXTRA JPMiles - eligible card",
+    "text": "The following card is eligible to earn EXTRA JPMiles: JetPrivilege HDFC Bank World Debit Card."
+  },
+  {
+    "id": "debit-extra-jpmiles-1-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-1.4",
+    "title": "EXTRA JPMiles - applicability of standard card conditions and JetPrivilege terms",
+    "text": "All other regular credit and debit card conditions apply, including the Bank's Reward Redemption terms and conditions. JPMiles once credited will be governed by JetPrivilege terms and conditions."
+  },
+  {
+    "id": "debit-extra-jpmiles-2-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-2.1",
+    "title": "EXTRA JPMiles - how the programme works",
+    "text": "The EXTRA JPMiles programme enables cardholders to earn EXTRA JPMiles when they transact with participating EXTRA JPMiles Partners."
+  },
+  {
+    "id": "debit-extra-jpmiles-2-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-2.2",
+    "title": "EXTRA JPMiles - Pinpoint's responsibility for partner detail accuracy",
+    "text": "Details of participating EXTRA JPMiles Partners are sent by Pinpoint to HDFC Bank. Pinpoint has sole responsibility for ensuring complete details are sent so EXTRA JPMiles are correctly allocated by the Bank."
+  },
+  {
+    "id": "debit-extra-jpmiles-2-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-2.3",
+    "title": "EXTRA JPMiles - not reflected on monthly statement",
+    "text": "The EXTRA JPMiles will not reflect on the HDFC Bank monthly statement."
+  },
+  {
+    "id": "debit-extra-jpmiles-2-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-2.4",
+    "title": "EXTRA JPMiles - definition of EXTRA JPMiles Partner",
+    "text": "EXTRA JPMiles Partner is a merchant who has agreed to provide EXTRA JPMiles to eligible JetPrivilege HDFC Bank Credit and Debit Cardholders when they transact with their debit card at the designated EXTRA JPMiles Partner outlet."
+  },
+  {
+    "id": "debit-extra-jpmiles-2-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-2.5",
+    "title": "EXTRA JPMiles - earning rate and monthly crediting",
+    "text": "EXTRA JPMiles are provided by EXTRA JPMiles Partners per Rs.150 spent using an eligible JetPrivilege HDFC Bank Debit Card and are automatically added to the cardholder's JPMiles balance on a monthly basis."
+  },
+  {
+    "id": "debit-extra-jpmiles-3-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-3.1",
+    "title": "EXTRA JPMiles - issuance rate and rounding",
+    "text": "EXTRA JPMiles are issued per Rs.150 spent on the eligible Card and rounded up or down to the nearest whole point for each eligible transaction."
+  },
+  {
+    "id": "debit-extra-jpmiles-3-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-3.2",
+    "title": "EXTRA JPMiles - variation between Partners",
+    "text": "The number of EXTRA JPMiles offered varies between EXTRA JPMiles Partners."
+  },
+  {
+    "id": "debit-extra-jpmiles-3-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-3.3",
+    "title": "EXTRA JPMiles - Partners may change from time to time",
+    "text": "EXTRA JPMiles Partners may change from time to time. The latest list of EXTRA JPMiles Partners within the programme can be reviewed via the link provided by the Bank."
+  },
+  {
+    "id": "debit-extra-jpmiles-3-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-3.4",
+    "title": "EXTRA JPMiles - adjustment on returns or disputed transaction credits",
+    "text": "If a cardholder returns any goods purchased with the eligible card from a participating EXTRA JPMiles Partner, or the card is credited in connection with a disputed transaction, EXTRA JPMiles will be adjusted accordingly for the amount reversed."
+  },
+  {
+    "id": "debit-extra-jpmiles-3-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-3.5",
+    "title": "EXTRA JPMiles - not considered for Tier Points accrual",
+    "text": "Extra JPMiles will not be considered for accrual of Tier Points feature against spends on the JetPrivilege HDFC Bank Co-brand Debit Card."
+  },
+  {
+    "id": "debit-extra-jpmiles-4-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-4.1",
+    "title": "EXTRA JPMiles - monthly crediting and viewing via JetPrivilege account",
+    "text": "EXTRA JPMiles are added to the cardholder's JetPrivilege Membership account monthly and can be viewed in the JetPrivilege member's account on www.jetairways.com. The EXTRA JPMiles will reflect as one credit in the JetPrivilege Membership account and will be a sum total of all transactions at EXTRA JPMiles Partners as reflected in the statement."
+  },
+  {
+    "id": "debit-extra-jpmiles-4-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-4.2",
+    "title": "EXTRA JPMiles - crediting timeline of 60 days",
+    "text": "The EXTRA JPMiles will be credited into the cardholder's JetPrivilege Membership account within 60 days of the transaction."
+  },
+  {
+    "id": "debit-extra-jpmiles-4-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-4.3",
+    "title": "EXTRA JPMiles - 45-day window to report incorrect JPMiles",
+    "text": "In case the number of EXTRA JPMiles earned is incorrect, cardholders must contact the Phone Banking Unit of HDFC Bank within 45 days. EXTRA JPMiles may be adjusted if JPMiles are found to have been incorrectly credited or debited for whatever reason."
+  },
+  {
+    "id": "debit-extra-jpmiles-4-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-4.4",
+    "title": "EXTRA JPMiles - dispute documentation and final decision by Bank/Pinpoint",
+    "text": "In case of any disputes, cardholders are required to present the relevant original payment receipts and debit card sale slips for further investigation by the Bank and/or Pinpoint India. In all such cases, the decision of the Bank and Pinpoint India shall be final."
+  },
+  {
+    "id": "debit-extra-jpmiles-4-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-4.5",
+    "title": "EXTRA JPMiles - jurisdiction of courts in Mumbai",
+    "text": "Any dispute arising out of the EXTRA JPMiles programme will be subject to the jurisdiction of courts in Mumbai only."
+  },
+  {
+    "id": "debit-extra-jpmiles-4-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-4.6",
+    "title": "EXTRA JPMiles - no liability for product quality or defects; JPMiles governed by JetPrivilege terms",
+    "text": "HDFC Bank, Jet Airways or Pinpoint is neither responsible for nor guarantees the quality or defect of the products bought and shall not be liable in any manner whatsoever for any loss/damage/claim that may arise out of use or otherwise of any goods/services availed of by the customers. JPMiles thus earned will be governed by the terms and conditions of the JetPrivilege programme."
+  },
+  {
+    "id": "debit-extra-jpmiles-5-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.24.11-5.1",
+    "title": "EXTRA JPMiles - definition and scope of Total JPMiles",
+    "text": "Total JPMiles represented in any EXTRA JPMiles Programme communication are inclusive of the JPMiles received from the bank per the selected card type and the EXTRA JPMiles earned at the EXTRA Partner. Total JPMiles does not include any promotion or bonus JPMiles awarded by the Bank or JPMiles awarded by a JetPrivilege partner through their association with Jet Airways."
+  },
+  {
+    "id": "debit-16-25-a",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.25-a",
+    "title": "Lost or stolen cards - reporting, hotlisting, and liability for pre-report misuse (part 1 of 2)",
+    "text": "I am aware and accept that to protect my interest, the facility of reporting loss of Debit Cards is available 24 hours on PhoneBanking and during banking hours in branch, and HDFC Bank will carry out the request for Hotlisting of my/our Card. HDFC Bank will not be liable for any damages on account of me not being able to use the Hotlisted Card to carry out any transactions. The Bank shall not be liable for any loss by the misuse of the Card prior to the Card being reported as lost/stolen by me. If a Card is lost or stolen I will file a report with the local police and send a copy thereafter to the Bank. In case of an unsigned Card, I will be liable for all charges incurred on it."
+  },
+  {
+    "id": "debit-16-25-b",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.25-b",
+    "title": "Lost or stolen cards - reporting, hotlisting, and liability for pre-report misuse (part 2 of 2)",
+    "text": "The Bank will hot-list/cancel the Card within 24 hours of receiving such information."
+  },
+  {
+    "id": "debit-16-25-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.25.1",
+    "title": "Lost or stolen cards - reporting loss overseas via Visa/MasterCard Global Emergency Assistance",
+    "text": "If the Cardholder loses his Card overseas, he may either follow the standard procedure or may report the loss through the Visa/MasterCard Global Emergency Assistance help-lines. In case the Cardholder uses the Visa/MasterCard Global Emergency Assistance services, the charges for usage of such services shall be borne by the Cardholder."
+  },
+  {
+    "id": "debit-16-25-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.25.2",
+    "title": "Lost or stolen cards - handling a Card subsequently found after being reported lost/stolen/damaged",
+    "text": "The Cardholder shall take cognizance of the fact that once a Card is reported lost, stolen or damaged and is subsequently found, the same shall be promptly cut in half, returned to the Bank, and adequate care taken to prevent its misuse."
+  },
+  {
+    "id": "debit-16-25-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.25.3",
+    "title": "Lost or stolen cards - Cardholder responsibility for security and liability determination",
+    "text": "The Cardholder is responsible for the security of the Card and shall take all steps towards ensuring the safekeeping thereof. In the event the Bank determines that the aforementioned steps are questionable, financial liability on the lost or stolen Card would rest with the Cardholder."
+  },
+  {
+    "id": "debit-16-25-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.25.4",
+    "title": "Lost or stolen cards - replacement Card conditional on compliance with Terms",
+    "text": "A Replacement Card may be issued by the Bank provided that the Cardholder has in all respects complied with the Terms and Conditions pertaining to the same."
+  },
+  {
+    "id": "debit-16-26",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.26",
+    "title": "Services from Visa/MasterCard Global Assistance",
+    "text": "The communications and arrangements of services of the Emergency Assistance program are provided by a third-party service provider and are paid for by Visa/MasterCard International. The Cardholder is responsible for the cost of any and all medical, legal or other services used. Assistance is provided on a best effort basis and may not be available due to problems of time, distance or location. The medical and/or legal professionals suggested and/or designated by VISA International are not employees of Visa International and, therefore, they are not responsible for the availability, use, acts, omissions, or results of any medical, legal or transportation service. The Bank does not accept any responsibility for the arrangement or the use of such services."
+  },
+  {
+    "id": "debit-16-27-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.27.1",
+    "title": "ATM Usage - cash/cheque deposit transaction receipts and verification",
+    "text": "For all cash/cheque deposit transactions at the ATM, the Cardholder agrees that the ATM will produce a receipt and that no other receipt will be issued. All cash and cheque deposits will be subject to verification by the Bank/Bank's Representatives and this verified amount will be binding on the Cardholder. The same will be processed on the next working day."
+  },
+  {
+    "id": "debit-16-27-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.27.2",
+    "title": "ATM Usage - processing of chequebook and duplicate statement requests",
+    "text": "The Cardholder agrees that requests on the ATM such as cheque book requisitions and duplicate account statement requests will be processed normally on the next working day."
+  },
+  {
+    "id": "debit-16-27-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.27.3",
+    "title": "ATM Usage - Bank's discretion to levy and change ATM Service Charges",
+    "text": "The Bank may levy charges on use of its own ATMs/ATMs of other Banks and the Bank may from time to time change the Service Charges. These Service Charges will be displayed on the Bank's Website. As and when levied, these charges will be deducted from the Cardholder's account linked to the Card. In the situation that the account does not have sufficient funds to deduct such fees, the Bank reserves the right to deny such transactions, and the decision of the Bank would be binding on the Cardholder."
+  },
+  {
+    "id": "debit-16-27-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.27.4",
+    "title": "ATM Usage - transaction set on other Banks' ATMs may differ; Bank's right to change without notice",
+    "text": "The type of transactions offered on other Bank's ATMs using the Bank's Cards may differ from those offered on the Bank's own network. The Bank will only support the minimum transaction set that will be offered at the ATMs belonging to other networks. The Bank reserves the right to change the transaction set without any notice to the Cardholder."
+  },
+  {
+    "id": "debit-16-28",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.28",
+    "title": "Debit Card - PIN confidentiality and Cardholder responsibility for PIN-based transactions",
+    "text": "The Card is operable with the help of a confidential PIN at ATM locations. The Cardholder's PIN shall be mailed/couriered to him at the address specified by the Cardholder. The PIN should never be disclosed to any person or written down where any other person may discover it. Any such disclosure or inadequate protection of the confidentiality of the PIN is entirely at the Cardholder's risk. All transactions conducted with use of the PIN will be the Cardholder's responsibility and he will abide by the record of the transaction as generated."
+  },
+  {
+    "id": "debit-16-29",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.29",
+    "title": "Debit Card - acceptance at other institutions' ATM networks and complaint resolution responsibility",
+    "text": "The Card is acceptable at any Visa/MasterCard/Cashnet ATM network belonging to institutions other than HDFC Bank in India and abroad. The Bank will not accept responsibility for any dealings the Cardholder may have with the other institutions including but not limited to such services. Should the Cardholder have any complaints concerning any Plus/Cirrus ATM network establishment, the matter should be resolved by the Cardholder with the establishment and failure to do so will not relieve him from any obligations to the Bank. However, the Cardholder should notify the Bank of this complaint immediately."
+  },
+  {
+    "id": "debit-16-30",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.30",
+    "title": "Debit Card - separate service charges for additional facilities",
+    "text": "There will be separate service charges levied for any additional facilities that will be announced by the Bank from time to time and deducted from the Cardholder's account linked to the Card. In the situation that the account does not have sufficient funds to deduct such fees, the Bank reserves the right to deny such transactions, and the decision of the Bank would be binding on the Cardholder."
+  },
+  {
+    "id": "debit-16-31",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.31",
+    "title": "Debit Card - transaction set on other Banks' ATMs may differ (restated)",
+    "text": "The type of transactions offered on ATMs of other Banks may differ from those offered on the Bank's own network. The Bank will only support the minimum transaction set that will be offered at the ATMs belonging to other networks. The Bank reserves the right to change the transaction set without any notice to the Cardholder."
+  },
+  {
+    "id": "debit-16-32",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.32",
+    "title": "Merchant Location Usage - acceptance at electronic Merchant Establishments and PIN mandate",
+    "text": "The Card is acceptable at all electronic Merchant Establishments in India and abroad which display the Visa Electron/Flag/Maestro/MasterCard logo. W.e.f. 1st December 2013: Customer will need to use his ATM PIN when using his HDFC Bank Debit Card at any retail outlet in India. Transactions with incorrect PIN or those without a PIN will be declined."
+  },
+  {
+    "id": "debit-16-32-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.32.1",
+    "title": "Merchant Location Usage - Card for electronic use only via EDC terminal; Ecom via PIN",
+    "text": "The Card is for Electronic use only and will be acceptable only at Merchant Establishments which have an EDC terminal. Any usage of the Card other than electronic use will be considered Unauthorised and the Cardholder will be solely responsible for such transactions unless there is a specific offer by HDFC Bank to the customer. Electronic usage is construed as the charge slip/transaction slip printed electronically from the EDC terminal. Visa Cards may also be used for carrying out Ecom transactions on Verified by Visa sites using a PIN."
+  },
+  {
+    "id": "debit-16-33",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.33",
+    "title": "Debit Card - operability via signature or PIN at EDC terminals",
+    "text": "The Card is operable with the help of the Cardholder's signature (only in case of Cards issued with Visa Electron/Flag/MasterCard logo) or the PIN (Maestro) at EDC terminals installed at Merchant locations depending on the functionality of the EDC terminal."
+  },
+  {
+    "id": "debit-16-34",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.34",
+    "title": "Debit Card - transaction authorisation upon sales slip generation and single-use requirement",
+    "text": "Transactions are deemed authorised and completed once the EDC terminal generates a sales slip. The amount of the transaction is debited from the primary account linked to the Card immediately. The Cardholder should ensure that the Card is used only once at the merchant location for every purchase. The sales slip will be printed each time the Card is used and the Cardholder should ensure that there is no multiple usage of the Card at the Merchant location at the time of purchase."
+  },
+  {
+    "id": "debit-16-35",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.35",
+    "title": "Debit Card - no Bank responsibility for merchant dealings; complaint resolution with merchant",
+    "text": "The Bank will not accept responsibility for any dealings the Cardholder may have with the merchant including but not limited to the supply of goods and services. Should the Cardholder have any complaints concerning any Visa Electron/Maestro merchant establishment, the matter should be resolved by the Cardholder with the merchant establishment and failure to do so will not relieve him from any obligations to the Bank. However, the Cardholder should notify the Bank of this complaint immediately."
+  },
+  {
+    "id": "debit-16-36",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.36",
+    "title": "Debit Card - merchant surcharge disputes and Railway/Petrol Pump industry-practice charges",
+    "text": "For surcharge levied by any Merchant Establishment and debited to the Cardholder's account with the transaction amount, the customer can approach the Bank for support and the Bank will raise it with the respective Member bank/Merchant on a best-efforts basis. However, at Railway stations and Petrol Pumps, transaction charges as per industry practice will be applicable."
+  },
+  {
+    "id": "debit-16-37",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.37",
+    "title": "Debit Card - Sales Slip signature requirement and Cardholder liability",
+    "text": "The Cardholder must sign a Sales Slip whenever the Card is used at a Merchant Establishment and should retain his copy. The Bank at an additional charge may furnish copies of the Sales Slip. Any Sales Slip signed by the Cardholder, and which can be proved as being authorised by the Cardholder, will be his liability."
+  },
+  {
+    "id": "debit-16-38",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.38",
+    "title": "Debit Card - merchant charge requisition as conclusive proof, subject to lost/stolen/fraud burden of proof",
+    "text": "Any charge or other payment requisition received from a Merchant Establishment by the Bank for payment shall be conclusive proof that the charge recorded on such requisition was properly incurred at the Merchant Establishment in the amount and by the Cardholder referred to in that charge or other requisition, as the case may be, by the use of the Card, except where the Card has been lost, stolen or fraudulently misused, the burden of proof for which shall be on the Cardholder."
+  },
+  {
+    "id": "debit-16-39",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.39",
+    "title": "Debit Card - merchant cancellation of completed transactions and manual reversal/refund process",
+    "text": "In case a merchant wishes to cancel a completed transaction due to an error or on account of merchandise return, the earlier sales receipt must be cancelled by the merchant and a copy of the cancelled receipt must be retained in his possession. Reversal/Refunds of debits due to such transactions will be processed manually and the cancelled sales slip needs to be produced by the Cardholder, if called for."
+  },
+  {
+    "id": "debit-16-40",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.40",
+    "title": "Debit Card - manual processing of refunds/adjustments; honouring debits based on available balance",
+    "text": "All Refunds and Adjustments due to any merchant/device error or communication link will be processed manually and the account will be credited after due verification and in accordance with Visa/MasterCard rules and regulations as applicable. The Cardholder agrees that any debits received during this time will be honoured only based on the Available Balance in the account(s) without considering this Refund. The Cardholder also indemnifies the Bank from such acts of dishonouring the payment instructions."
+  },
+  {
+    "id": "debit-16-41",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.41",
+    "title": "Debit Card - restriction on use at Hotel check-in and pre-completion payment arrangements",
+    "text": "The Card is not to be used at Hotels during Check-in and also at other locations where a paying arrangement is made before completion of the purchase transaction or service."
+  },
+  {
+    "id": "debit-16-42",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.42",
+    "title": "Debit Card - restriction on Mail Order/Phone Order use",
+    "text": "The Card should not be used for any Mail Order/Phone Order purchases and any such usage will be considered Unauthorised and the Cardholder will be solely responsible unless there is a specific offer by HDFC Bank to the Cardholder."
+  },
+  {
+    "id": "debit-16-43",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.43",
+    "title": "Quality of Goods and Services - Bank not responsible for merchandise/service quality",
+    "text": "The Bank shall not be in any way responsible for merchandise, warranty or services purchased or availed of by the Cardholder from Merchant Establishments including on account of delay and delivery, non-delivery, non-receipt of goods or receipt of defective goods from the order placed by the Cardholder. It must be distinctly understood that the Card facility is purely a facility to the Cardholder to purchase goods or avail of services and the Bank holds out no warranty or makes no representation about quality, quantity, delivery or otherwise howsoever regarding the goods or services, and any dispute must be resolved by the Cardholder with the Merchant Establishment."
+  },
+  {
+    "id": "debit-16-44-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.44.1",
+    "title": "Card Usage - Bank's discretion on which of multiple accounts get Card facility",
+    "text": "The Cardholder agrees that in case he has multiple accounts with the Bank, the Bank will decide the number of accounts which will have the Card facility on them."
+  },
+  {
+    "id": "debit-16-44-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.44.2",
+    "title": "Card Usage - transactions effected on primary account only for Cards linked to multiple accounts",
+    "text": "In case of Cards linked to multiple accounts, transactions at Visa/PLUS or MasterCard/Cirrus ATMs and Visa Electron/Maestro Merchant Establishments will be effected on the primary account linked to the Card. In case there are no funds in this account, the Bank will not honour the transactions even if there are funds available in the other accounts linked to the same Card."
+  },
+  {
+    "id": "debit-16-45",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.45",
+    "title": "Debit Card - debiting of linked accounts for all Transactions and Statement reflection",
+    "text": "The Bank will debit the accounts linked to the Card for the value of all purchases of goods or services, cash, fees, charges and payments effected by the use of the Card (\"Transactions\"). All Transactions will be reflected in the Account Statement of the Account(s) which are linked to the Card. Such statements shall be mailed to the Cardholder as per defined frequency to the mailing address as per the customer's records with the Bank."
+  },
+  {
+    "id": "debit-16-46",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.46",
+    "title": "Debit Card - Bank's transaction records as conclusive and authentic",
+    "text": "The Cardholder agrees that the Bank's record of transactions pertaining to his account(s) is conclusive and authentic."
+  },
+  {
+    "id": "debit-16-47",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.47",
+    "title": "Debit Card - non-refundable annual fees debited on application/renewal",
+    "text": "The annual fees will be debited to the account linked to his Card on application/renewal at the Bank's prevailing rate. These fees are not refundable."
+  },
+  {
+    "id": "debit-16-48",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.48",
+    "title": "Debit Card - Cardholder advised to retain transaction records",
+    "text": "The Cardholder is advised to retain a record of transactions generated by the ATM/EDC terminal at Merchant Establishments with him."
+  },
+  {
+    "id": "debit-16-49",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.49",
+    "title": "Debit Card - ATM withdrawal limits and tax on cash withdrawals",
+    "text": "The Cardholder will be allowed to withdraw through the ATM the available balance in his account or a stipulated predefined limit per day, whichever is lower. This per day limit will be determined by the Bank and may be changed at any time at the Bank's sole discretion without notice to the Cardholder. Cardholder agrees that cash withdrawals will be subject to tax as applicable from time to time."
+  },
+  {
+    "id": "debit-16-50",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.50",
+    "title": "Debit Card - responsibility to maintain sufficient funds and consequences of overdrawn accounts",
+    "text": "The Cardholder agrees not to attempt to withdraw/purchase using the Card unless sufficient funds are available in the account. The onus of ensuring adequate account balances is entirely on him. Accounts that violate this condition will be classified as overdrawn accounts and he will have to rectify the account balance position immediately. In every such situation where the account gets overdrawn, interest charges will be levied on the debit balance in the account; this charge will be determined by the Bank and announced from time to time."
+  },
+  {
+    "id": "debit-16-51",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.51",
+    "title": "Debit Card - Bank's right to set off overdrawn amounts against other accounts without notice",
+    "text": "In the event of an account being overdrawn due to Card transactions, the Bank reserves the right to set off this amount against any credit lying in any of the Cardholder's other accounts held jointly or singly without giving any notice."
+  },
+  {
+    "id": "debit-16-52",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.52",
+    "title": "Debit Card - Cardholder responsibility for misuse once Card/PIN delivered",
+    "text": "The responsibility for any misuse on the Card, once the Card/PIN has been delivered at the address specified by the customer, will rest with the customer and not the Bank."
+  },
+  {
+    "id": "debit-16-53",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.53",
+    "title": "Debit Card - preservation of Bank's right of set-off, transfer and application of monies",
+    "text": "Nothing in these Terms and Conditions shall affect the Bank's right of set-off, transfer and application of monies at law or pursuant to any other agreement from time to time subsisting between the Bank and Cardholder."
+  },
+  {
+    "id": "debit-16-54-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.54.1",
+    "title": "International Transactions - exchange rate determined by Bank and binding on Cardholder",
+    "text": "The exchange rate used for all foreign currency transactions will be decided by the Bank and will be binding on the Cardholder."
+  },
+  {
+    "id": "debit-16-54-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.54.2",
+    "title": "International Transactions - some overseas merchant transactions may process without PIN",
+    "text": "There are certain Transactions initiated on merchants located outside India which may get processed without PIN depending on the guidelines followed in the respective countries."
+  },
+  {
+    "id": "debit-16-54-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.54.3",
+    "title": "International Transactions - Residents: documentary evidence not required below permissible limit",
+    "text": "As per RBI guidelines, Cardholders need not submit documentary evidence like invoice/bills, etc. for the use of the Card for permitted purposes as per the Exchange Control Regulations, if the remittance involved is less than the permissible limit (presently USD 10,000) or its equivalent and prima facie meets the Exchange Control Regulations."
+  },
+  {
+    "id": "debit-16-54-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.54.4",
+    "title": "International Transactions - documentary evidence required if entitlements exceeded; Bank's reporting authority",
+    "text": "As per RBI guidelines, in case the amount on account of use of the Card during visits abroad exceeds the Cardholder's foreign exchange entitlements, the Cardholder should provide documentary evidence for the foreign exchange utilised. The Bank is authorised to report the matter to the regional office of the Exchange Control department giving full details."
+  },
+  {
+    "id": "debit-16-54-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.54.5",
+    "title": "International Transactions - A2 form and passport endorsement requirement per foreign currency transaction",
+    "text": "As per the Exchange Regulations, for every foreign currency transaction the Cardholder should submit (a) a duly completed A2 form and (b) his passport endorsed for the foreign currency utilised."
+  },
+  {
+    "id": "debit-16-54-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.54.6",
+    "title": "International Transactions - Bank's authority to submit A2 form on Cardholder's behalf if uncontactable",
+    "text": "In case the Cardholder is not contactable or not able to submit the same within the reporting time as specified by RBI, the Cardholder authorises and indemnifies the Bank to fill in and submit the request for purchase of foreign exchange (A2 form) on behalf of the Cardholder."
+  },
+  {
+    "id": "debit-16-54-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.54.7",
+    "title": "International Transactions - Non-Residents: Bank's authority to submit A2 form on Cardholder's behalf",
+    "text": "The Cardholder authorises and indemnifies the Bank to fill in and submit the request for purchase of foreign exchange (A2 form) on behalf of the Cardholder."
+  },
+  {
+    "id": "debit-16-55",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.55",
+    "title": "Disputes - sales slip as conclusive evidence of Cardholder liability",
+    "text": "A sales slip with the signature of the Cardholder together with the Card number noted thereon shall be conclusive evidence as between the Bank and the Cardholder as to the extent of liability incurred by the Cardholder, and the Bank shall not be required to ensure that the Cardholder has duly received the goods purchased/to be purchased or has duly received the service availed or to be availed to the Cardholder's satisfaction."
+  },
+  {
+    "id": "debit-16-56",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.56",
+    "title": "Disputes - Bank's efforts to resolve disagreements within six months",
+    "text": "The Bank shall make bonafide and reasonable efforts to resolve an aggrieved Cardholder's disagreement with the applicable charge indicated in the statement within six months of receipt of the notice of disagreement. If after such effort the Bank determines that the charge indicated is correct, it shall communicate the same to the Cardholder along with details including a copy of the Sales Slip or payment requisition."
+  },
+  {
+    "id": "debit-16-57",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.57",
+    "title": "Disputes - Bank not responsible for merchant establishment's refusal to honour Card",
+    "text": "The Bank accepts no responsibility for refusal by any establishment to honour the Card."
+  },
+  {
+    "id": "debit-16-58",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.58",
+    "title": "Disputes - Visa/MasterCard resolution timeline and 15-day reporting window",
+    "text": "As per Visa/MasterCard International Operating Regulation, the complete resolution of a dispute may take up to six months. In case the customer wants to dispute any transaction, the same should be informed to the Bank within 15 days from the date of the transaction."
+  },
+  {
+    "id": "debit-16-59",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.59",
+    "title": "Exclusion of Liability - overview",
+    "text": "Without prejudice to the foregoing, the Bank shall be under no liability whatsoever to the applicant in respect of any loss or damage arising, directly or indirectly, out of the matters listed in the sub-clauses of this section."
+  },
+  {
+    "id": "debit-16-59-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.59.1",
+    "title": "Exclusion of Liability - defect in goods or services supplied",
+    "text": "Any defect in goods or services supplied."
+  },
+  {
+    "id": "debit-16-59-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.59.2",
+    "title": "Exclusion of Liability - refusal to honour or accept a Card",
+    "text": "The refusal of any person to honour or accept a Card."
+  },
+  {
+    "id": "debit-16-59-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.59.3",
+    "title": "Exclusion of Liability - malfunction of any computer terminal",
+    "text": "The malfunction of any computer terminal."
+  },
+  {
+    "id": "debit-16-59-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.59.4",
+    "title": "Exclusion of Liability - transaction instructions not from Cardholder or given under duress",
+    "text": "Effecting transaction instruction other than by a Cardholder or effecting transaction by Cardholder under duress."
+  },
+  {
+    "id": "debit-16-59-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.59.5",
+    "title": "Exclusion of Liability - statements or acts regarding return of the Card",
+    "text": "Any statement made by any person requesting the return of the Card or any act performed by any person in conjunction."
+  },
+  {
+    "id": "debit-16-59-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.59.6",
+    "title": "Exclusion of Liability - handing over Card to unauthorised persons",
+    "text": "Handing over of the Card by the Cardholder to anybody other than the designated employees of the Bank at the Bank's premises."
+  },
+  {
+    "id": "debit-16-59-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.59.7",
+    "title": "Exclusion of Liability - Bank's demand for surrender of Card prior to expiry",
+    "text": "The exercise by the Bank of its right to demand and procure the surrender of the Card prior to the expiry date displayed on its face, whether such demand and surrender made and/or procured by the Bank or by any person or computer terminal."
+  },
+  {
+    "id": "debit-16-59-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.59.8",
+    "title": "Exclusion of Liability - Bank's exercise of right to terminate any Card",
+    "text": "The exercise by the Bank of its right to terminate any Card."
+  },
+  {
+    "id": "debit-16-59-9",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.59.9",
+    "title": "Exclusion of Liability - injury to credit character/reputation from repossession or refusal to honour",
+    "text": "Any injury to the credit character and reputation of the applicant alleged to have been caused by the repossession of the Card and/or any request for its return or the refusal of any Merchant Establishment to honour or accept the Card."
+  },
+  {
+    "id": "debit-16-59-10",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.59.10",
+    "title": "Exclusion of Liability - mis-statement, misrepresentation, error or omission in disclosed details",
+    "text": "Any mis-statement, misrepresentation, error or omission in any details disclosed by the Bank."
+  },
+  {
+    "id": "debit-16-59-11",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.59.11",
+    "title": "Exclusion of Liability - decline of charge due to excess foreign exchange entitlements",
+    "text": "Decline of a charge because of excess foreign exchange entitlements as prescribed by RBI guidelines issued from time to time, or the Bank becoming aware of the Cardholder exceeding his entitlements."
+  },
+  {
+    "id": "debit-16-59-12",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.59.12",
+    "title": "Exclusion of Liability - decline of transaction for any reason at Merchant location/ATM",
+    "text": "Decline of transaction due to any reason at a Merchant location/ATM."
+  },
+  {
+    "id": "debit-16-60-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.60.1",
+    "title": "Insurance Benefits - Bank not liable for insurance cover; Insurance company solely liable",
+    "text": "The Cardholder specifically acknowledges that the Bank will not be liable in any manner whatsoever by virtue of any insurance cover provided, and that the insurance company will be solely liable, in case of death of a Cardholder, and shall not hold the Bank responsible for any matter arising out of or in connection with such insurance cover, whether for or in respect of any deficiency or defect in such insurance cover, recovery or payment of compensation, processing or settlement of claims or otherwise howsoever, and all such matters shall be addressed to and sorted out directly with the Insurance company."
+  },
+  {
+    "id": "debit-16-60-2-a",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.60.2-a",
+    "title": "Insurance Benefits - cover tied to active Cardholder status; Bank's right to suspend/withdraw with notice (part 1 of 2)",
+    "text": "The Cardholder further acknowledges that the insurance cover so provided will be available to the Cardholder only as per the terms of the relevant insurance policy in force, and only so long as the Cardholder is and remains a Cardholder of the Bank with his account maintained in good standing. On the Card/account being cancelled or withdrawn temporarily or permanently for whatever reason, the benefit of such insurance cover shall automatically and ipso facto cease to be available from such date of cesser of Card/account."
+  },
+  {
+    "id": "debit-16-60-2-b",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.60.2-b",
+    "title": "Insurance Benefits - cover tied to active Cardholder status; Bank's right to suspend/withdraw with notice (part 2 of 2)",
+    "text": "The Cardholder further agrees that even during continuation of his Card/account, the Bank may at any time (after giving 30 days' notice) suspend, withdraw or cancel the benefit of such insurance cover, and there will be no binding obligation on the Bank to continue this benefit."
+  },
+  {
+    "id": "debit-16-60-3-a",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.60.3-a",
+    "title": "Insurance Benefits - prior-transaction requirements for Zero Liability and other insurance claims (part 1 of 2)",
+    "text": "For Claims under Zero Liability to be accepted and processed, the cardholder should have carried out at least 1 purchase transaction using the Debit Card within 90 days prior to the event date/date of the disputed purchase transaction. For claims under personal accident death cover/fire & burglary insurance/loss of checked baggage insurance, the cardholder should have carried out at least 1 purchase transaction using the Debit Card within 30 days prior to the event date/date of the disputed purchase transaction."
+  },
+  {
+    "id": "debit-16-60-3-b",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.60.3-b",
+    "title": "Insurance Benefits - prior-transaction requirements for Zero Liability and other insurance claims (part 2 of 2)",
+    "text": "Additionally, for accidental death claims, in the scenario of unfortunate demise of the cardholder before completion of 30 days, the Bank shall, on receipt of such a claim from the claimant (nominee of customer's account/legal heir), raise the claim with the Insurance Company on a best effort basis. However, acknowledgement of this claim by HDFC Bank would not be an admission of liability, as the claim received will be processed and investigated by the Insurance Co and their decision will be final and binding. HDFC Bank will not be liable for the decision taken by the Insurance Co."
+  },
+  {
+    "id": "debit-16-60-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.60.4",
+    "title": "Insurance Benefits - applicability to Card with highest Sum Insured for multiple Cards",
+    "text": "In the event the Insured Person(s) has multiple Cards issued by the Insured named in the Schedule, the Insurance Policy shall be applicable only for the Card which has the highest Sum Insured/limit of Indemnity."
+  },
+  {
+    "id": "debit-16-61-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.61.1",
+    "title": "Termination - Cardholder-initiated discontinuation and liability for post-destruction charges",
+    "text": "The Cardholder may discontinue this facility any time by written notice to the Bank accompanied by the return of the Card cut into two diagonally. In the event charges are incurred on the Card after the Cardholder claims to have destroyed the Card, the Cardholder shall be entirely liable for the charges incurred on the Card whether or not the same are the result of misuse and whether or not the Bank has been intimated of the destruction of the Card. In case of a dispute on any transaction, the Cardholder can notify the Bank and the Bank can raise a chargeback as per regulations of Visa/MasterCard."
+  },
+  {
+    "id": "debit-16-61-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.61.2",
+    "title": "Termination - Bank's discretion to discontinue facility with 30 days' notice",
+    "text": "The Bank shall be entitled to discontinue this facility at any time by cancelling the Card by giving 30 days' notice, and shall be deemed to have been received by the Cardholder within 30 days of posting to the Cardholder's address in India, last notified in writing to the Bank."
+  },
+  {
+    "id": "debit-16-61-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.61.3",
+    "title": "Termination - Bank's right to disclose customer information to authorities",
+    "text": "The Bank reserves the right to disclose customer information to any court of competent jurisdiction, quasi-judicial authorities, law enforcement agencies and any other wing of Central Government or State Government."
+  },
+  {
+    "id": "debit-16-61-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.61.4",
+    "title": "Termination - unusual transaction patterns, customer verification, and restriction/termination without notice",
+    "text": "In case the Bank notices unusual and abnormal transaction patterns in the use of the Card, the Bank will try to establish contact with the customer on the registered phone number available on its records to verify the bonafideness of the card transaction. If the Bank fails to establish contact with the customer, the Bank may restrict/terminate the use of the Card without any further notice, if the Bank reasonably believes it necessary in the interests of the Cardholder and/or for security reasons."
+  },
+  {
+    "id": "debit-16-62",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.62",
+    "title": "Indemnity - customer's indemnity obligations overview",
+    "text": "I agree to indemnify the Bank against all liabilities, losses, damages and expenses which the Bank may sustain or incur either directly or indirectly as a result of the matters listed in the sub-clauses of this section."
+  },
+  {
+    "id": "debit-16-62-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.62.1",
+    "title": "Indemnity - negligence, mistake or misconduct by the customer",
+    "text": "Negligence/mistake or misconduct by me."
+  },
+  {
+    "id": "debit-16-62-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.62.2",
+    "title": "Indemnity - breach or non-compliance of rules/Terms and Conditions",
+    "text": "Breach or non-compliance of the rules/Terms and Conditions relating to the Card and the account."
+  },
+  {
+    "id": "debit-16-62-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.62.3",
+    "title": "Indemnity - fraud or dishonesty relating to any transaction",
+    "text": "Fraud or dishonesty relating to any transaction by me or my employees/agents."
+  },
+  {
+    "id": "debit-16-63",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.63",
+    "title": "Debit Card - indemnity for ATM/EDC machine or mechanical errors and failures",
+    "text": "ATMs/EDC terminals are machines and errors could occur while in operation. I agree to indemnify the Bank for any such machine/mechanical errors/failures."
+  },
+  {
+    "id": "debit-16-64",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.64",
+    "title": "Debit Card - indemnity for non-compliance with RBI Exchange Control Regulations",
+    "text": "I shall indemnify and hold harmless the Bank from any and all consequences arising from me not complying with the Exchange Control Regulations of the RBI."
+  },
+  {
+    "id": "debit-16-65-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.65.1",
+    "title": "Terms - Bank's right to issue Visa/MasterCard/Maestro Card",
+    "text": "HDFC Bank reserves the right to issue either Visa Card/MasterCard/Maestro Card to the customer."
+  },
+  {
+    "id": "debit-16-65-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.65.2",
+    "title": "Terms - deemed acceptance of Terms and Conditions",
+    "text": "The Cardholder shall be deemed to have unconditionally agreed to and accepted these Terms and Conditions by signing the Card application form, acknowledging receipt of the Card in writing, by signing the reverse of the Card, by performing a transaction with the Card, by requesting activation of the Card to the Bank/PhoneBanking, or once the deliverable has been delivered by the Bank at the address specified by the customer."
+  },
+  {
+    "id": "debit-16-65-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.65.3",
+    "title": "Terms - Bank's right to revise policies, features and benefits; binding effect of alterations",
+    "text": "The Bank reserves the right to revise policies, features and benefits offered on the Card and alter these Terms and Conditions from time to time, and may notify the Cardholder of any such alterations through an appropriate channel. The Cardholder will be bound by such alterations unless the Card is returned to the Bank for cancellation before the date upon which any alteration is to have effect."
+  },
+  {
+    "id": "debit-16-65-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.65.4",
+    "title": "Terms - Bank's right to introduce new services and applicable Terms and Conditions",
+    "text": "The Bank may introduce new services from time to time. The existence and availability of new functions will be notified to the Cardholder as and when they become available, through the HDFC Bank website or any mode of communication deemed fit by the Bank. The changed Terms and Conditions applicable to the new services shall be communicated to the Cardholder. By using these new services, the Cardholder agrees to be bound by the applicable Terms and Conditions."
+  },
+  {
+    "id": "debit-16-65-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.65.5",
+    "title": "Terms - contract formation and relationship to other account Terms and Conditions",
+    "text": "These TERMS form the contract between the Cardholder and the Bank. By applying for the HDFC Bank Debit Card and accessing the service, the Cardholder acknowledges and accepts these Terms and Conditions. These Terms and Conditions will be in addition to and not in derogation of the Terms and Conditions relating to any account of the customer."
+  },
+  {
+    "id": "debit-16-66-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.66.1",
+    "title": "Turn Around Time for Debit Card - Instant Debit Card activation timeline",
+    "text": "The customer will be issued an inactive Instant Debit Card at the branch. The activation of the Instant Debit Card will be done within the next working day."
+  },
+  {
+    "id": "debit-16-66-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "16.66.2",
+    "title": "Turn Around Time for Debit Card - personalized Debit Card delivery TAT by location",
+    "text": "The personalized Debit Card delivery at the registered mailing address will depend upon the location of the mailing address. Expected TAT for personalized Debit Card delivery from the day of request acceptance: Metro Location Delivery - 5 Working Days; Urban Location Delivery - 6 Working Days; Rural Location Delivery - 7 Working Days."
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "profile-access-page",
+    "category": "profile",
+    "type": "faq",
+    "title": "Accessing your profile page",
+    "sample_queries": [
+      "How do I get to my profile page?",
+      "Where is my profile in NetBanking?",
+      "How do I open my account settings?"
+    ],
+    "answer": "You can access your profile by clicking the hamburger menu in the top-right corner of NetBanking, which opens a dropdown with your profile options."
+  },
+  {
+    "id": "profile-change-picture",
+    "category": "profile",
+    "type": "faq",
+    "title": "Changing your profile picture",
+    "sample_queries": [
+      "How do I change my profile picture?",
+      "Can I update my photo on NetBanking?",
+      "How do I upload a new profile pic?"
+    ],
+    "answer": "You can change your profile picture by going to the hamburger menu, then My Profile, then Personal, and clicking the upload link below the profile picture icon."
+  },
+  {
+    "id": "profile-change-email",
+    "category": "profile",
+    "type": "faq",
+    "title": "Updating your registered email ID",
+    "sample_queries": [
+      "How do I change my email address on my account?",
+      "How do I update my registered email?",
+      "I want to change the email linked to my account"
+    ],
+    "answer": "You can update your registered email by going to the hamburger menu, then My Profile, then Personal, then Contacts, and clicking Change next to Email ID."
+  },
+  {
+    "id": "profile-change-landline-numbers",
+    "category": "profile",
+    "type": "faq",
+    "title": "Updating your residence or office landline number",
+    "sample_queries": [
+      "How do I update my home landline number?",
+      "How do I change my office phone number on file?",
+      "Can I update my residence phone number online?"
+    ],
+    "answer": "You can update either number by going to the hamburger menu, then My Profile, then Personal, then Contacts, and clicking Change next to Home Landline or Office Landline, whichever you need to update."
+  },
+  {
+    "id": "profile-create-user-id",
+    "category": "profile",
+    "type": "faq",
+    "title": "Creating a personalized login user ID",
+    "sample_queries": [
+      "Can I create my own login ID?",
+      "How do I set a custom user ID?",
+      "Can I change my NetBanking username?"
+    ],
+    "answer": "Yes, you can create a personalized user ID by going to the hamburger menu, then My Profile, then Personal, then User ID, and selecting Create."
+  },
+  {
+    "id": "profile-view-registered-contacts",
+    "category": "profile",
+    "type": "faq",
+    "title": "Viewing your registered mobile number and email ID",
+    "sample_queries": [
+      "What mobile number does the bank have on file for me?",
+      "How do I check my registered email address?",
+      "Where can I see my contact details on file?"
+    ],
+    "answer": "You can view both your registered mobile number and email ID by going to the hamburger menu, then My Profile, then Contacts."
+  },
+  {
+    "id": "profile-update-pan",
+    "category": "profile",
+    "type": "faq",
+    "title": "Updating your PAN card details",
+    "sample_queries": [
+      "How do I update my PAN card on file?",
+      "Can I change my PAN details online?",
+      "Where do I update my PAN number?"
+    ],
+    "answer": "You can update your PAN card details by going to the hamburger menu, then My Profile, then Aadhaar & PAN."
+  },
+  {
+    "id": "profile-update-aadhaar",
+    "category": "profile",
+    "type": "faq",
+    "title": "Updating your Aadhaar details",
+    "sample_queries": [
+      "How do I update my Aadhaar card?",
+      "Can I change my Aadhaar number online?",
+      "Where do I update Aadhaar details?"
+    ],
+    "answer": "Aadhaar details can't be updated through NetBanking — you'll need to visit your nearest branch to make that change."
+  },
+  {
+    "id": "profile-update-gstin",
+    "category": "profile",
+    "type": "faq",
+    "title": "Updating your GSTIN",
+    "sample_queries": [
+      "How do I update my GST number?",
+      "Where do I add my GSTIN?",
+      "Can I change my GSTIN online?"
+    ],
+    "answer": "You can update your GSTIN by going to the hamburger menu, then Tax Services, then View/Update GSTIN."
+  },
+  {
+    "id": "profile-update-occupation",
+    "category": "profile",
+    "type": "faq",
+    "title": "Updating occupation and income details",
+    "sample_queries": [
+      "How do I update my occupation details?",
+      "Can I change my income information on file?",
+      "How do I update my profession or company type?"
+    ],
+    "answer": "You can update details like your profession, company type, source of funds, gross annual income, and residence type by going to the hamburger menu, then My Profile, then Update Occupation."
+  },
+  {
+    "id": "profile-view-cibil-score",
+    "category": "profile",
+    "type": "faq",
+    "title": "Viewing your CIBIL score",
+    "sample_queries": [
+      "How do I check my CIBIL score?",
+      "Can I get my credit report through NetBanking?",
+      "Where do I request my credit score?"
+    ],
+    "answer": "You can request your CIBIL credit report by going to the hamburger menu, then My Profile, then Request CIBIL Score. CIBIL charges a fee of 550 rupees for the report."
+  },
+  {
+    "id": "profile-change-corporate-email",
+    "category": "profile",
+    "type": "faq",
+    "title": "Changing a corporate or company email ID",
+    "sample_queries": [
+      "How do I change my company email on the account?",
+      "Can I update my corporate email through NetBanking?",
+      "My business email needs to be updated, how?"
+    ],
+    "answer": "A corporate or company email ID can't be changed through NetBanking — you'll need to contact your nearest branch to have it updated."
+  },
+  {
+    "id": "profile-setup-alerts",
+    "category": "profile",
+    "type": "faq",
+    "title": "Setting up account alerts",
+    "sample_queries": [
+      "Can I set up alerts for my account?",
+      "How do I customize my banking notifications?",
+      "How do I turn on transaction alerts?"
+    ],
+    "answer": "Yes, you can set customized alerts by going to the hamburger menu, then My Profile, then Insta Alerts."
+  }
+]

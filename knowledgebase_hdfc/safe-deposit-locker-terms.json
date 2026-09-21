@@ -1,0 +1,378 @@
+[
+  {
+    "id": "sdl-1-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.1",
+    "title": "Safe Deposit Locker - eligibility and availability",
+    "text": "Safe Deposit Locker facility is subject to availability at the selected branch and the Bank's applicable eligibility."
+  },
+  {
+    "id": "sdl-1-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.2",
+    "title": "Safe Deposit Locker - allotment subject to availability and policy",
+    "text": "Locker allotment is subject to availability and the Bank's applicable policy."
+  },
+  {
+    "id": "sdl-1-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.3",
+    "title": "Safe Deposit Locker - execution of agreement",
+    "text": "The locker hirer shall execute the Bank's Safe Deposit Locker Agreement in the prescribed format."
+  },
+  {
+    "id": "sdl-1-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.4",
+    "title": "Safe Deposit Locker - copy of executed agreement provided to hirer",
+    "text": "A copy of the duly executed locker agreement shall be provided to the locker hirer."
+  },
+  {
+    "id": "sdl-2-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.1",
+    "title": "Locker Rent - payable as per Bank's Schedule of Charges",
+    "text": "Locker rent shall be payable as per the Bank's prevailing Schedule of Charges."
+  },
+  {
+    "id": "sdl-2-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.2",
+    "title": "Locker charges - applicable taxes including GST",
+    "text": "Applicable taxes, including GST, shall be payable in addition to the applicable charges."
+  },
+  {
+    "id": "sdl-2-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.3",
+    "title": "Locker Rent - Bank may collect in advance",
+    "text": "The Bank may collect locker rent in advance in accordance with its policy."
+  },
+  {
+    "id": "sdl-2-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.4",
+    "title": "Locker charges - additional visits, overdue rent, lost key, break-open",
+    "text": "The Bank may recover applicable charges for additional visits, overdue rent, lost key, locker break-open, lock replacement and other services, wherever applicable."
+  },
+  {
+    "id": "sdl-2-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.5",
+    "title": "Locker - access restriction on non-payment of rent",
+    "text": "In case of non-payment of locker rent, access to the locker may be restricted in accordance with the Bank's policy and applicable regulatory requirements."
+  },
+  {
+    "id": "sdl-2-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.6",
+    "title": "Safe Deposit Locker - no insurance offered by Bank",
+    "text": "The Bank shall not offer or arrange insurance for the contents of the locker, directly or indirectly, as part of the locker facility."
+  },
+  {
+    "id": "sdl-3-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "3.1",
+    "title": "Locker operation - by hirer and authorized persons",
+    "text": "The locker shall be operated only by the locker hirer(s) and/or duly authorised person(s), in accordance with the operating instructions registered with the Bank."
+  },
+  {
+    "id": "sdl-3-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "3.2",
+    "title": "Locker operation - Bank verification of identity and authority",
+    "text": "The Bank shall carry out appropriate verification of identity and authority before permitting locker operation."
+  },
+  {
+    "id": "sdl-3-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "3.3",
+    "title": "Locker operation - during permitted operating hours",
+    "text": "The locker shall be operated during the Bank's permitted locker operating hours and subject to the applicable branch procedures."
+  },
+  {
+    "id": "sdl-3-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "3.4",
+    "title": "Locker operation - hirer responsibility to secure locker",
+    "text": "The locker hirer shall ensure that the locker is properly closed and secured after every operation."
+  },
+  {
+    "id": "sdl-3-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "3.5",
+    "title": "Locker operation - immediate notification of discrepancies or irregularities",
+    "text": "The locker hirer shall immediately notify the Bank if any discrepancy, damage, unauthorised access or other irregularity is noticed."
+  },
+  {
+    "id": "sdl-4-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.1",
+    "title": "Prohibited articles - no illegal or hazardous substances",
+    "text": "The locker hirer shall not keep any illegal or hazardous substance in the locker."
+  },
+  {
+    "id": "sdl-4-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.2",
+    "title": "Prohibited articles - no prohibited articles or risk to Bank",
+    "text": "The locker shall not be used for storing any article or substance that is prohibited under applicable law or may pose a risk to the Bank, its employees, customers, premises or property."
+  },
+  {
+    "id": "sdl-4-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.3",
+    "title": "Prohibited articles - Bank action on suspected illegal substance",
+    "text": "If the Bank suspects that any illegal or hazardous substance has been kept in the locker, the Bank may take appropriate action in accordance with applicable law, regulatory requirements and the terms of the locker agreement."
+  },
+  {
+    "id": "sdl-5-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.1",
+    "title": "Locker key and access credentials - operation mechanism",
+    "text": "The locker shall be operated using the key/access credentials provided by the Bank and/or through the prescribed authentication mechanism."
+  },
+  {
+    "id": "sdl-5-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.2",
+    "title": "Locker key and access credentials - safekeeping and non-disclosure",
+    "text": "The locker hirer shall keep the locker key/access credentials safely and shall not disclose or hand them over to any unauthorised person."
+  },
+  {
+    "id": "sdl-5-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.3",
+    "title": "Locker key and access credentials - immediate notification of loss",
+    "text": "In case of loss of the locker key or compromise/loss of access credentials, the locker hirer shall immediately inform the Bank."
+  },
+  {
+    "id": "sdl-5-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.4",
+    "title": "Locker key replacement - expenses borne by hirer",
+    "text": "Expenses relating to replacement of lock/key, break-open or restoration of access, wherever applicable, shall be borne by the locker hirer as per the Bank's applicable charges."
+  },
+  {
+    "id": "sdl-6-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.1",
+    "title": "Nomination - hirer may make nomination",
+    "text": "The locker hirer may make a nomination in accordance with applicable law and the Bank's prescribed procedure."
+  },
+  {
+    "id": "sdl-6-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.2",
+    "title": "Nomination - registration, cancellation or variation",
+    "text": "The nomination may be registered, cancelled or varied in accordance with applicable regulatory requirements."
+  },
+  {
+    "id": "sdl-6-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.3",
+    "title": "Nomination - access on death of hirer",
+    "text": "In the event of death of the locker hirer, access to and release of locker contents shall be governed by the applicable nomination, survivorship mandate, legal requirements and the Bank's prescribed procedure."
+  },
+  {
+    "id": "sdl-7-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.1",
+    "title": "Death of locker hirer - nominee/survivor/legal heir approach",
+    "text": "In the event of death of a locker hirer, the nominee(s)/survivor(s)/legal heir(s), as applicable, may approach the Bank for access to the locker contents by submitting the prescribed documents."
+  },
+  {
+    "id": "sdl-7-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.2",
+    "title": "Death of locker hirer - Bank verification of identity and entitlement",
+    "text": "The Bank shall verify the identity, death and entitlement of the claimant(s) in accordance with applicable law and its prescribed procedure."
+  },
+  {
+    "id": "sdl-7-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.3",
+    "title": "Death of locker hirer - release of contents after inventory",
+    "text": "Where applicable, the contents of the locker shall be accessed and released after following the prescribed inventory and documentation process."
+  },
+  {
+    "id": "sdl-8-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.1",
+    "title": "Locker surrender - hirer may surrender by prescribed procedure",
+    "text": "The locker hirer may surrender the locker by following the Bank's prescribed procedure."
+  },
+  {
+    "id": "sdl-8-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.2",
+    "title": "Locker surrender - removal of contents and return of key",
+    "text": "On surrender, the locker hirer shall remove all contents and return the locker key/access credentials, wherever applicable."
+  },
+  {
+    "id": "sdl-8-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.3",
+    "title": "Locker closure - recovery of applicable dues and charges",
+    "text": "Applicable dues and charges shall be recovered before closure."
+  },
+  {
+    "id": "sdl-8-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.4",
+    "title": "Locker closure - refund of advance rent",
+    "text": "Any eligible refund of advance rent shall be processed in accordance with the Bank's applicable policy."
+  },
+  {
+    "id": "sdl-8-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.5",
+    "title": "Locker closure - lock change and security procedures",
+    "text": "The Bank may change the lock of a surrendered/vacated locker and follow applicable security procedures before re-allotment."
+  },
+  {
+    "id": "sdl-9-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.1",
+    "title": "Lost key - immediate notification to Bank",
+    "text": "In case the locker key is lost, the locker hirer shall immediately notify the Bank."
+  },
+  {
+    "id": "sdl-9-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.2",
+    "title": "Locker break-open - approved procedure and regulatory compliance",
+    "text": "The locker may be broken open in accordance with the Bank's approved procedure and applicable regulatory/legal requirements."
+  },
+  {
+    "id": "sdl-9-3-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.3.1",
+    "title": "Locker break-open - due to loss of key",
+    "text": "Break-open may be undertaken where the locker hirer requests break-open due to loss of key."
+  },
+  {
+    "id": "sdl-9-3-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.3.2",
+    "title": "Locker break-open - authority/law enforcement agency requirement",
+    "text": "Break-open may be undertaken where a competent authority/law enforcement agency requires access in accordance with law."
+  },
+  {
+    "id": "sdl-9-3-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.3.3",
+    "title": "Locker break-open - non-compliance with agreement",
+    "text": "Break-open may be undertaken where the Bank is required to take back the locker due to non-compliance with the terms of the locker agreement or other applicable circumstances."
+  },
+  {
+    "id": "sdl-9-3-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.3.4",
+    "title": "Locker break-open - unpaid rent for 3 years",
+    "text": "Break-open may be undertaken where the locker rent is not paid till 3 years."
+  },
+  {
+    "id": "sdl-9-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.4",
+    "title": "Locker break-open - costs borne by hirer",
+    "text": "Costs associated with break-open, lock replacement and other related expenses shall be borne by the locker hirer, wherever applicable."
+  },
+  {
+    "id": "sdl-10-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.1",
+    "title": "Non-payment of locker rent - Bank notices and further action",
+    "text": "In case of non-payment of locker rent, the Bank may issue notices and take further action in accordance with the locker agreement, the Bank's approved policy and applicable regulatory requirements."
+  },
+  {
+    "id": "sdl-10-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.2",
+    "title": "Non-payment of locker rent - break-open and dealing with contents",
+    "text": "Where the locker rent remains unpaid, the Bank may, after following the prescribed notice and due-process requirements, break open the locker and deal with the contents in accordance with applicable law and regulatory requirements."
+  },
+  {
+    "id": "sdl-10-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.3",
+    "title": "Non-payment of locker rent - Bank recovery of costs",
+    "text": "Any costs incurred by the Bank in connection with such action may be recovered from the locker hirer/security available with the Bank, as permissible under the applicable terms and regulations."
+  },
+  {
+    "id": "sdl-11-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "11.1",
+    "title": "Bank liability - due care and reasonable diligence",
+    "text": "The Bank shall exercise due care and reasonable diligence in maintaining and operating the locker facility."
+  },
+  {
+    "id": "sdl-11-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "11.2",
+    "title": "Bank liability - negligence cases",
+    "text": "The Bank shall have liability in accordance with applicable law and RBI directions in cases where loss of locker contents is attributable to the Bank's negligence."
+  },
+  {
+    "id": "sdl-11-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "11.3",
+    "title": "Bank liability - limitation on losses from fire, theft, robbery, fraud",
+    "text": "In cases of loss of locker contents due to incidents such as fire, theft, burglary, robbery, dacoity or building collapse attributable to the Bank's shortcomings, negligence or acts/omissions, or where such loss is attributable to fraud committed by Bank employee(s), the Bank's liability shall be limited to an amount equivalent to one hundred times the prevailing annual locker rent, as prescribed by RBI."
+  },
+  {
+    "id": "sdl-11-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "11.4",
+    "title": "Bank liability - events beyond Bank's control",
+    "text": "The Bank shall not be liable for loss of locker contents arising solely from events beyond the Bank's control, subject to applicable law and the Bank's negligence, if any."
+  }
+]

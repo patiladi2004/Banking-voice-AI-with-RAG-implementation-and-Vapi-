@@ -1,0 +1,285 @@
+[
+  {
+    "id": "loan-eligibility-factors",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "What determines home loan eligibility",
+    "sample_queries": [
+      "How much home loan am I eligible for?",
+      "What decides my home loan eligibility?",
+      "Am I eligible for a home loan?"
+    ],
+    "answer": "Eligibility is largely based on your income and repayment capacity, along with factors like age, qualification, number of dependants, your spouse's income if applicable, your assets and liabilities, savings history, and how stable your occupation is. As a baseline, salaried individuals need to be between 21 and 65 years old with a minimum monthly income of 10,000 rupees, while self-employed individuals need to be in the same age range with a minimum annual income of 2 lakh rupees."
+  },
+  {
+    "id": "loan-emi-definition",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "What EMI means",
+    "sample_queries": [
+      "What does EMI mean?",
+      "What is an equated monthly installment?",
+      "How does my EMI work?"
+    ],
+    "answer": "EMI stands for Equated Monthly Installment — the fixed amount you pay each month until the loan is fully repaid. It's made up of principal and interest, and the mix shifts over the loan's life: early on, most of your EMI goes toward interest, while in the later years, more of it goes toward the principal."
+  },
+  {
+    "id": "loan-repayment-modes",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "Ways to repay a home loan",
+    "sample_queries": [
+      "How do I pay my home loan EMI?",
+      "What are the repayment options for a home loan?",
+      "Can my EMI be deducted automatically?"
+    ],
+    "answer": "You have a few options for repayment: setting up standing instructions with your bank for automatic ECS deduction, having your employer deduct the installment directly from your salary, or issuing post-dated cheques from your salary account."
+  },
+  {
+    "id": "loan-application-steps",
+    "category": "home_loan",
+    "type": "procedure",
+    "title": "Applying for a home loan online",
+    "sample_queries": [
+      "How do I apply for a home loan?",
+      "Can I apply for a home loan online?",
+      "What's the process to get a home loan?"
+    ],
+    "overview": "Guides the user through the online home loan application process.",
+    "steps": [
+      { "step_number": 1, "instruction": "Sign up or register on the home loan portal.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Fill in the home loan application form with your details.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Upload the required documents.", "wait_for_confirmation": true },
+      { "step_number": 4, "instruction": "Pay the processing fee.", "wait_for_confirmation": true },
+      { "step_number": 5, "instruction": "Once everything is submitted, you'll receive your loan approval decision.", "wait_for_confirmation": false }
+    ]
+  },
+  {
+    "id": "loan-maximum-amount-ltv",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "Maximum home loan amount and own-contribution requirement",
+    "sample_queries": [
+      "What's the maximum home loan I can get?",
+      "How much of the property cost do I need to pay myself?",
+      "What's the loan-to-value ratio for a home loan?"
+    ],
+    "answer": "You'll typically need to contribute 10 to 25 percent of the property cost yourself, with 75 to 90 percent available as a home loan — the exact split depends on the loan amount. For construction, home improvement, or extension loans, the same 75 to 90 percent range applies to the estimated cost of that work."
+  },
+  {
+    "id": "loan-required-documents",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "Documents required for a home loan application",
+    "sample_queries": [
+      "What documents do I need for a home loan?",
+      "What paperwork is required to apply for a home loan?",
+      "What proof of income do I need for a home loan?"
+    ],
+    "answer": "You'll need KYC documents such as a PAN card, passport, driving licence, voter ID, or Aadhaar. For income proof, salaried applicants typically provide the last 3 months' salary slips, 6 months of bank statements showing salary credits, the latest Form-16, and income tax returns, while self-employed applicants provide 2 years of income tax returns and balance sheets attested by a chartered accountant. You'll also need property documents like the allotment letter or buyer agreement, title deeds, and proof that the property has no existing encumbrances. The exact list can vary, so it's worth checking the bank's documents checklist for anything specific to your situation."
+  },
+  {
+    "id": "loan-tax-benefits",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "Tax benefits on a home loan",
+    "sample_queries": [
+      "Do I get tax benefits on my home loan?",
+      "Can I claim tax deductions for my housing loan?",
+      "What tax sections apply to home loan repayment?"
+    ],
+    "answer": "Yes, you may be eligible for tax benefits on both the principal and interest portions of your home loan repayment, under sections 80C, 24(b), and 80EEA of the Income Tax Act. These benefits can change from year to year, so it's worth checking with a chartered accountant or tax expert for the latest details relevant to you."
+  },
+  {
+    "id": "loan-multiple-loans-allowed",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "Whether you can have two home loans at once",
+    "sample_queries": [
+      "Can I take two home loans at the same time?",
+      "Am I allowed a second home loan while I still have one?",
+      "Can I get another home loan if I already have one?"
+    ],
+    "answer": "Yes, you can have two home loans running at the same time. Approval for the second loan comes down to your repayment capacity — the bank will assess whether you can realistically manage the EMIs for both loans together."
+  },
+  {
+    "id": "loan-max-repayment-tenure",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "Maximum repayment tenure for different home loan types",
+    "sample_queries": [
+      "What's the longest repayment period for a home loan?",
+      "How many years can I take to repay my home loan?",
+      "What's the maximum tenure for a home renovation loan?"
+    ],
+    "answer": "It depends on the loan type. Home loans and balance transfer loans can run up to 30 years, or until your retirement age, whichever comes first. Home extension loans max out at 20 years, or retirement age, whichever is lower. Home renovation and top-up loans have a shorter cap of 15 years, or retirement age, whichever is lower."
+  },
+  {
+    "id": "loan-approval-disbursement-process",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "How home loan approval and disbursement work",
+    "sample_queries": [
+      "What happens after I submit my home loan application?",
+      "How does loan disbursement work?",
+      "When do I get the loan money after approval?"
+    ],
+    "answer": "Once your documents are reviewed, the bank communicates an approved loan amount, which can sometimes differ from what you originally applied for, along with a sanction letter covering the amount, tenure, interest rate, and repayment terms. Disbursement then depends on the property type: for an under-construction property, funds are released in stages matching the builder's construction-linked payment plan; for a resale or second-sale property, the full amount is disbursed at the time the sale deed is executed."
+  },
+  {
+    "id": "loan-pre-approved-before-property",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "Getting pre-approved before choosing a property",
+    "sample_queries": [
+      "Can I get approved for a loan before I find a property?",
+      "What is a pre-approved home loan?",
+      "How long is a pre-approved loan valid?"
+    ],
+    "answer": "Yes, you can apply for a pre-approved home loan — an in-principle approval based on your income, creditworthiness, and financial position, without needing to have selected a property yet. A pre-approval like this is generally valid for 6 months from the date it's sanctioned."
+  },
+  {
+    "id": "loan-spouse-co-applicant",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "Adding a spouse as a co-applicant",
+    "sample_queries": [
+      "Can my spouse be a co-applicant on my home loan?",
+      "Will my spouse's income help my loan eligibility?",
+      "Can we apply for a home loan together?"
+    ],
+    "answer": "Yes, you can add your spouse as a co-applicant, and their income can be factored into your loan eligibility, as long as the required income documents for them are provided."
+  },
+  {
+    "id": "loan-fees-and-charges",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "Fees and charges applicable on home loans",
+    "sample_queries": [
+      "What fees are charged on a home loan?",
+      "Are there processing charges for a home loan?",
+      "What are the extra costs of taking a home loan?"
+    ],
+    "answer": "Home loans carry various fees such as processing charges, and the exact schedule depends on the loan type and amount. I don't have the specific current figures on hand, but the full fee list is available on the bank's documents and charges page, or a branch can walk you through it for your specific loan."
+  },
+  {
+    "id": "loan-types-available",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "Different types of home loans available",
+    "sample_queries": [
+      "What types of home loans are there?",
+      "What's the difference between a home loan and a plot loan?",
+      "What is a balance transfer loan?"
+    ],
+    "answer": "There are a few distinct products: a standard Home Loan for purchasing or constructing a home, a Plot Purchase Loan for buying land, a Balance Transfer Loan for moving an existing home loan from another lender, a House Renovation Loan for updates like flooring or painting without changing the structure, and a Home Extension Loan for adding rooms or floors to an existing home."
+  },
+  {
+    "id": "loan-women-interest-rate",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "Lower home loan interest rates for women",
+    "sample_queries": [
+      "Do women get a better home loan interest rate?",
+      "Is there a discount on home loan rates for women?",
+      "How do I qualify for the women's home loan rate?"
+    ],
+    "answer": "Yes, women get a lower interest rate on home loans compared to the standard rate. To qualify, the woman needs to be an owner or co-owner of the property the loan is for, and also an applicant or co-applicant on the loan itself."
+  },
+  {
+    "id": "loan-agreement-to-sell",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "What an Agreement to Sell is and whether it needs registration",
+    "sample_queries": [
+      "What is an agreement to sell?",
+      "Does my agreement to sell need to be registered?",
+      "What's the difference between agreement to sell and sale deed?"
+    ],
+    "answer": "An Agreement to Sell is a legal document, executed on stamp paper, that records the understanding between buyer and seller — details like the property's area, possession date, and price. In many states it's legally required to be registered, and even where it isn't strictly mandatory, it's advisable to register it within four months of signing, at the Sub-Registrar's office under the Indian Registration Act, 1908."
+  },
+  {
+    "id": "loan-encumbrance-definition",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "What encumbrance on a property means",
+    "sample_queries": [
+      "What does encumbrance mean?",
+      "What is an encumbered property?",
+      "Why does it matter if a property has encumbrances?"
+    ],
+    "answer": "Encumbrance refers to any claims or charges against a property, usually from things like unpaid loans or bills tied to it. It's worth checking for this during a property search, since buying an encumbered property can mean inheriting those liabilities."
+  },
+  {
+    "id": "loan-disbursement-conditions",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "When you can take disbursement of a home loan",
+    "sample_queries": [
+      "When can I get my loan disbursed?",
+      "What has to happen before disbursement?",
+      "How do I request loan disbursement?"
+    ],
+    "answer": "Disbursement becomes available once the property has been technically appraised, all legal documentation is complete, and you've fully paid in your own contribution toward the property cost. From there, you can request disbursement either at a branch or online through the existing-customer portal."
+  },
+  {
+    "id": "loan-disbursement-installments",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "How many installments a home loan is disbursed in",
+    "sample_queries": [
+      "Is my loan disbursed all at once or in parts?",
+      "How many installments will my home loan be paid out in?",
+      "How does disbursement work for an under-construction property?"
+    ],
+    "answer": "Once disbursement is requested, the loan is typically released either in full or in installments — usually no more than three. For an under-construction property, disbursement follows the bank's own assessment of construction progress rather than the developer's payment schedule, so it's worth entering into an agreement with the developer that ties payments to actual construction milestones rather than a fixed timeline."
+  },
+  {
+    "id": "loan-balance-transfer-eligibility",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "Who can avail a Balance Transfer Loan",
+    "sample_queries": [
+      "Am I eligible to transfer my home loan to HDFC?",
+      "Who qualifies for a balance transfer loan?",
+      "How long do I need to have paid my current loan before transferring?"
+    ],
+    "answer": "Any borrower with an existing home loan at another bank or financial institution can apply for a balance transfer, as long as they've maintained a regular repayment track record for at least 12 months on that loan."
+  },
+  {
+    "id": "loan-extension-eligibility",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "Who can avail a Home Extension Loan",
+    "sample_queries": [
+      "Am I eligible for a home extension loan?",
+      "Can I get an extension loan if I still have a home loan?",
+      "Who qualifies to add a room to their house with a loan?"
+    ],
+    "answer": "Anyone looking to add space to an existing apartment, floor, or row house can apply for a Home Extension Loan — and this includes customers who already have a home loan running."
+  },
+  {
+    "id": "loan-commercial-property-eligibility",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "Who can avail a Commercial Property Loan",
+    "sample_queries": [
+      "Can I get a loan to buy an office?",
+      "Who is eligible for a commercial property loan?",
+      "Can I get a loan for a plot to build a clinic on?"
+    ],
+    "answer": "Self-employed professionals such as doctors, lawyers, and chartered accountants, along with business owners, can apply for a Commercial Property Loan to purchase an office or clinic. The same eligibility applies to a Commercial Property Loan for a plot, if you're planning to build an office or clinic on it."
+  },
+  {
+    "id": "loan-part-disbursement-definition",
+    "category": "home_loan",
+    "type": "faq",
+    "title": "What 'part' or 'subsequent' disbursement means",
+    "sample_queries": [
+      "What is a part disbursement?",
+      "What does subsequent disbursement mean on my loan?",
+      "Why is my loan being released in stages?"
+    ],
+    "answer": "For under-construction properties, the loan is released in installments tied to construction progress — each of these installments is what's referred to as a part or subsequent disbursement."
+  }
+]

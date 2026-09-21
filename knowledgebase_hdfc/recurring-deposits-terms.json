@@ -1,0 +1,474 @@
+[
+  {
+    "id": "rd-1-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.1",
+    "title": "Recurring Deposit - interest calculation from instalment payment date",
+    "text": "Interest on a Recurring Deposit will be calculated from the date the instalment is paid."
+  },
+  {
+    "id": "rd-1-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.2",
+    "title": "Recurring Deposit - interest calculation method actual/actual quarterly compounding",
+    "text": "The method of calculation of interest on RDs will be on Actual/Actual Quarterly Compounding. Bank computes interest based on the actual number of days in a year. In case, deposit is spread over a leap or a non-leap year, interest is calculated based on the number of days i.e. 366 days in a leap year and 365 days in a non-leap year."
+  },
+  {
+    "id": "rd-1-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.3",
+    "title": "Recurring Deposit - interest rate corresponding to Fixed Deposit rate",
+    "text": "The interest for Recurring Deposits will be corresponding rate as applicable for a Fixed Deposit."
+  },
+  {
+    "id": "rd-1-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.4",
+    "title": "Recurring Deposit - quarterly compounding at applicable rates",
+    "text": "Interest on the deposits is compounded at quarterly intervals, at the applicable rates."
+  },
+  {
+    "id": "rd-1-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.5",
+    "title": "Recurring Deposit - interest payment only on maturity",
+    "text": "Interest payment on Recurring deposit is only on maturity."
+  },
+  {
+    "id": "rd-2-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.1",
+    "title": "Recurring Deposit - resident minimum lock-in period",
+    "text": "The Recurring Deposits account has a minimum lock in of one month."
+  },
+  {
+    "id": "rd-2-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.2",
+    "title": "Recurring Deposit - resident premature closure within one month",
+    "text": "In case of premature closure within a month, no interest shall be paid out and only principal amount shall be returned."
+  },
+  {
+    "id": "rd-3-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "3.1",
+    "title": "Recurring Deposit - NRI lock-in period for NRE and NRO",
+    "text": "The minimum lock in period for NRE RD is one year and NRO RD is one month."
+  },
+  {
+    "id": "rd-3-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "3.2",
+    "title": "Recurring Deposit - NRI premature closure no interest",
+    "text": "In case of premature closure within a year and NRO RD within a month, no interest will be paid out to the depositor and only principal amount shall be returned."
+  },
+  {
+    "id": "rd-4-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.1",
+    "title": "Recurring Deposit - maturity on completion of contracted tenure",
+    "text": "The deposit shall be due for repayment and shall mature on completion of the contracted tenure even if there are installments remaining to be paid."
+  },
+  {
+    "id": "rd-4-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.2",
+    "title": "Recurring Deposit - maturity amount subject to timely installment payment",
+    "text": "The maturity amount mentioned on the Recurring Deposit confirmation advice is subject to payment of all installments on time."
+  },
+  {
+    "id": "rd-4-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.3",
+    "title": "Recurring Deposit - maturity amount change due to delayed payments",
+    "text": "In case of any delay in payment of scheduled installments, the maturity amount shall change due to delay in payments."
+  },
+  {
+    "id": "rd-4-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.4",
+    "title": "Recurring Deposit - maturity amount change due to TDS recovery",
+    "text": "Maturity amount mentioned on the confirmation advice shall also change in case of TDS recovery."
+  },
+  {
+    "id": "rd-5-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.1",
+    "title": "Recurring Deposit - installment amount fixed cannot be altered",
+    "text": "The Installment amount once fixed will not be allowed to be altered at a later date."
+  },
+  {
+    "id": "rd-5-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.2",
+    "title": "Recurring Deposit - overdue installments appropriation",
+    "text": "In case of more than one installment is being overdue at the time of payment, the paid installment if sufficient to cover only one installment will be appropriate towards first/earliest installment overdue."
+  },
+  {
+    "id": "rd-5-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.3",
+    "title": "Recurring Deposit - partial payment of installment not permitted",
+    "text": "Partial payment of installment will not be permitted."
+  },
+  {
+    "id": "rd-5-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.4",
+    "title": "Recurring Deposit - Bank not responsible for maintaining balance",
+    "text": "HDFC bank shall not be responsible for informing the depositor to maintain adequate balance in his/her HDFC bank account in recurring deposit to pay his/her installments in the event of failure of the standing instruction due to shortfall of funds in the transacting amount."
+  },
+  {
+    "id": "rd-6-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.1",
+    "title": "Recurring Deposit - closure on frequent defaults",
+    "text": "If frequent defaults (non-payments) are observed in the monthly installments and six installments fall in arrears, the bank reserves the right to close the RD account. The interest rate applicable on such closed accounts will be as per the premature withdrawal policy of the bank."
+  },
+  {
+    "id": "rd-7-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.1",
+    "title": "Recurring Deposit - all signatories must sign encashment instruction",
+    "text": "In the case of premature encashment, all signatories to the deposit must sign the encashment instruction."
+  },
+  {
+    "id": "rd-7-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.2",
+    "title": "Recurring Deposit - joint account without survivorship clause",
+    "text": "In the event of death of one of the joint account holders, the right to the deposit proceeds does not automatically devolve on the surviving joint deposit account holder, unless there is a survivorship clause."
+  },
+  {
+    "id": "rd-7-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.3",
+    "title": "Recurring Deposit - joint account with survivorship clause",
+    "text": "In case of joint deposits with a survivorship clause, the Bank shall be discharged by paying the Deposit proceeds prematurely to survivor/s equally, on request, in the event of one or more Joint Depositor."
+  },
+  {
+    "id": "rd-7-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.4",
+    "title": "Recurring Deposit - no partial withdrawal/sweep-in/OD allowed",
+    "text": "Partial withdrawal/ sweep in / OD not allowed on Recurring deposits."
+  },
+  {
+    "id": "rd-7-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.5",
+    "title": "Recurring Deposit - premature encashment governed by RBI rules",
+    "text": "All premature encashment will be governed by rules of Reserve Bank of India prevalent at the time of encashment."
+  },
+  {
+    "id": "rd-7-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.6",
+    "title": "Recurring Deposit - payment by bank draft for deposits exceeding Rs 20,000",
+    "text": "As per Income Tax laws, if the aggregate amount of the deposit/(s) held by a person with the branch either in his own name or jointly with any person on the date of repayment together with the interest at payable is equal to or exceeds 20,000/-, then the amount will be paid by bank draft drawn in the name of the deposit holder or by crediting the savings/ current account of the deposit holder."
+  },
+  {
+    "id": "rd-7-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.7",
+    "title": "Recurring Deposit - reduced interest rate on premature withdrawal after July 22, 2023",
+    "text": "With effect from July 22nd, 2023, the interest rate applicable for premature withdrawal will be the rate on the date of deposit booked, to the period for which deposit remained with the bank and not at the contracted rate."
+  },
+  {
+    "id": "rd-7-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.8",
+    "title": "Recurring Deposit - premature withdrawal on death without penalty",
+    "text": "In case of death of any holder of the Recurring deposits prior to the maturity date, premature termination of the deposit would be allowed as per the terms of contract subject to necessary verifications and submission of proof of death of the depositor. Such premature withdrawals will not attract any penal charge."
+  },
+  {
+    "id": "rd-8-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.1",
+    "title": "Recurring Deposit - DICGC insurance coverage",
+    "text": "The deposits in the Bank are insured with DICGC for an amount of Rs 5 lakhs (principal + interest) per depositor."
+  },
+  {
+    "id": "rd-9-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.1",
+    "title": "Tax Deduction at Source - TDS on resident and NRO RD",
+    "text": "Interest paid on resident recurring Deposit would be liable to TDS (Tax Deducted at Source) at rates in force, under section 393(1) of the Income-tax Act, 2025 similar to that of interest paid on FD. TDS applicable on interest paid on NRO RD would be at the rates in force (Not Applicable for NRE RD)."
+  },
+  {
+    "id": "rd-9-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.2",
+    "title": "Tax Deduction at Source - PAN-Aadhaar linking requirement",
+    "text": "Every person who has been allotted a Permanent Account Number (PAN) and is eligible to obtain Aadhaar number, must link their PAN with Aadhar as per provisions of Section 262(9) of the Income Tax Act 2025. Further non linking of PAN with Aadhaar shall make PAN inoperative and may attract higher TDS rate post the date as notified by CBDT."
+  },
+  {
+    "id": "rd-9-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.3",
+    "title": "Tax Deduction at Source - TDS rates and threshold limits",
+    "text": "TDS rates will be as applicable from time to time as per the Income Tax Act, 2025 and Income Tax rules 2026. The current rates applicable for TDS would be displayed by the Bank on Its website. Currently, TDS is deducted when interest payable or reinvested on FD AND RD per customer, across all Branch, exceeds Rs 50,000/- (Rs. 1,00,000/- for senior citizen) in a Financial Year. Further, TDS is deducted at the end of the financial year on Interest accruals if applicable."
+  },
+  {
+    "id": "rd-9-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.4",
+    "title": "Tax Deduction at Source - TDS recovery from CASA",
+    "text": "If customer wishes to have TDS recovered from CASA, same can be availed by filling separate declaration at branch."
+  },
+  {
+    "id": "rd-9-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.5",
+    "title": "Tax Deduction at Source - TDS recovery from principal if interest insufficient",
+    "text": "If interest amount is not sufficient to recover the TDS amount the same may get recovered from the principal amount of Fixed Deposit. If customer wishes to have TDS deduction from CASA, same can be availed by filling separate declaration at branch."
+  },
+  {
+    "id": "rd-9-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.6",
+    "title": "Tax Deduction at Source - PAN provision requirement",
+    "text": "As Per Section 262(3) of the Income Tax Act, 2025 every person receiving any sum of income or amount from which tax has been deducted under the provisions of the Income Tax Act shall provide his PAN number to the person responsible for deducting such tax. In case your PAN is not updated with the Bank or is incorrect; please visit your nearest HDFC Bank branch to submit your PAN details."
+  },
+  {
+    "id": "rd-9-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.7",
+    "title": "Tax Deduction at Source - Bank not liable for non-provision of PAN",
+    "text": "In case the PAN number is not provided to the Bank as required, the bank shall not be liable for the non availment of the credit of Tax deducted at Source and non-issuance of TDS certificate."
+  },
+  {
+    "id": "rd-9-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.8",
+    "title": "Tax Deduction at Source - Form 121 exemption for nil tax liability",
+    "text": "No deductions of Tax shall be made from the taxable interest in the case of an individual resident in India, if such individual furnishes to the Bank, a declaration in writing in the prescribed Format (Form 121 as applicable) to the effect that the tax on his estimated total income for the year in which such interest income is to be included in computing his total income will be Nil. This is subject to PAN availability on Bank records."
+  },
+  {
+    "id": "rd-9-9",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.9",
+    "title": "Tax Deduction at Source - mandatory PAN for large deposits",
+    "text": "Deposit amount exceeding Rs 50 k or If aggregated value of all outstanding FDs/RDs booked in same customer id during the Financial Year exceeds INR 5 Lakhs limit then PAN/Form 97 is mandatory."
+  },
+  {
+    "id": "rd-9-10",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.10",
+    "title": "Tax Deduction at Source - non-renewal in absence of PAN/Form 97",
+    "text": "In absence of PAN/Form97: (a) FD/RD will not be renewed on maturity and maturity proceeds will be credited to your linked account or a Demand Draft will be sent to your mailing address as updated in Bank's records. (b) Maturity instructions to convert RD proceeds to FD will not be acted upon and RD proceeds will be credited to your linked account on maturity."
+  },
+  {
+    "id": "rd-9-11",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.11",
+    "title": "Tax Deduction at Source - maximum non-taxable interest threshold",
+    "text": "The maximum interest not charged to tax during the financial year where form 121 is submitted is as below: Upto 4,00,000/- for residents of India below the age of 60 years or a person (not being a company or firm). Upto 12,00,000/- for senior citizen residents of India above the age of 60 years any time during the FY."
+  },
+  {
+    "id": "rd-9-12",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.12",
+    "title": "Tax Deduction at Source - Form 121 submission procedure",
+    "text": "Form 121 to be submitted by customer in duplicate to the bank, one copy for Bank record and second copy to be returned to customer with Branch seal as an acknowledgment."
+  },
+  {
+    "id": "rd-9-13",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.13",
+    "title": "Tax Deduction at Source - fresh Form 121 every financial year",
+    "text": "A fresh Form 121 needs to be submitted in each new Financial Year by the start of the Financial Year. In case Form 121 is submitted post interest payout/credit, waiver shall be effective from the day next to the interest payout/credit immediately preceding the date of submission of Form 121."
+  },
+  {
+    "id": "rd-9-14",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.14",
+    "title": "Tax Deduction at Source - Form 121 for every RD booked",
+    "text": "Form 121 needs to be submitted for every recurring Deposits booked with bank for Tax exemption."
+  },
+  {
+    "id": "rd-9-15",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.15",
+    "title": "Tax Deduction at Source - Bank not liable for delay in Form 121",
+    "text": "The bank shall not be liable for any consequences arising due to delay or non-submission of Form 121."
+  },
+  {
+    "id": "rd-9-16",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.16",
+    "title": "Tax Deduction at Source - Form 121 submission deadline",
+    "text": "To enable us to serve you better kindly submit the Form 121 latest by April 1st of the new financial year."
+  },
+  {
+    "id": "rd-9-17",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.17",
+    "title": "Tax Deduction at Source - subject to regulatory changes",
+    "text": "The above guidelines are subject to change as per Income Tax regulations and directives of Finance Ministry Government of India prevalent from time to time."
+  },
+  {
+    "id": "rd-10-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.1",
+    "title": "Important Points - record maturity instructions in advance",
+    "text": "Please record change of maturity instructions with us well in advance to enable us serve you better."
+  },
+  {
+    "id": "rd-10-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.2",
+    "title": "Important Points - FD advice delivery method",
+    "text": "FD advice as per extant process will be sent to the customer via Email/Physical. Email id is mandatory."
+  },
+  {
+    "id": "rd-10-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.3",
+    "title": "Important Points - Bank right to rebook RD with correct details",
+    "text": "In case if the RD is not booked as per the applicable T & C of the bank, Bank reserves the right to rebook the same with correct details."
+  },
+  {
+    "id": "rd-10-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.4",
+    "title": "Important Points - minimum and maximum installment amounts",
+    "text": "Minimum installment is Rs. 500 (in multiples of 100 thereafter) Maximum installment: 1.99 Cr."
+  },
+  {
+    "id": "rd-10-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.5",
+    "title": "Important Points - minimum tenure for resident and NRI RD",
+    "text": "Minimum tenure for resident and NRO RD is 6 months (and in multiples of 3 months thereafter) upto a maximum of 10 years and minimum tenure for NRE RD is 1 year."
+  },
+  {
+    "id": "rd-10-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.6",
+    "title": "Important Points - senior citizen rates eligibility",
+    "text": "Only Senior Citizens/Retired Personnel (60 years and above) who are Resident Indians are eligible for senior citizen rates. The senior citizen rates are applicable only for Resident deposits."
+  },
+  {
+    "id": "rd-10-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.7",
+    "title": "Important Points - additional interest not applicable to NRE/NRO",
+    "text": "The benefit of additional interest rate on deposits on account of being bank's own staff or senior citizens shall not be applicable to NRE/NRO Deposits."
+  },
+  {
+    "id": "rd-10-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.8",
+    "title": "Important Points - Form 121 not applicable to NRIs",
+    "text": "Form 121 is not applicable to NRIs."
+  },
+  {
+    "id": "rd-10-9",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.9",
+    "title": "Important Points - ignore advice if already redeemed",
+    "text": "Please Ignore this advice if you have redeemed this deposit on or after the maturity date as mentioned herein."
+  },
+  {
+    "id": "rd-10-10",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.10",
+    "title": "Important Points - online view of maturity instruction changes",
+    "text": "Any changes made online in respect to change in maturity instruction/tenure, details can be viewed online itself post the changes."
+  },
+  {
+    "id": "rd-10-11",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.11",
+    "title": "Important Points - update nomination details",
+    "text": "In case your recurring deposit is booked without nomination details, please visit the Branch to update the same."
+  },
+  {
+    "id": "rd-10-12",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.12",
+    "title": "Important Points - further clarification contact",
+    "text": "Please visit our website/nearest branch/contact Relationship Manager for further clarification."
+  },
+  {
+    "id": "rd-10-13",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.13",
+    "title": "Important Points - Income-tax act 2025 provisions",
+    "text": "Income-tax provisions outlined in this document are updated as of the Income-tax Act, 2025."
+  },
+  {
+    "id": "rd-10-14",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.14",
+    "title": "Important Points - Senior Citizen Care deposit additional premium",
+    "text": "Senior Citizen Care deposit (w.e.f 18th May 2020): An Additional Premium of 0.25% (over and above the existing premium of 0.50%) shall be given to Senior Citizens who wish to book the Fixed Deposit less than 5 crores for a tenure of 5 (five) years One Day to 10 Years, during special deposit offer commencing from 18th May 2020 to 31st Mar 2023. This special offer will be applicable to new Fixed Deposit booked as well as for the Renewals, by Senior Citizens during the above period. This offer is not applicable to Non-Resident Indian."
+  },
+  {
+    "id": "rd-10-15",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.15",
+    "title": "Important Points - rounding off of deposits",
+    "text": "For Resident & Non-Residents rupee deposits, rounding off is done basis RBI guideline, RBI/2011-12/56 DBOD No. Leg.BC.18/09.07.006/2011-12. All transactions, including payment of interest on deposits/charging of interest on advances, will be rounded off to the nearest rupee i.e., fractions of 50 paise and above shall be rounded off to the next higher rupee and fraction of less than 50 paise shall be ignored and in case of Foreign currency deposits i.e. FCNR Deposits the rounding off will be done up to two decimal places."
+  }
+]

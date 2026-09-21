@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "fd-1-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.1",
+    "title": "Fixed Deposit - interest calculation based on actual days",
+    "text": "Bank computes interest based on the actual number of days in a year. In case the deposit is spread over a leap or a non-leap year, the interest is calculated based on the number of days, i.e. 366 days in a leap year and 365 days in a non-leap year."
+  },
+  {
+    "id": "fd-1-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.2",
+    "title": "Fixed Deposit - interest rates subject to change",
+    "text": "As interest rates are subject to change without prior notice, depositor shall ascertain the rates on the value date of FD."
+  },
+  {
+    "id": "fd-1-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.3",
+    "title": "Fixed Deposit - base rate applicable",
+    "text": "The base rate applicable is the interest rate of the date of deposit acceptance under tenor for which the deposit has been in force with the bank."
+  },
+  {
+    "id": "fd-2-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.1",
+    "title": "Tax Deduction at Source - PAN requirement and higher TDS rate",
+    "text": "As per section 397(2) of Income-tax Act, 2025, w.e.f from 01.04.2026, every person who receives income on which TDS is deductible shall furnish his PAN, failing which TDS shall be deducted at the rate of 20% for domestic deposits and 30% plus applicable surcharge and health and education cess for NRO deposits. In absence of PAN, Form 121 and other exemption certificates will be invalid even if submitted and TDS at higher rate will be applicable."
+  },
+  {
+    "id": "fd-2-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.2",
+    "title": "Tax Deduction at Source - PAN-Aadhaar linking requirement",
+    "text": "Every person who has been allotted a Permanent Account Number (PAN) and is eligible to obtain Aadhaar number, must link their PAN with Aadhaar as per provisions of Section 262(9) of the Income-tax Act 2025. Non linking of PAN with Aadhaar shall make PAN inoperative and TDS/TCS would be deducted/collected at Non PAN rate including cash withdrawal, Form 121 with inoperative PAN will not be accepted, and existing Form 121 becomes ineffective till PAN remains inoperative."
+  },
+  {
+    "id": "fd-2-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.3",
+    "title": "Tax Deduction at Source - current TDS rate and threshold limits",
+    "text": "TDS is applicable from time to time as per the Income Tax Act, 2025 and Income Tax Rules, 2026. The current rate applicable for TDS is 10%. TDS is deducted when the aggregate interest paid/credited across all FDs and RDs exceeds the threshold limit of Rs. 50,000/- for residents and Rs. 1,00,000/- for resident senior citizens in a financial year for a customer. Tax is deducted at the end of the financial year on interest accruals, if applicable."
+  },
+  {
+    "id": "fd-2-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.4",
+    "title": "Tax Deduction at Source - TDS on inoperative PAN",
+    "text": "In case of inoperative PAN (PAN not linked to Aadhar), TDS will be deducted at 20% and no Form 121 can be submitted during inoperative PAN period."
+  },
+  {
+    "id": "fd-2-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.5",
+    "title": "Tax Deduction at Source - TDS recovery from CASA",
+    "text": "If customer wishes to have TDS recovered from CASA, same can be availed by filling separate declaration at branch for reinvestment deposit. Fixed Deposits booked with monthly or quarterly interest payout option, TDS recovery will by default happen from linked current/savings account. If interest amount/balance in CASA is insufficient to recover TDS, a hold will be marked on FD towards applicable TDS amount. The TDS will be recovered on next interest payout, partial FD closure, premature closure or when sufficient funds are available in CASA."
+  },
+  {
+    "id": "fd-2-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.6",
+    "title": "Tax Deduction at Source - renewed and reinvestment deposits",
+    "text": "For renewed deposits, the new deposit amount consists of the original deposit amount plus interest less TDS, if any, less compounding effect on TDS. For reinvestment deposit, the interest reinvested is post TDS recovery and hence the maturity amount for reinvestment deposits would vary to the extent of tax and compounding effect on tax for the period subsequent of deduction till maturity."
+  },
+  {
+    "id": "fd-2-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.7",
+    "title": "Tax Deduction at Source - Bank not liable for non-availment of credit",
+    "text": "As per Section 397(2) of Income-tax Act, 2025, every person receiving any sum of income or amount from which tax has been deducted under the provisions of IT Act shall provide his PAN to the person responsible for deducting such tax. In case PAN is not provided as required, the bank shall not be liable for the non-availment of the credit of Tax deducted at Source and non-issuance of TDS certificate."
+  },
+  {
+    "id": "fd-2-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.8",
+    "title": "Tax Deduction at Source - update of incorrect PAN",
+    "text": "If your PAN is not updated with the Bank or is incorrect, please visit your nearest branch to submit your PAN details."
+  },
+  {
+    "id": "fd-2-9",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.9",
+    "title": "Tax Deduction at Source - Form 121 exemption for nil tax liability",
+    "text": "No deductions of tax shall be made from the taxable interest in the case of an individual resident in India, if such individual furnishes to the Bank a declaration in writing in the prescribed format (Form 121 as applicable) to the effect that the tax on his estimated total income for the year in which such interest income is to be included in computing his total income will be nil. This is subject to PAN availability on Bank records."
+  },
+  {
+    "id": "fd-2-10",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.10",
+    "title": "Tax Deduction at Source - mandatory PAN for large deposits",
+    "text": "Deposit amount exceeding Rs 50,000 or aggregated value of all outstanding FDs/RDs booked in same customer id during the financial year exceeds INR 5 lakhs limit, then PAN/Form 97 is mandatory."
+  },
+  {
+    "id": "fd-2-11",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.11",
+    "title": "Tax Deduction at Source - TDS certificate issuance",
+    "text": "I agree to the Bank issuing certificate in the prescribed form for tax deducted at source on interest on Fixed Deposits, after the end of every calendar quarter."
+  },
+  {
+    "id": "fd-2-12",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.12",
+    "title": "Tax Deduction at Source - non-renewal in absence of PAN/Form 97",
+    "text": "In absence of PAN/Form 97: (a) FD/RD will not be renewed on maturity and maturity proceeds will be credited to your linked account or a Demand Draft will be sent to your mailing address as updated in Bank's records. (b) Maturity instructions to convert RD proceeds to FD will not be acted upon and RD proceeds will be credited to your linked account on maturity."
+  },
+  {
+    "id": "fd-2-13",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.13",
+    "title": "Tax Deduction at Source - maximum non-taxable interest threshold",
+    "text": "The maximum interest not charged to tax during the financial year exceeds threshold limits of Rs. 4,00,000 or Rs. 12,00,000 as the case may be during the financial year for the purposes of Form 121."
+  },
+  {
+    "id": "fd-2-14",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.14",
+    "title": "Tax Deduction at Source - Form 121 submission procedure",
+    "text": "Form 121 to be submitted by customer in duplicate to the bank, one copy for Bank record and second copy to be returned to customer with Branch seal as an acknowledgment."
+  },
+  {
+    "id": "fd-2-15",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.15",
+    "title": "Tax Deduction at Source - Form 121 for every FD",
+    "text": "Form 121 needs to be submitted for every fixed deposit booked with bank for tax exemption."
+  },
+  {
+    "id": "fd-2-16",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.16",
+    "title": "Tax Deduction at Source - Bank not liable for delay in Form 121 submission",
+    "text": "The bank shall not be liable for any consequences arising due to delay or non-submission of Form 121."
+  },
+  {
+    "id": "fd-2-17",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.17",
+    "title": "Tax Deduction at Source - Form 121 submission deadline",
+    "text": "To enable us to serve you better kindly submit the Form 121 latest by April 1st of the new financial year."
+  },
+  {
+    "id": "fd-2-18",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.18",
+    "title": "Tax Deduction at Source - TDS recovery from live FDs for closed deposits",
+    "text": "For closed fixed deposits, TDS if applicable/pending/due will be recovered from live fixed deposits."
+  },
+  {
+    "id": "fd-2-19",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.19",
+    "title": "Tax Deduction at Source - subject to regulatory changes",
+    "text": "The above guidelines are subject to change as per Income Tax regulations and directives of Finance Ministry Government of India prevalent from time to time."
+  },
+  {
+    "id": "fd-3-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "3.1",
+    "title": "Automatic Renewal - renewal unless customer objects",
+    "text": "We will be happy to renew your deposit, unless we hear from you to the contrary, for the same period as the original deposit, at the prevailing rate of interest. You can change the deposit instruction within 7 days."
+  },
+  {
+    "id": "fd-3-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "3.2",
+    "title": "Automatic Renewal - consent through various communication modes",
+    "text": "I hereby authorise the Bank and/or its authorised person to approach me through various mode of communication, viz. via email, telephone call, voice bot (through chat bot or any other Artificial Intelligent Tool), message, etc. and seek my consent/confirmation to renew the existing Fixed Deposit for same tenure and at the prevailing applicable rate of interest. I confirm that the consent/confirmation given by me through the above channels for renewal shall be treated as written instruction/advice given by me to the Bank for renewal of the Fixed Deposit."
+  },
+  {
+    "id": "fd-3-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "3.3",
+    "title": "Automatic Renewal - renewal at Bank's discretion in absence of instructions",
+    "text": "I agree that on maturity of my Fixed Deposit, in absence of my written instructions on disposal, the Bank reserves the right at its discretion to renew the deposit along with accrued interest thereon at prevailing rates of interest for a similar tenor of the deposit which has matured."
+  },
+  {
+    "id": "fd-4-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.1",
+    "title": "Premature Encashment - reduced interest rate after July 22, 2023",
+    "text": "With effect from July 22nd, 2023, the interest rate applicable for premature withdrawal including Sweep-in/Partial Withdrawal will be 1% lower (as applicable) of the rate on the date of deposit booked, to the period for which deposit remained with the bank and not at the contracted rate."
+  },
+  {
+    "id": "fd-4-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.2",
+    "title": "Premature Encashment - joint deposit without survivorship clause",
+    "text": "In the event of death of one of the joint account holders, the right to the deposit proceeds does not automatically devolve on the surviving joint deposit account holder, unless there is a survivorship clause."
+  },
+  {
+    "id": "fd-4-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.3",
+    "title": "Premature Encashment - joint deposit with survivorship clause",
+    "text": "In case of joint fixed deposits with a survivorship clause, the Bank shall be discharged by paying the Fixed Deposit proceeds prematurely to survivor/s equally, on request, in the event of one or more Joint Depositor."
+  },
+  {
+    "id": "fd-4-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.4",
+    "title": "Premature Encashment - all signatories must sign encashment instruction",
+    "text": "In the case of premature encashment, all signatories to the deposit must sign the encashment instruction."
+  },
+  {
+    "id": "fd-4-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.5",
+    "title": "Premature Encashment - governed by RBI rules",
+    "text": "All premature encashment will be governed by rules of Reserve Bank of India prevalent at the time of encashment."
+  },
+  {
+    "id": "fd-4-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.6",
+    "title": "Premature Encashment - payment by bank draft for deposits exceeding Rs 20,000",
+    "text": "As per IT laws, if aggregate amount of the deposit/(s) held by a person with a branch either in his own name or jointly with any person on the date of repayment together with the interest payable is equal to or exceeds 20,000/-, then the amount will be paid by bank draft drawn in the name of the deposit holder or by crediting the savings/current account of the deposit holder."
+  },
+  {
+    "id": "fd-4-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.7",
+    "title": "Premature Encashment - no partial withdrawal for large deposits",
+    "text": "Partial premature withdrawal and sweep-in facility is not allowed for fixed deposits with amount >= 5 crore to < 25 crore."
+  },
+  {
+    "id": "fd-4-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.8",
+    "title": "Premature Encashment - reduced rate applicable prior to July 22, 2023",
+    "text": "Prior to 22nd July 2023, the applicable rate for Premature Withdrawal (for all deposits including Sweep-in/Partial Withdrawal), will be 1% below (as reduced rate) of the lower of either: a) The rate for the original/contracted tenor for which deposit has been booked or b) The base rate applicable for the tenor for which the deposit has been in force with the bank."
+  },
+  {
+    "id": "fd-4-9",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.9",
+    "title": "Premature Encashment - base rate for deposits below 5 crore",
+    "text": "For deposits < 5 crore booked on or after 7th March 2019, the base rate is the rate applicable to deposits of less than Rs. 2 Crore as on the date of booking the deposit. Prior to this the base rate is the rate applicable to deposits of less than Rs. 1 Cr as on date of booking the deposit."
+  },
+  {
+    "id": "fd-4-10",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.10",
+    "title": "Premature Encashment - base rate for deposits 5 crore and above",
+    "text": "For 5 crore and above deposits, the base rate is the rate applicable for 5 crore deposits."
+  },
+  {
+    "id": "fd-4-11",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.11",
+    "title": "Premature Encashment - penal charges of 1% applicable",
+    "text": "Premature closure of deposit attracts penal charges of 1%, except for deposits booked with tenor 7-14 days, single deposits >= 5.25 Cr to < 5.50 Cr (wef 29th Aug 2018), single deposits >= 24.75 Cr to < 25 Cr (wef 29th Aug 2018), single FD >= 25 crore (post Sept 2017), customer deceased, or NRE fixed deposits."
+  },
+  {
+    "id": "fd-4-12",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.12",
+    "title": "Premature Encashment - no penalty on death prior to maturity",
+    "text": "In case of death of any holder of the deposit prior to maturity date, premature termination of the deposit would be allowed as per the terms of contract subject to necessary verifications and submission of proof of death of the depositor. Such premature withdrawals will not attract any penal charge."
+  },
+  {
+    "id": "fd-4-13",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.13",
+    "title": "Premature Encashment - recovery of interest and penalties",
+    "text": "I agree that in case of premature withdrawal of my fixed deposit based on my instructions or the instructions of all the joint depositors in the case of joint deposit, the bank shall have the right to recover interest already paid or the penalty (reduced rate), if any, from the proceeds of the fixed deposit in accordance with prevailing regulations of the bank and the Reserve Bank of India."
+  },
+  {
+    "id": "fd-4-14",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.14",
+    "title": "Premature Encashment - payment at any branch",
+    "text": "I agree that the bank will pay the Fixed Deposit amount either on maturity or premature withdrawal at any branch irrespective of the branch where the deposit is booked."
+  },
+  {
+    "id": "fd-4-15",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.15",
+    "title": "Premature Encashment - overdraft rate unchanged for liquidated deposits",
+    "text": "In case of premature liquidation of the fixed deposit against which the overdraft has been taken, the rate applicable on the overdraft utilized will remain unchanged as per RBI regulations."
+  },
+  {
+    "id": "fd-4-16",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.16",
+    "title": "Premature Encashment - NetBanking available only for single holding deposits",
+    "text": "Fixed Deposit Liquidation on NetBanking is available only for Single Holding Deposits of Individual Customers."
+  },
+  {
+    "id": "fd-4-17",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.17",
+    "title": "Premature Encashment - government entities exempt from penalty",
+    "text": "Central or State Government establishments such as Apex Bodies, Union Government, State Government, Union Territories Government, Legislature, Judiciary, Embassies, Missions, Panchayat, District, Local Body and certain other entities which are 100% owned by Government shall be eligible for exemption from penalty (reduced rate) applicable on premature withdrawal of Fixed deposits for deposits booked/renewed on or after 1st July 2023. Customers who wish to avail this facility on new booking or renewal, are requested to visit nearest Branch with request letter and requisite documents."
+  },
+  {
+    "id": "fd-5-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.1",
+    "title": "Insurance Cover for Deposits - DICGC coverage",
+    "text": "The deposits in the Bank are insured with DICGC for an amount of Rs 5 lakhs (principal + interest) per depositor."
+  },
+  {
+    "id": "fd-6-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.1",
+    "title": "Non Withdrawable Fixed Deposits - no early closure by depositor",
+    "text": "The deposits cannot be closed by the depositor before expiry of the tenure. However, the Bank may allow premature withdrawal of these deposits in certain exceptional circumstances, in the event of direction from any statutory and/or regulatory body or deceased claim settlement cases."
+  },
+  {
+    "id": "fd-6-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.2",
+    "title": "Non Withdrawable Fixed Deposits - no interest on premature withdrawal",
+    "text": "In the event of premature withdrawal of these deposits under exceptional circumstances (except for deceased claim settlement case), the Bank will not pay any interest on the principal amount of the deposit. Any interest credited or paid up to the date of such premature closure will be recovered from the deposit."
+  },
+  {
+    "id": "fd-6-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.3",
+    "title": "Non Withdrawable Fixed Deposits - interest on death claim after July 22, 2023",
+    "text": "With effect from July 22nd, 2023, the interest rate applicable for premature withdrawal in the event of death claim, will be the rate on the date of deposit booked, to the period for which deposit remained with the bank and not at the contracted rate."
+  },
+  {
+    "id": "fd-6-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.4",
+    "title": "Non Withdrawable Fixed Deposits - interest on death claim prior to July 22, 2023",
+    "text": "Prior to July 22nd, 2023, in the event of premature withdrawal of these FDs due to death claim, interest to be paid to the claimant. The interest rate applicable on such withdrawal will be the contracted rate or the base rate applicable for the period the deposit has remained with the bank, whichever is lower."
+  },
+  {
+    "id": "fd-6-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.5",
+    "title": "Non Withdrawable Fixed Deposits - no sweep-in facility",
+    "text": "Sweep-in facility is not allowed."
+  },
+  {
+    "id": "fd-6-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.6",
+    "title": "Non Withdrawable Fixed Deposits - available for non-resident category",
+    "text": "The deposit is allowed for Non-Resident Category also. The minimum tenor for NRE deposit is 1 Year."
+  },
+  {
+    "id": "fd-6-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.7",
+    "title": "Non Withdrawable Fixed Deposits - minimum tenor for large deposits",
+    "text": "The minimum tenor for resident and NRO deposits of 2 crores is 1 year and 89 days for 5 crore and above."
+  },
+  {
+    "id": "fd-6-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.8",
+    "title": "Non Withdrawable Fixed Deposits - maturity instruction as do not renew",
+    "text": "The deposit will be booked with maturity instruction as 'Do Not Renew'."
+  },
+  {
+    "id": "fd-6-9",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.9",
+    "title": "Non Withdrawable Fixed Deposits - minimum amount 2 crore",
+    "text": "The Non-Withdrawable Deposit is offered for amount 2 crore and above only."
+  },
+  {
+    "id": "fd-6-10",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.10",
+    "title": "Non Withdrawable Fixed Deposits - not eligible for overdraft or security",
+    "text": "Overdraft Facility/Advances are NOT allowed against Non-withdrawal Fixed Deposit and it continue to remain not eligible for any security collaterals like issuance of Letter of Credit/Bank Guarantee or any other margins etc."
+  },
+  {
+    "id": "fd-7-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.1",
+    "title": "SureCover Fixed Deposit - complimentary term life insurance",
+    "text": "This is a new product variant which provides complimentary term life insurance cover for the 1st year of the Fixed Deposit tenure to the primary holder of the Fixed Deposit (FD) only and the same shall not be available for the joint holders (if any). The Policy shall be available subject to the terms and conditions specified."
+  },
+  {
+    "id": "fd-7-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.2",
+    "title": "SureCover Fixed Deposit - policy amount equals principal",
+    "text": "The Policy offered shall be equivalent to principal amount of the FD."
+  },
+  {
+    "id": "fd-7-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.3",
+    "title": "SureCover Fixed Deposit - complimentary only for first year",
+    "text": "The Complimentary insurance is applicable only for 1st year of the Fixed Deposit tenure and the premium for the subsequent years i.e. 2nd year onwards (if availed) shall be chargeable and paid by the primary holder of the FD."
+  },
+  {
+    "id": "fd-7-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.4",
+    "title": "SureCover Fixed Deposit - policy cancellation on liquidation",
+    "text": "The complimentary Policy issued in my favour shall be cancelled upon premature/partial liquidation of FD principal amount >= 50% of the total FD booked by me. Also, if the same is force closed by the bank due to non-servicing of OD against FD."
+  },
+  {
+    "id": "fd-7-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.5",
+    "title": "SureCover Fixed Deposit - mandatory nomination",
+    "text": "Nomination in the FD and Policy is mandatory. If nominee is minor, guardian/appointee details should be shared and guardian/appointee should not be minor."
+  },
+  {
+    "id": "fd-7-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.6",
+    "title": "SureCover Fixed Deposit - one policy per FD per customer ID",
+    "text": "Customer can avail only one Policy against each FD per cust id. New Policy against the FD can be availed only after a year from premature withdrawal/closure of the earlier FD."
+  },
+  {
+    "id": "fd-7-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.7",
+    "title": "SureCover Fixed Deposit - coverage only for primary holder",
+    "text": "Insurance cover will be applicable only to the primary holder of the FD."
+  },
+  {
+    "id": "fd-7-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.8",
+    "title": "SureCover Fixed Deposit - claim rejection on personal details change",
+    "text": "If a primary applicant changes the date of birth, name etc after SureCover fd is booked and if the details are not as per the eligibility defined for the product, claim will not be settled for such cases."
+  },
+  {
+    "id": "fd-7-9",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.9",
+    "title": "SureCover Fixed Deposit - renewal details from insurance company",
+    "text": "The details for the renewal of the Policy for the subsequent year (i.e. 2nd year onwards) shall be shared by the concerned Insurance company on or before the expiry of the Policy."
+  },
+  {
+    "id": "fd-7-10",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.10",
+    "title": "SureCover Fixed Deposit - insurance company grievance redressal",
+    "text": "For any dispute/grievances in relation to the Policy, Customer to contact the Insurance Company for grievance redressal."
+  },
+  {
+    "id": "fd-7-11",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.11",
+    "title": "SureCover Fixed Deposit - queries and claims contact",
+    "text": "For any queries related to the policy, customer can write to cpgroupops@hdfclife.com or visit nearest branch. For any queries related to the claim, customer can write to groupclaims@hdfclife.com."
+  },
+  {
+    "id": "fd-7-12",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.12",
+    "title": "SureCover Fixed Deposit - TDS applicable",
+    "text": "TDS will be applicable on these FDs as per the extant statutory guidelines."
+  },
+  {
+    "id": "fd-7-13",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.13",
+    "title": "SureCover Fixed Deposit - regular FD terms applicable",
+    "text": "All terms and conditions with respect to regular FD will be applicable."
+  },
+  {
+    "id": "fd-7-14",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.14",
+    "title": "SureCover Fixed Deposit - eligible age criteria",
+    "text": "The eligible age criteria of the primary holder of the FD shall be between 18 years to 50 years. In the event of the change in age of member between the date of receipt of member consent and the risk commencement date, the sum assured of the member shall be provided as per the age on the risk commencement date."
+  },
+  {
+    "id": "fd-7-15",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.15",
+    "title": "SureCover Fixed Deposit - coverage termination conditions",
+    "text": "The coverage shall terminate if you fail to satisfy any of the eligibility criteria, if you cease to be a member of the group for whatsoever reason or your relationship ceases with the master policy holder or if the premium is not paid within the allowed premium payment period."
+  },
+  {
+    "id": "fd-7-16",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.16",
+    "title": "SureCover Fixed Deposit - nominee details for current policy",
+    "text": "Nominee details updated are applicable only for current Policy being issued in the name of the primary holder."
+  },
+  {
+    "id": "fd-7-17",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.17",
+    "title": "SureCover Fixed Deposit - discontinuance on resident to non-resident change",
+    "text": "On change of status i.e. from resident to non-resident, benefits of SureCover FD will be discontinued and SureCover FD will have to be closed."
+  },
+  {
+    "id": "fd-7-18",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.18",
+    "title": "SureCover Fixed Deposit - policy void on untrue declarations",
+    "text": "In case the above mentioned Terms and Conditions and declarations are untrue or there has been any non-disclosure of any material fact, then the Policy to be issued by the insurer shall be treated as void during the settlement of the said Policy by the Insurer."
+  },
+  {
+    "id": "fd-8-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.1",
+    "title": "Health Cover FD - complimentary group hospital cash cover",
+    "text": "This is a new product variant which provides complimentary Group Hospital Cash Cover for the 1st year of the Fixed Deposit tenure to the primary holder of the Fixed Deposit (FD) only and the same shall not be available for the joint holders (if any). The Policy shall be available subject to the below terms and conditions."
+  },
+  {
+    "id": "fd-8-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.2",
+    "title": "Health Cover FD - coverage based on deposit amount",
+    "text": "The value of Policy offered shall be dependent on principal amount of the FD. Hospital Cash cover Rs 500 per day for 15 days: FD amount >= 5 lacs to < 10 lacs and Hospital Cash cover Rs 1000 per day for 15 days: FD amount >= 10 lac to 1.99 cr."
+  },
+  {
+    "id": "fd-8-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.3",
+    "title": "Health Cover FD - complimentary only for first year",
+    "text": "The Complimentary insurance is applicable only for 1st year of the Fixed Deposit tenure."
+  },
+  {
+    "id": "fd-8-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.4",
+    "title": "Health Cover FD - policy cancellation on liquidation",
+    "text": "The complimentary Policy (Group Hospital Cash) issued in my favour shall be cancelled upon premature/partial liquidation of FD principal amount >= 50% of the total FD booked by me. Also, if the same is force closed by the bank due to non-servicing of OD against FD."
+  },
+  {
+    "id": "fd-8-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.5",
+    "title": "Health Cover FD - mandatory nomination",
+    "text": "Nomination in the FD and Hospital Cash Cover (Policy) is mandatory. If nominee is minor, guardian/appointee details should be shared and guardian/appointee should not be a minor."
+  },
+  {
+    "id": "fd-8-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.6",
+    "title": "Health Cover FD - one policy per FD per customer ID",
+    "text": "Customer can avail only one Hospital Cash Cover (Policy) against each FD per cust id. New Hospital Cash Cover (Policy) against the FD can be availed only after a year from premature withdrawal/closure of the earlier FD."
+  },
+  {
+    "id": "fd-8-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.7",
+    "title": "Health Cover FD - coverage only for primary holder",
+    "text": "Insurance cover will be applicable only to the primary holder of the FD."
+  },
+  {
+    "id": "fd-8-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.8",
+    "title": "Health Cover FD - renewal details from insurance company",
+    "text": "The details for the renewal of the Hospital Cash Cover (Policy) for the subsequent year (i.e. 2nd year onwards) shall be shared by the concerned Insurance company on or before the expiry of the Policy."
+  },
+  {
+    "id": "fd-8-9",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.9",
+    "title": "Health Cover FD - grievance redressal",
+    "text": "For any dispute/grievances in relation to the Policy, Customer to contact the Insurance Company for grievance redressal."
+  },
+  {
+    "id": "fd-8-10",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.10",
+    "title": "Health Cover FD - queries and claims contact",
+    "text": "For any queries related to the policy, customer can write to Abhi.grievance@adityabirlacapital.com or visit nearest branch. For any queries related to the claim, customer can write to Abhi.grievance@adityabirlacapital.com."
+  },
+  {
+    "id": "fd-8-11",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.11",
+    "title": "Health Cover FD - TDS applicable",
+    "text": "TDS will be applicable on these FDs as per the extant statutory guidelines."
+  },
+  {
+    "id": "fd-8-12",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.12",
+    "title": "Health Cover FD - regular FD terms applicable",
+    "text": "All terms and conditions with respect to FD will be applicable."
+  },
+  {
+    "id": "fd-8-13",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.13",
+    "title": "Health Cover FD - eligible age criteria",
+    "text": "The eligible age criteria of the primary holder of the FD shall be between 18 years to 59 years. In the event of the change in age of member between the date of receipt of member consent and the risk commencement date, the sum assured of the member shall be provided as per the age on the risk commencement date."
+  },
+  {
+    "id": "fd-8-14",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.14",
+    "title": "Health Cover FD - insurance company claim process",
+    "text": "Health insurance product (Group Hospital Cash) belongs to insurance company (Aditya Birla Health Insurance) and the claim settlement will be as per Insurer's process and Bank does not have any role to play in the same."
+  },
+  {
+    "id": "fd-8-15",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.15",
+    "title": "Health Cover FD - coverage termination conditions",
+    "text": "The coverage shall terminate if you fail to satisfy any of the eligibility criteria, if you cease to be a member of the group for whatsoever reason or your relationship ceases with the master policy holder or if the premium is not paid within the allowed premium payment period."
+  },
+  {
+    "id": "fd-8-16",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.16",
+    "title": "Health Cover FD - nominee details for current policy",
+    "text": "Nominee details updated are applicable only for current Hospital Cash Cover (Policy) being issued in the name of the primary holder."
+  },
+  {
+    "id": "fd-8-17",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.17",
+    "title": "Health Cover FD - discontinuance on resident to non-resident change",
+    "text": "On change of status i.e. from resident to non-resident, benefits of HealthCover FD will be discontinued and HealthCover FD will have to be closed."
+  },
+  {
+    "id": "fd-8-18",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.18",
+    "title": "Health Cover FD - claim rejection on personal details change",
+    "text": "If a primary applicant changes the date of birth, name etc after HealthCover fd is booked and if the details are not as per the eligibility defined for the product, claim will not be settled for such cases."
+  },
+  {
+    "id": "fd-8-19",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.19",
+    "title": "Health Cover FD - hospital cash benefit limits",
+    "text": "Benefits under hospital cash shall not be payable for more than 15 days per Hospitalization claim per Policy Year and not more than 15 days per Policy Year."
+  },
+  {
+    "id": "fd-8-20",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.20",
+    "title": "Health Cover FD - deductible waiting period",
+    "text": "Benefits under hospital cash will trigger only after a Deductible of 1 day."
+  },
+  {
+    "id": "fd-8-21",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.21",
+    "title": "Health Cover FD - specified disease waiting period",
+    "text": "A waiting period of 24 months from the Inception Date shall apply to the treatment, whether medical or surgical and of the Illness/conditions and their complications mentioned in Annexure I of the policy document."
+  },
+  {
+    "id": "fd-8-22",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.22",
+    "title": "Health Cover FD - pre-existing disease waiting period",
+    "text": "Payment will not be done for any claim in respect of any Insured Person directly or indirectly caused by, based on, arising out of, relating to or howsoever attributable to any Pre-Existing Diseases or any complication arising from the same, until 4 years in this regard has elapsed since the Start Date of the first Policy."
+  },
+  {
+    "id": "fd-8-23",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.23",
+    "title": "Health Cover FD - initial waiting period for hospitalization",
+    "text": "A waiting period of 30 days from the Inception Date of the Policy will be applicable for all Hospitalisation claims except in case of Accidents."
+  },
+  {
+    "id": "fd-8-24",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.24",
+    "title": "Health Cover FD - permanent exclusions",
+    "text": "Aditya Birla Health Insurance company shall not be liable to make any payment for any claim under any Benefit in respect of any Insured Person directly or indirectly caused by, based on, arising out of, relating to or howsoever attributable to any of the reasons mentioned in Annexure II of the policy document."
+  },
+  {
+    "id": "fd-8-25",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.25",
+    "title": "Health Cover FD - good health declaration",
+    "text": "I/We hereby declare that I/We are not suffering from or have been diagnosed with advised taken treatment or observation is suggested for High Blood Pressure, Heart Attack, Heart Disease, abnormal lipid levels, Stroke, Paralysis, Cerebrovascular Disease, Diabetes, thyroid/parathyroid disease, Endocrinal Disease, Kidney Disease, Liver Disease, Cancer, Mental or Psychiatric condition, Genetic Disease, HIV/AIDS, COVID positive in last 3 months, or any sudden loss of weight in last 1 year among other conditions."
+  },
+  {
+    "id": "fd-8-26",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.26",
+    "title": "Health Cover FD - policy void on untrue declarations",
+    "text": "In case the above mentioned Terms and Conditions and declarations are untrue or there has been any non-disclosure of any material fact, then the Policy to be issued by the insurer shall be treated as void during the settlement of the said Policy by the Insurer."
+  },
+  {
+    "id": "fd-9-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.1",
+    "title": "Senior Citizen Care Deposit - additional premium offer",
+    "text": "An Additional Premium of 0.25% (over and above the existing premium of 0.50%) shall be given to Senior Citizens who wish to book the Fixed Deposit less than 5 crores for a tenure of 5 (five) years one day to 10 years, during special deposit offer commencing from 18th May 2020 to 1st May 2024. This special offer will be applicable to new Fixed Deposit booked as well as for the Renewals by Senior Citizens during the above period. This offer is not applicable to Non-Resident Indian."
+  },
+  {
+    "id": "fd-9-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.2",
+    "title": "Senior Citizen Care Deposit - premature closure before 5 years",
+    "text": "With effect from July 22nd, 2023, in case of premature closure of Fixed Deposit booked in the above offer (including sweep in / partial closure) on or before 5 years, the interest rate will be 1.00% less (reduced rate as applicable) of the rate on the date of deposit booked, to the period for which deposit remained with the bank and not at the contracted rate."
+  },
+  {
+    "id": "fd-9-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.3",
+    "title": "Senior Citizen Care Deposit - premature closure after 5 years",
+    "text": "With effect from July 22nd, 2023, in case of premature closure of Fixed Deposit booked in the above offer (including sweep in / partial closure) post 5 years, the interest rate will be 1.25% less (reduced rate as applicable) of the rate on the date of deposit booked, to the period for which deposit remained with the bank and not at the contracted rate."
+  },
+  {
+    "id": "fd-9-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.4",
+    "title": "Senior Citizen Care Deposit - other FD terms applicable",
+    "text": "All other terms and conditions as applicable to Fixed Deposit shall remain unchanged and the same shall be applicable to the above fixed deposit too."
+  },
+  {
+    "id": "fd-10-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.1",
+    "title": "Payout via NEFT - eligibility and account requirements",
+    "text": "The option for transfer of Fixed Deposit proceeds through NEFT to the other bank can be opted when customer does not hold any Current/Savings account with HDFC bank. The account number mentioned for NEFT to be in the name of the primary Fixed Deposit holder. In case of Joint mode of operation in the Fixed Deposit (FD), then the account number mentioned for NEFT should be in the same holding pattern as the FD."
+  },
+  {
+    "id": "fd-10-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.2",
+    "title": "Payout via NEFT - manager's cheque if rejected",
+    "text": "If the NEFT gets rejected by the beneficiary bank, Managers cheque will be issued on the next working day."
+  },
+  {
+    "id": "fd-10-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.3",
+    "title": "Payout via NEFT - processing restrictions",
+    "text": "Request for Premature redemption/Partial closure of FD cannot be processed, if received post business cut off time or on the day when it is holiday for the NEFT."
+  },
+  {
+    "id": "fd-10-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.4",
+    "title": "Payout via NEFT - Bank not liable for incorrect account number",
+    "text": "The credit through NEFT will be purely effected basis the account number mentioned on form. Bank will not hold responsibility if an incorrect account number is given."
+  },
+  {
+    "id": "fd-11-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "11.1",
+    "title": "Five Year Tax Saving Fixed Deposit - lock-in period",
+    "text": "There is a lock in period of 5 years. Premature/Partial withdrawal is not permitted in a Five Year Tax saving FD."
+  },
+  {
+    "id": "fd-11-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "11.2",
+    "title": "Five Year Tax Saving Fixed Deposit - eligible investors",
+    "text": "Only Individuals and HUF can invest in Five Year Tax Saving FD."
+  },
+  {
+    "id": "fd-11-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "11.3",
+    "title": "Five Year Tax Saving Fixed Deposit - investment limits",
+    "text": "A minimum amount of Rs 5,000 and in multiples of Rs 100 thereafter and maximum of Rs 1.5 lacs can be invested per cust id in a FY in a Five Year Tax Saving FD."
+  },
+  {
+    "id": "fd-11-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "11.4",
+    "title": "Five Year Tax Saving Fixed Deposit - physical advice and duplicate receipt",
+    "text": "Physical advice is sent to the mailing address registered with the Bank. In case of loss, theft, destruction, mutilation or defacement of this receipt, a duplicate receipt will be issued only on furnishing an Indemnity bond in the prescribed form with one or more approved sureties or with a bank guarantee."
+  },
+  {
+    "id": "fd-11-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "11.5",
+    "title": "Five Year Tax Saving Fixed Deposit - no pledge or collateral",
+    "text": "The Tax saving FD cannot be pledged to secure a loan or as security to any other asset."
+  },
+  {
+    "id": "fd-11-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "11.6",
+    "title": "Five Year Tax Saving Fixed Deposit - no overdraft allowed",
+    "text": "FD OD cannot be availed against Five Year Tax Saving FD."
+  },
+  {
+    "id": "fd-11-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "11.7",
+    "title": "Five Year Tax Saving Fixed Deposit - no nomination for minor",
+    "text": "Nomination will not be allowed in a minor Five Year Tax saving FD."
+  },
+  {
+    "id": "fd-11-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "11.8",
+    "title": "Five Year Tax Saving Fixed Deposit - interest payout options",
+    "text": "Customer can book Five Year Tax Saving FD with monthly/quarterly interest payout option."
+  },
+  {
+    "id": "fd-12-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.1",
+    "title": "Important Points - SMS/Missed call booking",
+    "text": "Customer agrees that Bank can act upon the SMS/Missed call received within stipulated time from the Registered Mobile no. with the Bank and shall not be held responsible in case of any dispute with respect to the booking of FD through SMS/Missed call Banking if Bank has acted upon the SMS/Missed Call received from the Registered Mobile No."
+  },
+  {
+    "id": "fd-12-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.2",
+    "title": "Important Points - senior citizen rates eligibility",
+    "text": "Senior Citizen Individuals (60 years and above) who are Resident Indians are eligible for senior citizen rates for deposits less than 5cr (except for non-withdrawable deposits). Senior Citizen rates would be applicable for joint FD only in case the Senior Citizen is the primary holder of such Deposit."
+  },
+  {
+    "id": "fd-12-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.3",
+    "title": "Important Points - interest rate on multiple deposits in single day",
+    "text": "The interest rate applicable on multiple deposits, across all channels, made by the same customer in a single day in one particular tenor bucket would be the rate which is applicable for the aggregate value or the individual value whichever is lower."
+  },
+  {
+    "id": "fd-12-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.4",
+    "title": "Important Points - tenor bucket definition",
+    "text": "Tenor Bucket means the various tenure slabs as updated in the interest rate sheet on the website. For example, 1 Y 1d to 2 Y is one particular tenor bucket, similarly 5 Y 1 d to 10 Y is also one particular tenor bucket."
+  },
+  {
+    "id": "fd-12-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.5",
+    "title": "Important Points - interest payout less than Rs 100",
+    "text": "Any interest/maturity payout less than or equal to Rs 100/- on Term Deposits shall be credited to the savings or current account, irrespective of the instruction given at the time of booking of the deposit or change anytime during the tenure of the deposit."
+  },
+  {
+    "id": "fd-12-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.6",
+    "title": "Important Points - additional interest not applicable to NRE/NRO",
+    "text": "Benefit of additional interest rate on deposits on account of being bank's own staff or senior citizens shall not be applicable to NRE and NRO Deposits."
+  },
+  {
+    "id": "fd-12-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.7",
+    "title": "Important Points - quote deposit account number",
+    "text": "Please quote the Deposit Account Number in all Communication."
+  },
+  {
+    "id": "fd-12-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.8",
+    "title": "Important Points - no same-day liquidation via netbanking",
+    "text": "Fixed Deposit booked through any channel cannot be liquidated on the same day via Net/Mobile banking and can be liquidated only through branch."
+  },
+  {
+    "id": "fd-12-9",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.9",
+    "title": "Important Points - FDA email and dispute resolution",
+    "text": "Fixed Deposit Advice (FDA) will be sent to the Customer on booking and renewal of the Fixed Deposit at his/her registered email address. In case of any discrepancy noticed/dispute/complaint by the Customer with regard to the details indicated in the FDA, the same should be brought to the notice of the Bank within 7 days from the date of the email, failing which the Bank shall consider that Customer has accepted the same and thereafter no dispute/complaint/request for change, etc. shall be entertained."
+  },
+  {
+    "id": "fd-12-10",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.10",
+    "title": "Important Points - record maturity instructions in advance",
+    "text": "Please record change of maturity instructions with us well in advance to enable us serve you better."
+  },
+  {
+    "id": "fd-12-11",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.11",
+    "title": "Important Points - FD advice delivery method",
+    "text": "FD advice as per extant process will be sent to the customer via Email/Physical. Email id is mandatory."
+  },
+  {
+    "id": "fd-12-12",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.12",
+    "title": "Important Points - online view of maturity instruction changes",
+    "text": "Any changes made online in respect to change in maturity instruction/tenure, details can be viewed online post the changes."
+  },
+  {
+    "id": "fd-12-13",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.13",
+    "title": "Important Points - ignore advice if already redeemed or renewed",
+    "text": "Please ignore this advice if you have redeemed or renewed this deposit on or after the maturity date as mentioned herein. In case of Renewals you will receive a new Fixed Deposit Confirmation/renewal advice."
+  },
+  {
+    "id": "fd-12-14",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.14",
+    "title": "Important Points - monthly interest option discounted rate",
+    "text": "Rate applicable on monthly interest option will be discounted rate over the standard FD Rate."
+  },
+  {
+    "id": "fd-12-15",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.15",
+    "title": "Important Points - sweep-in LIFO basis",
+    "text": "In case of more than one deposit linked for Sweep-In, the system will first Sweep-In funds from the last or recently opened deposit i.e. on LIFO (Last-In-First-Out) basis."
+  },
+  {
+    "id": "fd-12-16",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.16",
+    "title": "Important Points - overdraft utilized before sweep-in",
+    "text": "In case both overdraft against FD and Sweep in is linked to account, Overdraft limit will be utilized first."
+  },
+  {
+    "id": "fd-12-17",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.17",
+    "title": "Important Points - update nomination details",
+    "text": "In case your fixed deposit is booked without nomination details, please visit the Branch to update the same."
+  },
+  {
+    "id": "fd-12-18",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.18",
+    "title": "Important Points - no interest on premature NRO/Resident withdrawal before 7 days",
+    "text": "In case of NRO/Resident FD, no interest will be paid if the deposit is prematurely withdrawn before completion of 7 days."
+  },
+  {
+    "id": "fd-12-19",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.19",
+    "title": "Important Points - no interest on NRE premature withdrawal before 1 year",
+    "text": "In case of NRE FD interest will not be paid if the deposit is prematurely withdrawn before completion of 1 year."
+  },
+  {
+    "id": "fd-12-20",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.20",
+    "title": "Important Points - Form 121 not applicable to NRIs",
+    "text": "Form 121 is not applicable to NRIs."
+  },
+  {
+    "id": "fd-12-21",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.21",
+    "title": "Important Points - TDS not applicable on NRE deposits",
+    "text": "TDS is not applicable for Interest earned on NRE deposits."
+  },
+  {
+    "id": "fd-12-22",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.22",
+    "title": "Important Points - TDS recovery from CASA for monthly/quarterly payout",
+    "text": "Fixed Deposits booked with monthly or quarterly interest payout option, TDS recovery will by default happen from linked current/savings account. Please visit nearest branch/contact RM for further clarification."
+  },
+  {
+    "id": "fd-12-23",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.23",
+    "title": "Important Points - interest calculation on term deposits",
+    "text": "When you open a Fixed deposit with the Bank, Interest on Term Deposit is calculated quarterly basis for deposits > 6 months. Simple interest is paid at maturity for deposits <= 6 months. Cumulative Interest/re-investment interest is calculated every quarter, and is added to the principal such that Interest is paid on the Interest earned in the previous quarter as well."
+  },
+  {
+    "id": "fd-12-24",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.24",
+    "title": "Important Points - monthly deposit scheme interest calculation",
+    "text": "In case of monthly deposit scheme, the interest shall be calculated for the quarter and paid monthly at discounted rate over the Standard FD Rate."
+  },
+  {
+    "id": "fd-12-25",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.25",
+    "title": "Important Points - Bank right to rebook FD with correct details",
+    "text": "If FD is not booked/renewed as per applicable T&C, Bank reserves the right to rebook the same with correct details. Please visit our nearest branch/contact Relationship Manager for further clarification."
+  },
+  {
+    "id": "fd-12-26",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.26",
+    "title": "Important Points - Income-tax act 2025 provisions",
+    "text": "Income-tax provisions outlined in this document are updated as of the Income-tax Act, 2025."
+  },
+  {
+    "id": "fd-12-27",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.27",
+    "title": "Important Points - lien on third party deposits",
+    "text": "In case of third party fixed deposit, lien is marked only on principal amount of the deposit."
+  },
+  {
+    "id": "fd-12-28",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.28",
+    "title": "Important Points - rounding off of deposits",
+    "text": "For Resident & Non-Residents rupee deposits, rounding off is done basis RBI guideline. All transactions, including payment of interest on deposits/charging of interest on advances, will be rounded off to the nearest rupee i.e., fractions of 50 paise and above shall be rounded off to the next higher rupee and fraction of less than 50 paise shall be ignored. For Foreign currency deposits (FCNR), rounding off will be done up to two decimal places."
+  },
+  {
+    "id": "fd-12-29",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.29",
+    "title": "Important Points - FD backed credit card KYC failure refund",
+    "text": "For FD backed Credit Card: Notwithstanding the provisions of the terms and conditions for creation of fixed deposit, in the event of failure of 'know you customer' (KYC) process, the customer agrees that the Bank will refund the amount collected from the customer towards the fixed deposit to the customer. Further, the customer agrees that since the fixed deposit is not booked by the Bank, the Bank will not pay any interest on the amount collected from the customer."
+  },
+  {
+    "id": "fd-12-30",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.30",
+    "title": "Important Points - FD booked after 11 PM digital channel",
+    "text": "FD booked post 11:00 pm from Digital channel may get value date of next day."
+  },
+  {
+    "id": "fd-12-31",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.31",
+    "title": "Important Points - staff/retired staff joint account declaration",
+    "text": "Applicable for Staff/Retired Staff with Joint account holders. I hereby declare that the monies deposited, or which may be deposited from time to time into my bank account held with HDFC Bank where I am the first account holder along with a joint account holder, belongs to me. Accordingly, I am aware that I am eligible to get additional interest rate as updated on the banks website and updated from time to time."
+  }
+]

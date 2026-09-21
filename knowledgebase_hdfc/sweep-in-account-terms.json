@@ -1,0 +1,58 @@
+[
+  {
+    "id": "sweep-6-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.1",
+    "title": "Sweep-in Account - Fixed Deposit and Account name matching requirement",
+    "text": "I agree that my Fixed Deposit(s) linked for Sweep-in facility to my Savings account/current account should be in the same name(s) and title as my account."
+  },
+  {
+    "id": "sweep-6-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.2",
+    "title": "Sweep-in Account - predetermined period and breaking units on sweep-out",
+    "text": "I agree that all Sweep-in deposits will be for a predetermined period only. I authorise the Bank to break units of deposits formed due to Sweep-out instruction in case there is insufficient balance in my linked savings/current account."
+  },
+  {
+    "id": "sweep-6-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.3",
+    "title": "Sweep-in Account - principal amount only considered, not interest",
+    "text": "I am aware and acknowledge that only the principal amount of the fixed deposit/s and not the interest will be considered for sweep in facility. Accordingly, Bank shall not be liable for any consequences arising out of non-compliance of any payment instructions due to insufficiency of principal amount to honour payments under sweep-in facility."
+  },
+  {
+    "id": "sweep-6-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.4",
+    "title": "Sweep-in Account - multiple deposits linkage FIFO and LIFO method",
+    "text": "I am aware that, in case of linkage of more than one deposit to the Savings/Current Account for a Sweep-in, the system will first Sweep-in funds from the oldest deposit opened, i.e., the deposit which was first linked to the Savings/Current Account based on the First-In-First-Out method. Effective 22nd Feb 2014, Sweep in of funds from your Fixed Deposit (FD) to Saving/Current account will trigger on Last in First out basis (LIFO)."
+  },
+  {
+    "id": "sweep-6-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.5",
+    "title": "Sweep-in Account - same-day restoration of swept FD",
+    "text": "Same-Day Restoration of Sweep-In Fixed Deposit (FD) - In the event funds are withdrawn/swept from a Fixed Deposit linked to a savings account, the Bank may, at its sole discretion, allow restoration of the withdrawn FD amount subject to the conditions below."
+  },
+  {
+    "id": "sweep-6-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.6",
+    "title": "Sweep-in Account - redeposit condition for restoration",
+    "text": "If the utilized/swept amount is fully or partially redeposited into the linked account on the same day before 11:00 PM (IST), the Bank may restore the Fixed Deposit to the extent of the amount redeposited."
+  },
+  {
+    "id": "sweep-6-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.7",
+    "title": "Sweep-in Account - restoration processing end-of-day",
+    "text": "Restoration, if applicable, will be processed end-of-day and shall be subject to system availability and successful reconciliation of funds."
+  }
+]

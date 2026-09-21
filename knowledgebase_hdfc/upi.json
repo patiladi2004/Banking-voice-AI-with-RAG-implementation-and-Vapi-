@@ -1,0 +1,485 @@
+[
+  {
+    "id": "upi-definition",
+    "category": "upi",
+    "type": "faq",
+    "title": "What UPI is",
+    "sample_queries": [
+      "What is UPI?",
+      "What does UPI stand for?",
+      "How does UPI work in general?"
+    ],
+    "answer": "UPI, or Unified Payment Interface, is a smartphone-based payment system that lets participating bank customers send or receive money using a unique UPI ID, instead of needing full account and bank details each time."
+  },
+  {
+    "id": "upi-id-definition",
+    "category": "upi",
+    "type": "faq",
+    "title": "What a UPI ID is",
+    "sample_queries": [
+      "What is a UPI ID?",
+      "What does my UPI ID look like?",
+      "How is my UPI ID structured?"
+    ],
+    "answer": "A UPI ID is a unique identifier linked to your bank account, made up of letters, numbers, and sometimes special characters. It typically looks something like your mobile number followed by the bank's handle, for example 1234567890@hdfc — you share this to receive money instead of your full account details."
+  },
+  {
+    "id": "upi-mobile-seeding-required",
+    "category": "upi",
+    "type": "faq",
+    "title": "Why UPI requires your mobile number to be seeded with your account",
+    "sample_queries": [
+      "Can I use UPI without linking my mobile number to my account?",
+      "Do I need my number registered with the bank to use UPI?",
+      "Why does UPI need my mobile number seeded?"
+    ],
+    "answer": "No, UPI can only be used with a mobile number that's already registered with your bank account — this is a security requirement, not optional."
+  },
+  {
+    "id": "upi-how-to-register",
+    "category": "upi",
+    "type": "procedure",
+    "title": "Registering for UPI on the HDFC Bank App",
+    "sample_queries": [
+      "How do I register for UPI?",
+      "How do I set up UPI on the app?",
+      "How do I create a UPI ID?"
+    ],
+    "overview": "Guides the user through setting up UPI, either during initial app registration or afterward from within the app.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to the HDFC Bank App and tap your profile picture in the top-left corner.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Tap Setup UPI and follow the prompts to create your UPI profile and link your account.", "wait_for_confirmation": false }
+    ],
+    "notes": "UPI registration only works over mobile data, not Wi-Fi. You can also set this up as part of first registering for the app itself."
+  },
+  {
+    "id": "upi-account-not-found-troubleshoot",
+    "category": "upi",
+    "type": "faq",
+    "title": "App can't find your bank account when linking to UPI",
+    "sample_queries": [
+      "The app can't find my bank account for UPI",
+      "Why isn't my bank account showing up during UPI setup?",
+      "UPI registration says it can't locate my account"
+    ],
+    "answer": "This usually happens when the mobile number linked to your bank account is different from the one you're using for UPI registration. Make sure they match — if they don't, the platform won't be able to fetch your accounts."
+  },
+  {
+    "id": "upi-link-multiple-accounts-same-id",
+    "category": "upi",
+    "type": "faq",
+    "title": "Linking multiple bank accounts to one UPI ID",
+    "sample_queries": [
+      "Can I link more than one bank account to my UPI ID?",
+      "Can multiple accounts share the same UPI ID?",
+      "How do I add another account to my UPI ID?"
+    ],
+    "answer": "Yes, you can link several bank accounts to the same UPI ID in the app."
+  },
+  {
+    "id": "upi-pin-definition",
+    "category": "upi",
+    "type": "faq",
+    "title": "What a UPI PIN is and when it's needed",
+    "sample_queries": [
+      "What is a UPI PIN?",
+      "Do I need a PIN to receive money on UPI?",
+      "When is my UPI PIN required?"
+    ],
+    "answer": "A UPI PIN is a 4 to 6 digit passcode you set during UPI registration, used to authorize transactions when you're sending money. It's never required to receive money — if anyone asks you to enter your UPI PIN to receive a payment or claim a reward, that's a red flag for fraud."
+  },
+  {
+    "id": "upi-send-money-methods",
+    "category": "upi",
+    "type": "procedure",
+    "title": "Sending money through UPI",
+    "sample_queries": [
+      "How do I send money using UPI?",
+      "How do I pay someone through UPI?",
+      "What are the ways to send a UPI payment?"
+    ],
+    "overview": "Guides the user through initiating a UPI payment. No payee needs to be pre-added — payments go through directly using their UPI ID, QR code, mobile number, UPI number, or account and IFSC details.",
+    "steps": [
+      { "step_number": 1, "instruction": "Open the HDFC Bank App and go to Send Money in the Payment Centre, or use Send Money or Scan & Pay directly from the non-logged-in screen.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Choose how you want to identify the payee — UPI ID, contact number, UPI number, account number and IFSC, scanning a QR code, or a one-time transfer.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Enter the amount and confirm with your UPI PIN to complete the payment.", "wait_for_confirmation": false }
+    ]
+  },
+  {
+    "id": "upi-payee-registration-requirement",
+    "category": "upi",
+    "type": "faq",
+    "title": "Whether the payee needs to be registered on UPI to receive money",
+    "sample_queries": [
+      "Does the person I'm paying need a UPI ID?",
+      "Can I send money to someone who isn't on UPI?",
+      "Do I need the payee's UPI ID to pay them?"
+    ],
+    "answer": "It depends on how you're paying them. If you're paying using their account number and IFSC code, they don't need to be registered on UPI at all. If you're paying via their UPI ID or by scanning their QR code, they do need to be UPI-registered."
+  },
+  {
+    "id": "upi-features-overview",
+    "category": "upi",
+    "type": "faq",
+    "title": "What you can do with UPI on the HDFC Bank App",
+    "sample_queries": [
+      "What UPI features does the app have?",
+      "What can I do with UPI besides sending money?",
+      "What's included under UPI in the app?"
+    ],
+    "answer": "Beyond sending and receiving money, UPI on the app covers a range of things: creating a UPI number to receive money from any UPI app, linking or removing bank accounts, checking your account balance, setting or changing your UPI PIN, requesting money from others, viewing your transaction history, and managing your UPI profile including setting a default account."
+  },
+  {
+    "id": "upi-debited-not-processed",
+    "category": "upi",
+    "type": "faq",
+    "title": "Account debited but the UPI transaction didn't go through",
+    "sample_queries": [
+      "My account was debited but the UPI transaction failed",
+      "Money left my account but the payment didn't complete",
+      "Where's my refund for a failed UPI transaction?"
+    ],
+    "answer": "UPI generally reverses declined transactions in real time, crediting the amount straight back to your account. If that hasn't happened, contact PhoneBanking or visit a branch so it can be looked into."
+  },
+  {
+    "id": "upi-transaction-timings",
+    "category": "upi",
+    "type": "faq",
+    "title": "When UPI transactions can be made",
+    "sample_queries": [
+      "Can I use UPI at night?",
+      "Does UPI work on holidays?",
+      "Are UPI transactions instant?"
+    ],
+    "answer": "UPI transactions are instant and available 24 hours a day, 7 days a week, regardless of the bank's regular working hours."
+  },
+  {
+    "id": "upi-view-past-transactions",
+    "category": "upi",
+    "type": "faq",
+    "title": "Viewing your UPI transaction history",
+    "sample_queries": [
+      "Where can I see my past UPI payments?",
+      "How do I check my UPI transaction history?",
+      "Can I see old UPI transactions on NetBanking too?"
+    ],
+    "answer": "You can view your UPI transaction history by tapping your profile picture in the top-left corner, then Manage next to UPI ID, then UPI Transaction History. These transactions also show up in your regular NetBanking and account statement."
+  },
+  {
+    "id": "upi-report-fraud-phonebanking",
+    "category": "upi",
+    "type": "procedure",
+    "title": "Reporting an unauthorized UPI transaction",
+    "sample_queries": [
+      "I see a UPI transaction I didn't make",
+      "How do I report UPI fraud?",
+      "Someone made an unauthorized UPI payment from my account"
+    ],
+    "overview": "Guides the user through reporting a suspicious or fraudulent UPI transaction via PhoneBanking, and what information to have ready.",
+    "steps": [
+      { "step_number": 1, "instruction": "Call the PhoneBanking number at 1800 258 6161 to report it.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Have the following ready before you call: your mobile number, Customer ID, the payee's details (UPI ID, QR code, mobile number, UPI number, or account and IFSC), your debit account number, your own UPI ID, the transaction date and time, the amount, the 12-digit UPI transaction reference number, and a screenshot of the transaction from the app if possible.", "wait_for_confirmation": false }
+    ]
+  },
+  {
+    "id": "upi-reregister-after-sim-device-change",
+    "category": "upi",
+    "type": "faq",
+    "title": "Using UPI after changing your SIM, device, or handset",
+    "sample_queries": [
+      "I got a new phone, do I need to set up UPI again?",
+      "I changed my SIM, will UPI still work?",
+      "How do I use UPI on my new handset with the same number?"
+    ],
+    "answer": "Yes, if you change your SIM, device, or handset, you'll need to register for UPI again on that device, whether or not your mobile number stays the same."
+  },
+  {
+    "id": "upi-deregister-and-block",
+    "category": "upi",
+    "type": "procedure",
+    "title": "Deregistering from UPI, or blocking UPI services entirely",
+    "sample_queries": [
+      "How do I deregister from UPI?",
+      "How do I block UPI on my account?",
+      "Can I turn off UPI debit only?"
+    ],
+    "overview": "There's no way to block only debit or only credit UPI services separately — deregistering the UPI ID blocks both.",
+    "steps": [
+      { "step_number": 1, "instruction": "Tap your profile picture in the top-left corner, then Manage next to UPI ID.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Tap De-register UPI ID to confirm.", "wait_for_confirmation": false }
+    ],
+    "notes": "Once deregistered, that UPI ID can't be retrieved or reused for 2 years, though you can register fresh and get a new one anytime."
+  },
+  {
+    "id": "upi-lost-phone-guidance",
+    "category": "upi",
+    "type": "faq",
+    "title": "What to do about UPI if your phone is lost",
+    "sample_queries": [
+      "I lost my phone, is my UPI money safe?",
+      "What should I do about UPI if my phone goes missing?",
+      "Can someone use my UPI if they have my lost phone?"
+    ],
+    "answer": "Block your mobile number right away to prevent unauthorized activity. Your UPI payments still require your PIN to go through, so as long as that PIN stays private, your money is protected even if someone has physical access to your old phone."
+  },
+  {
+    "id": "upi-stop-payment-not-possible",
+    "category": "upi",
+    "type": "faq",
+    "title": "Whether a UPI payment can be stopped once sent",
+    "sample_queries": [
+      "Can I cancel a UPI payment after sending it?",
+      "I sent money to the wrong person on UPI, can I stop it?",
+      "Is there a way to reverse a UPI transaction I just made?"
+    ],
+    "answer": "No, once a UPI payment is initiated, it can't be stopped or recalled — this is why it's worth double-checking payee details before confirming with your PIN."
+  },
+  {
+    "id": "upi-limits-overview",
+    "category": "upi",
+    "type": "faq",
+    "title": "UPI transaction and daily limits",
+    "sample_queries": [
+      "How much can I send through UPI in a day?",
+      "What's the maximum UPI transaction amount?",
+      "Why does it say I've exceeded my UPI transaction limit?"
+    ],
+    "answer": "For regular person-to-person UPI payments, you can make up to 10 transactions or a maximum of 1 lakh rupees per bank account within 24 hours — this cap doesn't include bill payments or merchant transactions. Certain categories like Capital Markets, Collections, Insurance, and Foreign Inward Remittances allow up to 2 lakh rupees per transaction, while IPO applications and the Retail Direct Scheme allow up to 5 lakh. If you're a new UPI user, or you've recently changed your device, SIM, or mobile number, you're capped at 5,000 rupees for the first 24 hours on Android or 72 hours on iOS, as an added security measure."
+  },
+  {
+    "id": "upi-forgot-pin-reset",
+    "category": "upi",
+    "type": "procedure",
+    "title": "Resetting a forgotten UPI PIN",
+    "sample_queries": [
+      "I forgot my UPI PIN",
+      "How do I reset my UPI PIN?",
+      "I can't remember my UPI PIN, help me change it"
+    ],
+    "overview": "Guides the user through resetting their UPI PIN using their debit card details. Steps are nearly identical on Android and iOS.",
+    "steps": [
+      { "step_number": 1, "instruction": "Tap the profile icon and go to the Linked Accounts section.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Select the account, then tap on it again, and choose Forgot UPI PIN.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Enter the last 6 digits of your linked debit card and its expiry date.", "wait_for_confirmation": true },
+      { "step_number": 4, "instruction": "Enter the OTP you receive and your debit card PIN.", "wait_for_confirmation": true },
+      { "step_number": 5, "instruction": "Set a new 4-digit UPI PIN and confirm it. You're done.", "wait_for_confirmation": false }
+    ],
+    "notes": "This same flow also fixes UPI not working after a mobile number update — no need to use a different UPI app."
+  },
+  {
+    "id": "upi-pending-status-explanation",
+    "category": "upi",
+    "type": "faq",
+    "title": "What a 'Pending' status means after money is debited but not credited",
+    "sample_queries": [
+      "My UPI payment shows pending, what does that mean?",
+      "Money was deducted but the payee hasn't received it yet",
+      "Why is my UPI transaction stuck on pending?"
+    ],
+    "answer": "This means your transaction went through on your end, but there's a delay on the receiving bank's side. It should credit within 48 hours once their daily settlement process completes."
+  },
+  {
+    "id": "upi-no-compensation-technical-failure",
+    "category": "upi",
+    "type": "faq",
+    "title": "Whether you're compensated for a technical UPI failure",
+    "sample_queries": [
+      "Do I get compensated if a UPI transaction fails due to a technical error?",
+      "Will I get interest for a delayed UPI payment?",
+      "Is the bank liable if UPI times out?"
+    ],
+    "answer": "No — if a transaction fails, times out, or gets declined due to a technical issue on the bank's or NPCI's end, there's no compensation or interest payment for the delay."
+  },
+  {
+    "id": "upi-registration-validation-error",
+    "category": "upi",
+    "type": "faq",
+    "title": "Getting a Validation Error during UPI registration",
+    "sample_queries": [
+      "I got a validation error while setting up UPI",
+      "Why did my UPI registration fail with an error?",
+      "What causes a UPI validation error?"
+    ],
+    "answer": "Per NPCI rules, UPI registration needs to be completed within 30 seconds — if it takes longer than that, you'll see a validation error. Just start the registration again and try to complete it more quickly."
+  },
+  {
+    "id": "upi-current-account-not-supported",
+    "category": "upi",
+    "type": "faq",
+    "title": "Linking a non-individual current account to UPI",
+    "sample_queries": [
+      "Can I use UPI with my business current account?",
+      "Can I link a non-individual account to UPI?",
+      "Why can't I add my company account to UPI?"
+    ],
+    "answer": "Non-individual current accounts can't be linked to UPI through the app. If you need UPI for a business account, that's handled through the merchant onboarding process instead."
+  },
+  {
+    "id": "upi-can-receive-not-send-troubleshoot",
+    "category": "upi",
+    "type": "faq",
+    "title": "Able to receive UPI payments but not send them",
+    "sample_queries": [
+      "I can receive UPI payments but not send them, why?",
+      "UPI send money isn't working for me",
+      "Why is my UPI send option blocked?"
+    ],
+    "answer": "This usually means UPI send services were blocked on your account, often due to a suspected fraud flag. Visit your nearest branch to request that it be unblocked."
+  },
+  {
+    "id": "upi-fraud-prevention-tips",
+    "category": "upi",
+    "type": "faq",
+    "title": "How to avoid UPI fraud",
+    "sample_queries": [
+      "How do I stay safe on UPI?",
+      "What should I never share to avoid UPI fraud?",
+      "What counts as accidentally sharing my UPI details?"
+    ],
+    "answer": "Never share your UPI PIN or personal details with anyone claiming you need to for receiving money, rewards, or cashback — you never need your PIN to receive a payment. A few things count as accidentally exposing yourself to fraud: entering your PIN or OTP when prompted by someone else, scanning a QR code you weren't expecting, clicking links from random SMS messages promising money or rewards, giving anyone remote access to your phone, or entering your PIN to accept a 'collect' request without checking what it actually is."
+  },
+  {
+    "id": "upi-request-money-feature",
+    "category": "upi",
+    "type": "faq",
+    "title": "What the Request Money feature does",
+    "sample_queries": [
+      "What is Request Money on UPI?",
+      "How does requesting money through UPI work?",
+      "If I get a payment request, what happens if I accept it?"
+    ],
+    "answer": "Request Money lets you ask someone else to send you funds. On the other side, if you receive a request and enter your UPI PIN to approve it, you're agreeing to pay — the amount gets debited from your account, so it's worth being careful about what requests you approve."
+  },
+  {
+    "id": "upi-insufficient-balance-decline",
+    "category": "upi",
+    "type": "faq",
+    "title": "UPI transaction declined for insufficient balance",
+    "sample_queries": [
+      "Why did my UPI payment fail?",
+      "It says insufficient balance for my UPI transaction",
+      "My UPI payment didn't go through, is it a balance issue?"
+    ],
+    "answer": "If you try to send more than what's available in your account, the transaction is declined for insufficient funds — it's worth checking your balance before initiating a payment to avoid this."
+  },
+  {
+    "id": "upi-wrong-payee-details-warning",
+    "category": "upi",
+    "type": "faq",
+    "title": "What happens if you enter the wrong payee details on UPI",
+    "sample_queries": [
+      "I think I sent money to the wrong UPI ID",
+      "What if I mistype the payee details on a UPI payment?",
+      "Does UPI check if the payee details are correct before sending?"
+    ],
+    "answer": "If you enter incorrect payee details and go ahead and confirm with your UPI PIN, the transaction will still go through to whoever that UPI ID or account actually belongs to. Since it can't be reversed afterward, it's important to double-check the payee details before entering your PIN."
+  },
+  {
+    "id": "upi-pin-lockout",
+    "category": "upi",
+    "type": "faq",
+    "title": "What happens after too many incorrect UPI PIN attempts",
+    "sample_queries": [
+      "How many times can I enter the wrong UPI PIN?",
+      "My UPI is blocked after wrong PIN attempts",
+      "I entered my UPI PIN wrong 3 times, what now?"
+    ],
+    "answer": "You get 3 attempts to enter your UPI PIN correctly. After 3 wrong attempts in a row, debit transactions on UPI are blocked for 24 hours, though you can still receive money during that time. You can reset your PIN right away to keep using UPI immediately, or just wait out the 24 hours and use your existing PIN again afterward."
+  },
+  {
+    "id": "upi-verify-receiver-name",
+    "category": "upi",
+    "type": "faq",
+    "title": "Confirming you're sending money to the right person on UPI",
+    "sample_queries": [
+      "How do I know I'm sending money to the right person?",
+      "Does UPI show me the payee's name before I pay?",
+      "How can I verify a UPI ID belongs to who I think it does?"
+    ],
+    "answer": "When you enter a UPI ID, the app verifies it and shows you a partially masked version of the account holder's name, so you can confirm you've got the right person before sending anything."
+  },
+  {
+    "id": "upi-eligibility",
+    "category": "upi",
+    "type": "faq",
+    "title": "Who is eligible to use UPI",
+    "sample_queries": [
+      "Who can use UPI?",
+      "Am I eligible for UPI?",
+      "What do I need to be able to use UPI?"
+    ],
+    "answer": "Anyone with an active bank account, a debit card, and a mobile number linked to that account can use UPI."
+  },
+  {
+    "id": "upi-reinstall-app-retrieve-id",
+    "category": "upi",
+    "type": "faq",
+    "title": "Getting your UPI ID back after uninstalling the app",
+    "sample_queries": [
+      "I accidentally deleted the app, do I lose my UPI ID?",
+      "How do I get my UPI ID back after reinstalling?",
+      "I uninstalled the app by mistake, what happens to UPI?"
+    ],
+    "answer": "If you recently uninstalled the app, just register your device again after reinstalling — this retrieves your existing UPI ID rather than creating a new one."
+  },
+  {
+    "id": "upi-unlimited-linked-accounts",
+    "category": "upi",
+    "type": "faq",
+    "title": "How many accounts can be linked to receive UPI payments",
+    "sample_queries": [
+      "How many accounts can I link to receive UPI money?",
+      "Is there a limit on accounts linked for UPI?",
+      "Can I have several accounts set up to receive UPI payments?"
+    ],
+    "answer": "There's no limit on how many accounts you can add to receive money via UPI. That said, it's worth setting one as your primary account so incoming payments have a clear default destination."
+  },
+  {
+    "id": "upi-iccw-overview",
+    "category": "upi",
+    "type": "faq",
+    "title": "What ICCW (cardless cash withdrawal via UPI) is and how it works",
+    "sample_queries": [
+      "What is ICCW?",
+      "Can I withdraw cash from an ATM without my debit card using UPI?",
+      "How does cardless cash withdrawal work?"
+    ],
+    "answer": "ICCW stands for Interoperable Cardless Cash Withdrawal — it lets you withdraw cash at an ATM using UPI QR authentication instead of a physical debit card. At the ATM, select the cardless withdrawal option, enter the amount you want, and the machine displays a single-use QR code. Scan that code with a UPI app that supports ICCW and confirm with your UPI PIN, and the ATM dispenses the cash."
+  },
+  {
+    "id": "upi-iccw-limits",
+    "category": "upi",
+    "type": "faq",
+    "title": "Limits on ICCW cardless cash withdrawal",
+    "sample_queries": [
+      "What's the limit for cardless cash withdrawal?",
+      "How much can I withdraw using ICCW in a day?",
+      "Is there a per-transaction limit for UPI ATM withdrawal?"
+    ],
+    "answer": "Each ICCW withdrawal is capped at 10,000 rupees, and this applies whether you're an HDFC Bank customer or from another bank. HDFC Bank customers are limited to 2 such transactions or 20,000 rupees per day in total, whichever comes first, and that daily limit resets 24 hours after it was first reached."
+  },
+  {
+    "id": "upi-iccw-atm-network",
+    "category": "upi",
+    "type": "faq",
+    "title": "Which ATMs support ICCW cardless withdrawal",
+    "sample_queries": [
+      "Can I use cardless withdrawal at other bank ATMs?",
+      "Does ICCW work at any ATM or just HDFC ones?",
+      "Where can I do a cardless cash withdrawal?"
+    ],
+    "answer": "HDFC Bank customers can use cardless cash withdrawal both at HDFC Bank ATMs and at other banks' ATMs that support UPI-based cash withdrawal."
+  },
+  {
+    "id": "upi-cash-withdrawal-charges",
+    "category": "upi",
+    "type": "faq",
+    "title": "Charges for cash withdrawal using UPI at ATMs",
+    "sample_queries": [
+      "Is there a fee for cardless cash withdrawal?",
+      "What are the charges for UPI ATM withdrawals?",
+      "Does ICCW count toward my free ATM transactions?"
+    ],
+    "answer": "UPI-based ATM cash withdrawals count toward your regular monthly free ATM transaction limit. Once that free limit is used up, each further UPI cash withdrawal is charged 23 rupees plus applicable taxes. It's worth checking the current ATM charges page for your specific account type, since free limits vary."
+  }
+]

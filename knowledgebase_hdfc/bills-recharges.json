@@ -1,0 +1,187 @@
+[
+  {
+    "id": "bills-pay-a-bill",
+    "category": "bills_recharges",
+    "type": "procedure",
+    "title": "Paying a bill through BillPay",
+    "sample_queries": [
+      "How do I pay my electricity bill?",
+      "How can I pay bills on NetBanking?",
+      "I want to pay a bill for a new biller",
+      "Can I pay utility bills through NetBanking?"
+    ],
+    "overview": "Guides the user through paying a bill, whether the biller is already registered or being added for the first time.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to HDFC NetBanking and select Bills & Recharges from the top menu.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "If the biller is already registered, select it from the My Bills section and click Pay Now. If it isn't registered yet, click Pay New Bill instead, then select the biller's category and enter the required details.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Confirm the amount and click Pay Now to complete the payment.", "wait_for_confirmation": false }
+    ],
+    "notes": "Bill categories available include Electricity, Gas, Mobile, Landline, Water, Broadband, Tax, Donation, Insurance, Credit Card, Subscriptions, FASTag, and Mutual Funds."
+  },
+  {
+    "id": "bills-categories-available",
+    "category": "bills_recharges",
+    "type": "faq",
+    "title": "Categories of billers available under BillPay",
+    "sample_queries": [
+      "What kinds of bills can I pay through NetBanking?",
+      "Can I pay my insurance premium through BillPay?",
+      "What billers are supported?"
+    ],
+    "answer": "BillPay supports a range of categories: Electricity, Gas, Mobile, Landline, Water, Broadband, Tax, Donation, Insurance, Credit Card, Subscriptions, FASTag, and Mutual Funds, among others."
+  },
+  {
+    "id": "bills-what-is-smartpay",
+    "category": "bills_recharges",
+    "type": "faq",
+    "title": "What SmartPay or AutoPay is",
+    "sample_queries": [
+      "What is SmartPay?",
+      "What does AutoPay mean?",
+      "How does automatic bill payment work?"
+    ],
+    "answer": "SmartPay, also called AutoPay, is an automated payment facility for recurring bills like utilities, subscriptions, or loan EMIs. Once you set it up for a biller, the payment is automatically debited from your chosen account or card on the scheduled date, so you don't have to pay it manually each time."
+  },
+  {
+    "id": "bills-smartpay-locations",
+    "category": "bills_recharges",
+    "type": "faq",
+    "title": "Where to find the SmartPay setup option",
+    "sample_queries": [
+      "Where do I turn on SmartPay?",
+      "I can't find the SmartPay setup button",
+      "Where is the AutoPay option?"
+    ],
+    "answer": "You can reach SmartPay setup from a few places under Bills & Recharges: the 'Leave bill dates to SmartPay' banner has a Set Up SmartPay button, any bill listed under My Bills has a Setup SmartPay option, and there's also a Pay Now banner that leads to the same setup."
+  },
+  {
+    "id": "bills-register-new-biller",
+    "category": "bills_recharges",
+    "type": "procedure",
+    "title": "Registering a new biller",
+    "sample_queries": [
+      "How do I add a new biller?",
+      "How do I register my electricity provider for bill pay?",
+      "I want to add a new biller to pay regularly"
+    ],
+    "overview": "Guides the user through registering a biller so it shows up under My Bills for future payments.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to HDFC NetBanking and select Bills and Recharges from the top menu.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Click Pay New Bill, then select the biller's category.", "wait_for_confirmation": true },
+      { "step_number": 3, "instruction": "Select the specific biller and enter the requested details to complete registration.", "wait_for_confirmation": false }
+    ]
+  },
+  {
+    "id": "bills-view-registered-billers",
+    "category": "bills_recharges",
+    "type": "faq",
+    "title": "Viewing your registered billers",
+    "sample_queries": [
+      "Where can I see my registered billers?",
+      "How do I check which billers I've added?",
+      "Can I see my saved billers list?"
+    ],
+    "answer": "All your registered billers appear on the Bill Pay landing page — go to Bills and Recharges, then My Bills, to see the full list."
+  },
+  {
+    "id": "bills-check-status-and-history",
+    "category": "bills_recharges",
+    "type": "faq",
+    "title": "Checking bill payment status and past payments",
+    "sample_queries": [
+      "Did my bill payment go through?",
+      "Where can I see my past bill payments?",
+      "How do I check the status of a scheduled bill payment?"
+    ],
+    "answer": "You can check both recent and scheduled bill payments by going to Bills and Recharges, then scrolling down to the Recent Bill Payments section for history, or the Scheduled Bill Payments section for anything upcoming."
+  },
+  {
+    "id": "bills-stop-scheduled-payment",
+    "category": "bills_recharges",
+    "type": "procedure",
+    "title": "Stopping a scheduled bill payment",
+    "sample_queries": [
+      "How do I cancel a scheduled bill payment?",
+      "I need to stop an upcoming bill payment",
+      "Can I cancel a bill before it's paid?"
+    ],
+    "overview": "Guides the user through stopping a scheduled bill payment before it goes through.",
+    "steps": [
+      { "step_number": 1, "instruction": "Log in to HDFC NetBanking and go to Bills and Recharges, then Upcoming Scheduled Bills.", "wait_for_confirmation": true },
+      { "step_number": 2, "instruction": "Select the biller you want to stop, then choose Stop Bill Pay.", "wait_for_confirmation": false }
+    ],
+    "notes": "A scheduled payment can only be stopped up to 4 days before its due date, so this needs to be done with a bit of lead time."
+  },
+  {
+    "id": "bills-setup-autopay-standing-instruction",
+    "category": "bills_recharges",
+    "type": "faq",
+    "title": "Setting up Autopay or Standing Instruction for a bill",
+    "sample_queries": [
+      "How do I set up autopay for my electricity bill?",
+      "How do I create a standing instruction for a bill?",
+      "Can I automate my recurring bill payments?"
+    ],
+    "answer": "There are a few ways to set this up. For a new biller, go to Bills and Recharges, then Setup Smart Pay, and select the category and biller. For a biller you've already added, go to My Bills and click Enable Smart Pay on that biller. You can also set it up right after paying a bill, by clicking Enable Smart Pay on the payment receipt."
+  },
+  {
+    "id": "bills-payment-limits",
+    "category": "bills_recharges",
+    "type": "faq",
+    "title": "Maximum and minimum bill payment amounts",
+    "sample_queries": [
+      "What's the maximum I can pay through BillPay?",
+      "Is there a minimum amount for bill payments?",
+      "What's the limit for mobile or DTH recharges?"
+    ],
+    "answer": "Maximum and minimum limits for any bill payment or recharge — including mobile and DTH recharges specifically — depend on the individual service provider, and you'll see the applicable limit shown upfront when you go through the payment flow. As a general floor, payments as low as 1 rupee are allowed for most bills."
+  },
+  {
+    "id": "bills-delete-biller",
+    "category": "bills_recharges",
+    "type": "faq",
+    "title": "Removing a registered biller",
+    "sample_queries": [
+      "How do I delete a biller?",
+      "Can I remove a registered biller?",
+      "I want to stop a biller from showing up in My Bills"
+    ],
+    "answer": "You can remove a registered biller by going to Bills and Recharges, then My Bills, selecting the biller you want to remove, and choosing Delete Biller from the three-dot menu at the top right of the biller's page. It's usually better to keep billers registered so you don't miss payments, but this is available if you need it."
+  },
+  {
+    "id": "bills-autopay-debit-timing",
+    "category": "bills_recharges",
+    "type": "faq",
+    "title": "When your account gets debited for an Autopay bill",
+    "sample_queries": [
+      "When does autopay actually charge my account?",
+      "How many days before the due date does autopay debit?",
+      "When will I be charged for my automatic bill payment?"
+    ],
+    "answer": "For bills set up on Autopay, your account is debited 4 days before the bill's due date."
+  },
+  {
+    "id": "bills-payment-processing-time",
+    "category": "bills_recharges",
+    "type": "faq",
+    "title": "When a bill payment reaches the biller after you pay",
+    "sample_queries": [
+      "When will my electricity company actually receive my payment?",
+      "I paid my bill, why hasn't it shown as paid with the provider yet?",
+      "How long does it take for a bill payment to update with the biller?"
+    ],
+    "answer": "Your account, debit card, or credit card is debited right when you make the payment, but it can take 3 to 6 working days for that payment to actually reflect on the biller's end."
+  },
+  {
+    "id": "bills-si-restrictions",
+    "category": "bills_recharges",
+    "type": "faq",
+    "title": "Where Standing Instructions can't be used",
+    "sample_queries": [
+      "Can I set autopay for a credit card from another bank?",
+      "Can I automate my prepaid mobile recharge?",
+      "Are there any bills I can't set up autopay for?"
+    ],
+    "answer": "Standing Instructions have a couple of restrictions: they can't be set up for credit card bills from banks other than HDFC Bank, and they also can't be enabled for prepaid mobile recharges."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "visacardpay-15-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "15.1",
+    "title": "Visa CardPay - service overview",
+    "text": "Visa CardPay offers the HDFC Bank Account Holder/User, online funds transfer from his Bank Account to any domestic Visa Credit Card."
+  },
+  {
+    "id": "visacardpay-15-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "15.2",
+    "title": "Visa CardPay - request constitutes authorisation to debit Account",
+    "text": "Visa CardPay is provided by HDFC Bank at my request, which request shall mean my authorisation for debiting the Account Holder/User's Account towards the amount of such transfer, together with the charges, if any."
+  },
+  {
+    "id": "visacardpay-15-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "15.3",
+    "title": "Visa CardPay - required information to effect transfer",
+    "text": "To effect Visa CardPay, I shall provide to HDFC Bank all the information as required under the relevant screen including: Card number, amount, in absence of which the Bank shall not be liable to effect the Visa CardPay."
+  },
+  {
+    "id": "visacardpay-15-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "15.4",
+    "title": "Visa CardPay - applicable only to VISA Cards issued in India",
+    "text": "The Visa CardPay service is only applicable for credits to VISA Cards issued in India. This service is not applicable for Cards issued by any other Issuing authority."
+  },
+  {
+    "id": "visacardpay-15-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "15.5",
+    "title": "Visa CardPay - not applicable to Cards not issued in India",
+    "text": "The Visa CardPay service is not applicable for transfers to Cards not issued in India."
+  },
+  {
+    "id": "visacardpay-15-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "15.6",
+    "title": "Visa CardPay - customer onus for FEMA/Exchange Control compliance",
+    "text": "While HDFC Bank shall endeavour to ensure that transfers are not made to any Card not issued in India, the onus shall lie on me to ensure that there are no FEMA or Exchange Control violations being done by me, and I shall be held liable for liability therein."
+  },
+  {
+    "id": "visacardpay-15-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "15.7",
+    "title": "Visa CardPay - transfer sent to Card number only; no verification of other beneficiary details",
+    "text": "HDFC Bank shall send the transfer only to the Card number of the beneficiary. While the Bank may at its discretion obtain certain other details of the beneficiary like: Name, Address, Bank name etc. the Bank is in no way responsible to verify or authenticate the same."
+  },
+  {
+    "id": "visacardpay-15-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "15.8",
+    "title": "Visa CardPay - best-effort processing with no performance guarantee",
+    "text": "While HDFC Bank shall endeavour to effect the Visa CardPay instruction at the earliest on receipt, it does not guarantee or be held responsible for performance hereunder."
+  },
+  {
+    "id": "visacardpay-15-9",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "15.9",
+    "title": "Visa CardPay - processing cut-off at midnight of previous day",
+    "text": "HDFC Bank shall process all transactions received till 12 midnight of the previous day on the next day."
+  },
+  {
+    "id": "visacardpay-15-10",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "15.10",
+    "title": "Visa CardPay - processing limited to working days",
+    "text": "All transactions shall be processed only on working days. Transactions done on Sundays and bank holidays will be processed on the next working day."
+  },
+  {
+    "id": "visacardpay-15-11",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "15.11",
+    "title": "Visa CardPay - Bank's disclaimer of responsibility",
+    "text": "The Bank shall assume no responsibility for: Visa CardPay transactions carried out in good faith relying on my instructions; not carrying out Visa CardPay transactions where the Bank has reason to believe in its sole discretion that the instructions are not genuine or are otherwise unclear, improper, vague, or doubtful; the performance of VISA or any other entity involved in the process; and any loss or damage incurred or suffered by me for any failure or interruption of Visa CardPay service or consequences arising out of delayed payments."
+  },
+  {
+    "id": "visacardpay-15-12",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "15.12",
+    "title": "Visa CardPay - Bank's discretion to add/delete services with notice via channels",
+    "text": "HDFC Bank may also make additions/deletions to the services offered through any of its channels at its sole discretion. The availability/non-availability of a particular service shall be informed to me through email, website of the Bank or by written communication."
+  },
+  {
+    "id": "visacardpay-15-13",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "15.13",
+    "title": "Visa CardPay - customer responsibility for correct Card Number; no reversal for erroneous credit",
+    "text": "I am entirely responsible for providing the correct Card Number of the beneficiary. The Bank will process all transactions only on the basis of the information provided by me. The Bank will not be responsible for any erroneous credit, if an erroneous Card number is provided by me. The Bank will also not be responsible to reverse such a wrong transaction."
+  },
+  {
+    "id": "visacardpay-15-14",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "15.14",
+    "title": "Visa CardPay - best-effort 24-hour remittance; no responsibility for beneficiary Bank's crediting time",
+    "text": "HDFC Bank shall on best effort basis send the remittance within 24 hours of the transaction, however the Bank is not responsible for the period within which the beneficiary Bank will credit the proceeds to the beneficiary Card."
+  },
+  {
+    "id": "visacardpay-15-15",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "15.15",
+    "title": "Visa CardPay - service offered to Savings and Current Account customers",
+    "text": "HDFC Bank shall offer this service for Savings Account and Current Account customers."
+  }
+]

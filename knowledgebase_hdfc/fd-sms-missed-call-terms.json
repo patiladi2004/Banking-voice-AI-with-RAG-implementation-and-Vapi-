@@ -1,0 +1,330 @@
+[
+  {
+    "id": "sms-fd-1-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.1",
+    "title": "FD SMS Booking - eligibility for registered customers",
+    "text": "FD can be booked by customers registered on SMS banking except for CSC channel customers (CSC Channel customer's authentication will be basis Registered mobile no + DOB/PAN)."
+  },
+  {
+    "id": "sms-fd-1-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.2",
+    "title": "FD SMS Booking - account for debit",
+    "text": "FD will be booked from the account registered in SMS banking except for CSC channel customers (CSC Channel customers account linked to the registered mobile no + DOB/PAN will be debited)."
+  },
+  {
+    "id": "sms-fd-1-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.3",
+    "title": "FD SMS Booking - Bank not responsible for SMS/Missed call disputes",
+    "text": "Customer agrees that Bank can act upon the SMS/Missed call received within stipulated time (For CSC, SMS is valid for 15 mins) from the Registered Mobile no. with the Bank and shall not be held responsible in case of any dispute with respect to the booking of FD through SMS/Missed call Banking if Bank has acted upon the SMS/Missed Call received from the Registered Mobile No."
+  },
+  {
+    "id": "sms-fd-1-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.4",
+    "title": "FD SMS Booking - interest rates subject to change",
+    "text": "As interest rates are subject to change without prior notice, customer shall ascertain the rates on the value date of FD."
+  },
+  {
+    "id": "sms-fd-1-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.5",
+    "title": "FD SMS Booking - booking on home branch with same holding pattern",
+    "text": "FD will get booked on account home branch and Holding Pattern will be same as CASA."
+  },
+  {
+    "id": "sms-fd-1-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.6",
+    "title": "FD SMS Booking - amount and tenure limits",
+    "text": "FD via SMS Banking will be booked with minimum amount Rs. 5000 and maximum amount is Rs. 10000 for a minimum tenure of 6 months 1 day and maximum tenure of 120 months except for CSC channel customers (For CSC channel customers the minimum amount is Rs. 5000 and maximum amount is 4.99 cr with minimum tenure of 7 days and maximum of 120 months). No interest will be paid if NRE FD is prematurely withdrawn before 1 year."
+  },
+  {
+    "id": "sms-fd-1-7",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.7",
+    "title": "FD SMS Booking - default maturity instruction",
+    "text": "Maturity instruction for all FDs booked via SMS facility will be Renew Principal and Interest under re-investment option. Except for CSC channel customer's (For CSC channel customer's maturity instruction options provided will be transfer to CASA/ Renew Principal and interest / Renew Principal and Redeem interest)."
+  },
+  {
+    "id": "sms-fd-1-8",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.8",
+    "title": "FD SMS Booking - default values if not specified",
+    "text": "FD via SMS banking will be booked with a default value of 5000 and tenure as 12 months (incase if tenure and amount is not specified by the customer)."
+  },
+  {
+    "id": "sms-fd-1-9",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.9",
+    "title": "FD Missed Call Booking - fixed parameters",
+    "text": "FD via missed call will be booked with fixed tenure (12 months), amount (Rs 5000), Nature of deposit (Re-investment) and maturity instructions (Renew Principal and Interest)."
+  },
+  {
+    "id": "sms-fd-1-10",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "1.10",
+    "title": "FD SMS/Missed Call Booking - nominee registration",
+    "text": "There will be no nominee registered in FD booked by SMS/Missed Call banking (except for CSC channel customers). However, it can be updated from branch. (For CSC channel customers CASA nominee will be replicated. In case of no nominee registered in CASA, it can be updated from branch)."
+  },
+  {
+    "id": "sms-fd-2-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.1",
+    "title": "Tax Deduction at Source - Resident FD TDS threshold",
+    "text": "Resident FD: TDS will be deducted when interest payable or reinvested on RD and FD per customer across all branches exceeds Rs. 40,000/- (Rs. 50,000/- for senior citizens) in a financial year."
+  },
+  {
+    "id": "sms-fd-2-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.2",
+    "title": "Tax Deduction at Source - TDS on NRO FD",
+    "text": "Tax at source is deducted as per Income Tax Regulations prevalent from time to time applicable to NRO FD."
+  },
+  {
+    "id": "sms-fd-2-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "2.3",
+    "title": "Tax Deduction at Source - Form 15G/H exemption",
+    "text": "Individuals seeking exemption from TDS on the interest income of FD and RD, have to submit a completed Form 15 G/H at the Bank branch within the first week of the new Financial Year and every time a new deposit is booked (not applicable to NRIs)."
+  },
+  {
+    "id": "sms-fd-3-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "3.1",
+    "title": "FD SMS Booking - Customer indemnification of Bank",
+    "text": "Customer shall not hold the bank responsible should any claim be raised against the Bank in respect of providing this facility and ensure that the Bank does not suffer any loss, Customer hereby indemnify the Bank in respect of any such claims/losses."
+  },
+  {
+    "id": "sms-fd-3-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "3.2",
+    "title": "FD Liquidation - NetBanking facility",
+    "text": "FD liquidation facility is available on Net Banking only for Single Holding FDs."
+  },
+  {
+    "id": "sms-fd-4-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.1",
+    "title": "PAN Requirement - for deposits >= Rs 50,000",
+    "text": "PAN card is required for FD's greater than or equal to Rs. 50,000."
+  },
+  {
+    "id": "sms-fd-4-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.2",
+    "title": "FD Booking - email advice on confirmation",
+    "text": "Electronic mail advice will be sent to Customer on booking FD's."
+  },
+  {
+    "id": "sms-fd-4-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.3",
+    "title": "PAN Requirement - absence of PAN restrictions",
+    "text": "In the absence of PAN, only deposits less than Rs 50,000/- can be booked. For booking deposits >= Rs 50,000/- without PAN, Customer is requested to visit the nearest branch. FD will be booked if permissible under the Bank's current policy."
+  },
+  {
+    "id": "sms-fd-4-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.4",
+    "title": "PAN Requirement - Section 114B of Income Tax Act",
+    "text": "As per the section 114B (c) of the Income Tax Act, every person shall quote his permanent account number in all transactions pertaining to a time deposit, exceeding fifty thousand rupees, with a banking company to which the Banking Regulation Act, 1949 (10 of 1949), applies (including any bank or banking institution referred to in section 51 of the Act)."
+  },
+  {
+    "id": "sms-fd-4-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.5",
+    "title": "PAN Requirement - Section 139A(5A) of Income Tax Act",
+    "text": "As per Section 139A(5A) of the Income Tax Act every person receiving any sum of income or amount from which tax has been deducted under the provisions of the Income Tax Act shall provide his PAN number to the person responsible for deducting such tax."
+  },
+  {
+    "id": "sms-fd-4-6",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "4.6",
+    "title": "Bank Not Liable - for non-availment of TDS credit",
+    "text": "In case the PAN number is not provided to the Bank as required the bank shall not be liable for the non availment of the credit of tax deducted at Source."
+  },
+  {
+    "id": "sms-fd-5-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.1",
+    "title": "Maturity Instructions - modification at branch",
+    "text": "To modify maturity instructions, you are requested to visit the nearest branch."
+  },
+  {
+    "id": "sms-fd-5-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.2",
+    "title": "Interest Rate - monthly interest option discounted",
+    "text": "The FD rate applicable for a monthly interest option will be a discounted rate over the standard FD Rate. Please contact the nearest Branch for further information."
+  },
+  {
+    "id": "sms-fd-5-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "5.3",
+    "title": "Interest Payout - less than Rs 100 credited to CASA",
+    "text": "Any interest/maturity payout less than or equal to Rs 100/- on Term Deposits shall be credited to the savings or current account, irrespective of the instruction given at the time of booking of the deposit or change anytime during the tenure of the deposit."
+  },
+  {
+    "id": "sms-fd-6-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "6.1",
+    "title": "Senior Citizen Rates - automatic ROI for registered customers",
+    "text": "If Customer is already registered as Sr. citizen with the Bank Customer will automatically receive the 0.50% additional ROI on all FD booking through all channels. If however, Customer is not registered as Sr. Citizen, we request Customer to visit the branch with age proof in order to avail the additional 0.50% ROI on FD bookings online as well as through other channels. Senior Citizen Rates are only for resident Indians and do not apply to NRIs."
+  },
+  {
+    "id": "sms-fd-7-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.1",
+    "title": "Premature Liquidation - effective 01st Dec 2006 interest rate",
+    "text": "Premature liquidation clause: effective 01st Dec 2006 the interest rate applicable on premature closure of deposits (all amounts) will be lower of: The rate for the original/contracted tenor for which the deposit has been booked OR The base rate applicable for the tenor for which the deposit has been in force with the Bank."
+  },
+  {
+    "id": "sms-fd-7-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.2",
+    "title": "Premature Liquidation - base rate for deposits after 7th March 2019",
+    "text": "For deposits booked on or after 7th march 2019, the base rate is the rate applicable to deposits of less than Rs. 2 Cr as on the date of booking the deposit. Prior to this the base rate is the rate applicable to deposits of less than Rs. 1 Cr as on the date of booking the deposit."
+  },
+  {
+    "id": "sms-fd-7-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.3",
+    "title": "Premature Liquidation - interest rate penalty",
+    "text": "As per terms and conditions of the fixed deposits accounts of the bank in case of premature closure of FD (including sweep in / partial closure) the interest rate will be 1.00% below the contracted rate or the base rate applicable for the period the deposit has remained with the Bank, whichever is lower, except for the deposits booked with tenor 7-14 days. In case of death, interest rate will be the contracted rate or the base rate applicable for the period the deposit has remained with the bank. This is applicable to all deposits booked/ auto renewed from 24th Jan 2011."
+  },
+  {
+    "id": "sms-fd-7-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.4",
+    "title": "Premature Liquidation - no penalty on NRE FD",
+    "text": "No penalty (reduced rate) will be levied on premature closure of NRE FD."
+  },
+  {
+    "id": "sms-fd-7-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "7.5",
+    "title": "Premature Liquidation - no interest within 7 days",
+    "text": "In case of Domestic and NRO deposits no interest will be paid if the deposit is liquidated within 7 days of the date of booking."
+  },
+  {
+    "id": "sms-fd-8-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "8.1",
+    "title": "Tax Deduction - TDS certificate issuance",
+    "text": "Customer agrees to the Bank issuing certificate in the prescribed form for tax deducted at source on interest on Fixed Deposits, after the end of every calendar quarter."
+  },
+  {
+    "id": "sms-fd-9-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.1",
+    "title": "Premature Liquidation - on death no penalty",
+    "text": "In the event of the death of the depositor, premature liquidation of the term deposit/s will be allowed. Such premature liquidation will not attract any penal charges."
+  },
+  {
+    "id": "sms-fd-9-2",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.2",
+    "title": "Payment - at any branch irrespective of booking location",
+    "text": "Customer agrees that the Bank will pay the Fixed Deposit amount either on maturity or premature withdrawal at any branch irrespective of the branch where the deposit is booked."
+  },
+  {
+    "id": "sms-fd-9-3",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.3",
+    "title": "Premature Withdrawal - recovery of interest and penalty",
+    "text": "Customer agrees that in case of premature withdrawal of the fixed deposit based on Customer's instructions or the instructions of all the joint depositors in the case of joint deposit, the Bank shall have the right to recover interest already paid or the penalty if any, from the proceeds of the FD in accordance with prevailing regulations of the Bank and the Reserve Bank of India."
+  },
+  {
+    "id": "sms-fd-9-4",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.4",
+    "title": "Joint Deposit - without survivorship clause",
+    "text": "In the event of the death of one of the joint account holders, the right to the deposit proceeds does not automatically devolve on the surviving joint deposit account holder, unless there is a survivorship clause."
+  },
+  {
+    "id": "sms-fd-9-5",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "9.5",
+    "title": "Joint Deposit - with survivorship clause",
+    "text": "Customer agrees that in case of joint FD's with a survivorship clause, the Bank shall be discharged by paying the FD proceeds prematurely to survivor/s, on request, in the event of death of one or more joint depositor."
+  },
+  {
+    "id": "sms-fd-10-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "10.1",
+    "title": "Interest Calculation - actual number of days",
+    "text": "Customer is aware that HDFC Bank computes interest on its Domestic, NRO and NRE deposit accounts based on the actual number of days in a year (i.e. 366 days in a leap year and 365 days in a non-leap year)."
+  },
+  {
+    "id": "sms-fd-11-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "11.1",
+    "title": "SMS/Missed Call - requests received after 10pm",
+    "text": "FD requests via SMS/Missed call received after 10pm will be carried out at the next working day on first in first out basis subject to availability of clear funds in the account authorized for debit."
+  },
+  {
+    "id": "sms-fd-12-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "12.1",
+    "title": "Service Charges - free service with possible VAS charges",
+    "text": "The service is free (VAS charges may apply for the SMS)."
+  },
+  {
+    "id": "sms-fd-13-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "13.1",
+    "title": "Insurance Coverage - DICGC insured deposits",
+    "text": "The deposits in the Bank are insured with DICGC for an amount of Rs 5 lakhs (principal + interest) per depositor."
+  },
+  {
+    "id": "sms-fd-14-1",
+    "category": "terms_and_conditions",
+    "type": "clause",
+    "clause_number": "14.1",
+    "title": "Further Information - website reference",
+    "text": "For further details, please visit our website: www.hdfcbank.com"
+  }
+]
